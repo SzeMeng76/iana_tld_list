@@ -52,12 +52,12 @@ jobs:
     - name: Generate update summary
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
-        echo "📊 **TLD数据更新报告**" > update_summary.md
+        echo "📊 **TLD Data Update Report**" > update_summary.md
         echo "" >> update_summary.md
-        echo "🕐 **更新时间**: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> update_summary.md
+        echo "🕐 **Update Time**: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> update_summary.md
         echo "" >> update_summary.md
         
-        # 统计TLD数量
+        # Count TLDs
         if [ -f "data/tld.json" ]; then
           TLD_COUNT=$(python3 -c "
 import json
@@ -73,25 +73,23 @@ try:
 except Exception as e:
     print(f'Error: {e}')
 ")
-          echo "📈 **TLD总数**: $TLD_COUNT" >> update_summary.md
+          echo "📈 **Total TLDs**: $TLD_COUNT" >> update_summary.md
         else
-          echo "❌ **TLD数据文件未找到**" >> update_summary.md
+          echo "❌ **TLD data file not found**" >> update_summary.md
         fi
         echo "" >> update_summary.md
         
-        # 检查新增的TLD
+        # Check for TLD changes
         if [ -f "data/tld.json.old" ] && [ -f "data/tld.json" ]; then
           python3 -c "
 import json
-import sys
-
 try:
     with open('data/tld.json.old', 'r') as f:
         old_data = json.load(f)
     with open('data/tld.json', 'r') as f:
         new_data = json.load(f)
         
-    # 处理不同的数据格式
+    # Handle different data formats
     if isinstance(old_data, dict):
         old_tlds = set(old_data.keys())
     elif isinstance(old_data, list):
@@ -110,33 +108,33 @@ try:
     removed = old_tlds - new_tlds
     
     if added:
-        print('🆕 **新增TLD**:')
-        for tld in sorted(added)[:20]:  # 限制显示前20个
+        print('🆕 **Added TLDs**:')
+        for tld in sorted(added)[:20]:  # Show first 20
             print(f'  - {tld}')
         if len(added) > 20:
-            print(f'  - ... 还有 {len(added)-20} 个')
+            print(f'  - ... and {len(added)-20} more')
         print()
         
     if removed:
-        print('🗑️ **移除TLD**:')
-        for tld in sorted(removed)[:20]:  # 限制显示前20个
+        print('🗑️ **Removed TLDs**:')
+        for tld in sorted(removed)[:20]:  # Show first 20
             print(f'  - {tld}')
         if len(removed) > 20:
-            print(f'  - ... 还有 {len(removed)-20} 个')
+            print(f'  - ... and {len(removed)-20} more')
         print()
         
     if not added and not removed:
-        print('✅ **无新增或移除的TLD，数据已更新**')
+        print('✅ **No TLD changes, data refreshed**')
         
 except Exception as e:
-    print(f'⚠️ 无法比较差异: {e}')
+    print(f'⚠️ Unable to compare differences: {e}')
 " >> update_summary.md
         fi
         
         echo "" >> update_summary.md
-        echo "🔄 **数据来源**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)" >> update_summary.md
-        echo "🤖 **自动更新**: GitHub Actions" >> update_summary.md
-        echo "📦 **原始项目**: [jophy/iana_tld_list](https://github.com/jophy/iana_tld_list)" >> update_summary.md
+        echo "🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)" >> update_summary.md
+        echo "🤖 **Auto-updated**: GitHub Actions" >> update_summary.md
+        echo "📦 **Original Project**: [jophy/iana_tld_list](https://github.com/jophy/iana_tld_list)" >> update_summary.md
         
     - name: Commit and push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
@@ -149,8 +147,8 @@ except Exception as e:
           git add update_summary.md
         fi
         
-        # 创建详细的提交信息
-        COMMIT_MSG="🌐 自动更新IANA TLD数据 - $(date -u '+%Y-%m-%d')"
+        # Create detailed commit message
+        COMMIT_MSG="feat: auto-update IANA TLD data - $(date -u '+%Y-%m-%d')"
         
         if [ -f "update_summary.md" ]; then
           git commit -m "$COMMIT_MSG" -m "$(cat update_summary.md)"
@@ -166,7 +164,7 @@ except Exception as e:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: "v$(date +'%Y.%m.%d')"
-        name: "TLD数据更新 - $(date +'%Y年%m月%d日')"
+        name: "TLD Data Update - $(date +'%Y-%m-%d')"
         body_path: update_summary.md
         draft: false
         prerelease: false
@@ -195,8 +193,8 @@ except Exception as e:
     - name: Report status
       run: |
         if [ "${{ needs.update-tld-data.result }}" == "success" ]; then
-          echo "✅ TLD数据更新工作流完成"
+          echo "✅ TLD data update workflow completed successfully"
         else
-          echo "❌ TLD数据更新工作流失败"
+          echo "❌ TLD data update workflow failed"
           exit 1
         fi
