@@ -59,20 +59,7 @@ jobs:
         
         # Count TLDs
         if [ -f "data/tld.json" ]; then
-          TLD_COUNT=$(python3 -c "
-import json
-try:
-    with open('data/tld.json', 'r') as f:
-        data = json.load(f)
-        if isinstance(data, dict):
-            print(len(data))
-        elif isinstance(data, list):
-            print(len(data))
-        else:
-            print('Unknown format')
-except Exception as e:
-    print(f'Error: {e}')
-")
+          TLD_COUNT=$(python3 generate_summary.py count)
           echo "📈 **Total TLDs**: $TLD_COUNT" >> update_summary.md
         else
           echo "❌ **TLD data file not found**" >> update_summary.md
@@ -80,56 +67,7 @@ except Exception as e:
         echo "" >> update_summary.md
         
         # Check for TLD changes
-        if [ -f "data/tld.json.old" ] && [ -f "data/tld.json" ]; then
-          python3 -c "
-import json
-try:
-    with open('data/tld.json.old', 'r') as f:
-        old_data = json.load(f)
-    with open('data/tld.json', 'r') as f:
-        new_data = json.load(f)
-        
-    # Handle different data formats
-    if isinstance(old_data, dict):
-        old_tlds = set(old_data.keys())
-    elif isinstance(old_data, list):
-        old_tlds = set(item.get('tld', item.get('dm', '')) for item in old_data)
-    else:
-        old_tlds = set()
-        
-    if isinstance(new_data, dict):
-        new_tlds = set(new_data.keys())
-    elif isinstance(new_data, list):
-        new_tlds = set(item.get('tld', item.get('dm', '')) for item in new_data)
-    else:
-        new_tlds = set()
-        
-    added = new_tlds - old_tlds
-    removed = old_tlds - new_tlds
-    
-    if added:
-        print('🆕 **Added TLDs**:')
-        for tld in sorted(added)[:20]:  # Show first 20
-            print(f'  - {tld}')
-        if len(added) > 20:
-            print(f'  - ... and {len(added)-20} more')
-        print()
-        
-    if removed:
-        print('🗑️ **Removed TLDs**:')
-        for tld in sorted(removed)[:20]:  # Show first 20
-            print(f'  - {tld}')
-        if len(removed) > 20:
-            print(f'  - ... and {len(removed)-20} more')
-        print()
-        
-    if not added and not removed:
-        print('✅ **No TLD changes, data refreshed**')
-        
-except Exception as e:
-    print(f'⚠️ Unable to compare differences: {e}')
-" >> update_summary.md
-        fi
+        python3 generate_summary.py compare >> update_summary.md
         
         echo "" >> update_summary.md
         echo "🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)" >> update_summary.md
