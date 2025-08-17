@@ -1,36 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-08-17 14:19:42 UTC
+🕐 **Update Time**: 2025-08-17 14:43:32 UTC
 
 📈 **Total TLDs**: 1440
 
-🆕 **Added TLDs**:
-  - .loan
-  - .loans
-
-🗑️ **Removed TLDs**:
-  - .abarth
-  - .adac
-  - .alfaromeo
-  - .avianca
-  - .bananarepublic
-  - .bentley
-  - .bugatti
-  - .cancerresearch
-  - .cbs
-  - .cityeats
-  - .comcast
-  - .cookingchannel
-  - .dabur
-  - .etisalat
-  - .fiat
-  - .foodnetwork
-  - .frontdoor
-  - .guardian
-  - .hgtv
-  - .hoteles
-  - ... and 27 more
-
+✅ **No TLD changes, data refreshed**
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
