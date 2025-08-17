@@ -95,22 +95,6 @@ jobs:
         fi
         git push
         
-    - name: Create Release
-      if: steps.verify-changed-files.outputs.changed == 'true'
-      uses: softprops/action-gh-release@v2
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: "v$(date +'%Y.%m.%d')"
-        name: "TLD Data Update - $(date +'%Y-%m-%d')"
-        body_path: update_summary.md
-        draft: false
-        prerelease: false
-        files: |
-          data/tld.json
-          data/tldlist.txt
-          data/tlds-alpha-by-domain.txt
-          
     - name: Upload TLD data as artifact
       if: steps.verify-changed-files.outputs.changed == 'true'
       uses: actions/upload-artifact@v4
