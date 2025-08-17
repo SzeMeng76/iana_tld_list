@@ -11,7 +11,7 @@ A comprehensive tool for downloading and parsing IANA Top-Level Domain database 
 - ✅ **Auto-Updated**: Weekly automated TLD data updates
 - 🤖 **GitHub Actions**: Automated execution and data publishing
 - 📈 **TLD Count**: 1500+ (continuously growing)
-- 🕐 **Last Update**: Tracked via GitHub Releases
+- 🕐 **Last Update**: Check commit history or tld.json file
 
 ## 🚀 Key Improvements
 
@@ -20,7 +20,7 @@ This fork adds the following features compared to the original project:
 ### 🔄 Automated Update Mechanism
 - Weekly automated execution (every Wednesday)
 - Manual trigger support
-- Automatic Release creation and data backup
+- Automatic data updates to tld.json
 
 ### 📊 Update Reports
 - Detailed TLD change statistics
@@ -38,10 +38,10 @@ This fork adds the following features compared to the original project:
 
 ```bash
 # Download latest TLD JSON data
-curl -L https://github.com/SzeMeng76/iana_tld_list/releases/latest/download/tld.json -o tld.json
+curl -L https://raw.githubusercontent.com/SzeMeng76/iana_tld_list/master/data/tld.json -o tld.json
 
 # Or using wget
-wget https://github.com/SzeMeng76/iana_tld_list/releases/latest/download/tld.json
+wget https://raw.githubusercontent.com/SzeMeng76/iana_tld_list/master/data/tld.json
 ```
 
 ### Use in Code

@@ -11,7 +11,7 @@
 - ✅ **自动更新**: 每周三自动更新 TLD 数据
 - 🤖 **GitHub Actions**: 自动化执行和数据发布
 - 📈 **TLD总数**: 1500+ (持续增长)
-- 🕐 **最后更新**: 通过 GitHub Releases 追踪
+- 🕐 **最后更新**: 查看提交历史或 tld.json 文件
 
 ## 🚀 主要改进
 
@@ -20,7 +20,7 @@
 ### 🔄 自动更新机制
 - 每周三自动执行
 - 支持手动触发更新
-- 自动创建 Release 和数据备份
+- 自动更新 tld.json 数据
 
 ### 📊 更新报告
 - 详细的 TLD 变更统计
@@ -38,10 +38,10 @@
 
 ```bash
 # 下载最新的 TLD JSON 数据
-curl -L https://github.com/SzeMeng76/iana_tld_list/releases/latest/download/tld.json -o tld.json
+curl -L https://raw.githubusercontent.com/SzeMeng76/iana_tld_list/master/data/tld.json -o tld.json
 
 # 或使用 wget
-wget https://github.com/SzeMeng76/iana_tld_list/releases/latest/download/tld.json
+wget https://raw.githubusercontent.com/SzeMeng76/iana_tld_list/master/data/tld.json
 ```
 
 ### 在代码中使用
