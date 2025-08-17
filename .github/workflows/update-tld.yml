@@ -1,0 +1,202 @@
+name: Update IANA TLD Data
+
+on:
+  schedule:
+    # 每周三 UTC 02:00 运行 (北京时间周三 10:00)
+    - cron: '0 2 * * 3'
+  workflow_dispatch: # 允许手动触发
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - '.github/workflows/update-tld.yml'
+
+jobs:
+  update-tld-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml aiohttp
+        
+    - name: Backup old data for comparison
+      run: |
+        if [ -f "data/tld.json" ]; then
+          cp data/tld.json data/tld.json.old
+        fi
+        
+    - name: Run TLD data update
+      run: |
+        python update_tld.py --non-interactive --overwrite --verbose --force-download
+        
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Generate update summary
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        echo "📊 **TLD数据更新报告**" > update_summary.md
+        echo "" >> update_summary.md
+        echo "🕐 **更新时间**: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> update_summary.md
+        echo "" >> update_summary.md
+        
+        # 统计TLD数量
+        if [ -f "data/tld.json" ]; then
+          TLD_COUNT=$(python3 -c "
+import json
+try:
+    with open('data/tld.json', 'r') as f:
+        data = json.load(f)
+        if isinstance(data, dict):
+            print(len(data))
+        elif isinstance(data, list):
+            print(len(data))
+        else:
+            print('Unknown format')
+except Exception as e:
+    print(f'Error: {e}')
+")
+          echo "📈 **TLD总数**: $TLD_COUNT" >> update_summary.md
+        else
+          echo "❌ **TLD数据文件未找到**" >> update_summary.md
+        fi
+        echo "" >> update_summary.md
+        
+        # 检查新增的TLD
+        if [ -f "data/tld.json.old" ] && [ -f "data/tld.json" ]; then
+          python3 -c "
+import json
+import sys
+
+try:
+    with open('data/tld.json.old', 'r') as f:
+        old_data = json.load(f)
+    with open('data/tld.json', 'r') as f:
+        new_data = json.load(f)
+        
+    # 处理不同的数据格式
+    if isinstance(old_data, dict):
+        old_tlds = set(old_data.keys())
+    elif isinstance(old_data, list):
+        old_tlds = set(item.get('tld', item.get('dm', '')) for item in old_data)
+    else:
+        old_tlds = set()
+        
+    if isinstance(new_data, dict):
+        new_tlds = set(new_data.keys())
+    elif isinstance(new_data, list):
+        new_tlds = set(item.get('tld', item.get('dm', '')) for item in new_data)
+    else:
+        new_tlds = set()
+        
+    added = new_tlds - old_tlds
+    removed = old_tlds - new_tlds
+    
+    if added:
+        print('🆕 **新增TLD**:')
+        for tld in sorted(added)[:20]:  # 限制显示前20个
+            print(f'  - {tld}')
+        if len(added) > 20:
+            print(f'  - ... 还有 {len(added)-20} 个')
+        print()
+        
+    if removed:
+        print('🗑️ **移除TLD**:')
+        for tld in sorted(removed)[:20]:  # 限制显示前20个
+            print(f'  - {tld}')
+        if len(removed) > 20:
+            print(f'  - ... 还有 {len(removed)-20} 个')
+        print()
+        
+    if not added and not removed:
+        print('✅ **无新增或移除的TLD，数据已更新**')
+        
+except Exception as e:
+    print(f'⚠️ 无法比较差异: {e}')
+" >> update_summary.md
+        fi
+        
+        echo "" >> update_summary.md
+        echo "🔄 **数据来源**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)" >> update_summary.md
+        echo "🤖 **自动更新**: GitHub Actions" >> update_summary.md
+        echo "📦 **原始项目**: [jophy/iana_tld_list](https://github.com/jophy/iana_tld_list)" >> update_summary.md
+        
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        git add data/
+        if [ -f "update_summary.md" ]; then
+          git add update_summary.md
+        fi
+        
+        # 创建详细的提交信息
+        COMMIT_MSG="🌐 自动更新IANA TLD数据 - $(date -u '+%Y-%m-%d')"
+        
+        if [ -f "update_summary.md" ]; then
+          git commit -m "$COMMIT_MSG" -m "$(cat update_summary.md)"
+        else
+          git commit -m "$COMMIT_MSG"
+        fi
+        git push
+        
+    - name: Create Release
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      uses: softprops/action-gh-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: "v$(date +'%Y.%m.%d')"
+        name: "TLD数据更新 - $(date +'%Y年%m月%d日')"
+        body_path: update_summary.md
+        draft: false
+        prerelease: false
+        files: |
+          data/tld.json
+          data/tldlist.txt
+          data/tlds-alpha-by-domain.txt
+          
+    - name: Upload TLD data as artifact
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      uses: actions/upload-artifact@v3
+      with:
+        name: "tld-data-$(date +'%Y%m%d')"
+        path: |
+          data/tld.json
+          data/tldlist.txt
+          data/tlds-alpha-by-domain.txt
+        retention-days: 90
+
+  notify-status:
+    needs: update-tld-data
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+    - name: Report status
+      run: |
+        if [ "${{ needs.update-tld-data.result }}" == "success" ]; then
+          echo "✅ TLD数据更新工作流完成"
+        else
+          echo "❌ TLD数据更新工作流失败"
+          exit 1
+        fi
