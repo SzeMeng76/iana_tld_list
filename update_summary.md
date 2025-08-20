@@ -1,6 +1,6 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-08-17 14:43:32 UTC
+🕐 **Update Time**: 2025-08-20 03:11:28 UTC
 
 📈 **Total TLDs**: 1440
 
