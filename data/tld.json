@@ -2116,7 +2116,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.cc/",
     "whois": "ccwhois.verisign-grs.com",
-    "lastUpdate": "2023-10-04",
+    "lastUpdate": "2025-08-21",
     "registration": "1997-10-13"
   },
   ".cd": {
@@ -2796,7 +2796,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.cr/",
     "whois": "whois.nic.cr",
-    "lastUpdate": "2025-02-18",
+    "lastUpdate": "2025-08-22",
     "registration": "1990-09-10"
   },
   ".credit": {
@@ -2886,7 +2886,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.cu",
     "whois": "NULL",
-    "lastUpdate": "2025-07-09",
+    "lastUpdate": "2025-08-22",
     "registration": "1992-06-03"
   },
   ".cuisinella": {
@@ -3356,7 +3356,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.do",
     "whois": "whois.nic.do",
-    "lastUpdate": "2023-01-18",
+    "lastUpdate": "2025-08-21",
     "registration": "1991-08-25"
   },
   ".docs": {
@@ -3596,7 +3596,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.egregistry.eg/",
     "whois": "NULL",
-    "lastUpdate": "2024-04-24",
+    "lastUpdate": "2025-08-22",
     "registration": "1990-11-30"
   },
   ".email": {
@@ -4136,7 +4136,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.domains.fj/",
     "whois": "www.whois.fj",
-    "lastUpdate": "2025-04-21",
+    "lastUpdate": "2025-08-25",
     "registration": "1992-06-03"
   },
   ".fk": {
@@ -5656,7 +5656,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.weare.ie",
     "whois": "whois.weare.ie",
-    "lastUpdate": "2025-06-20",
+    "lastUpdate": "2025-08-22",
     "registration": "1988-01-27"
   },
   ".ieee": {
@@ -6546,7 +6546,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.la",
     "whois": "whois.nic.la",
-    "lastUpdate": "2023-03-17",
+    "lastUpdate": "2025-08-21",
     "registration": "1996-05-14"
   },
   ".lacaixa": {
@@ -7146,7 +7146,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.lv/",
     "whois": "whois.nic.lv",
-    "lastUpdate": "2024-10-04",
+    "lastUpdate": "2025-08-22",
     "registration": "1993-04-29"
   },
   ".ly": {
@@ -7906,7 +7906,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.registrar.mw",
     "whois": "whois.nic.mw",
-    "lastUpdate": "2025-07-22",
+    "lastUpdate": "2025-08-21",
     "registration": "1997-01-03"
   },
   ".mx": {
@@ -8786,7 +8786,7 @@
     "tldType": "ccTLD",
     "nic": "NULL",
     "whois": "whois.nic.pg",
-    "lastUpdate": "2025-04-25",
+    "lastUpdate": "2025-08-22",
     "registration": "1991-09-26"
   },
   ".ph": {
@@ -9276,7 +9276,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.ps",
     "whois": "NULL",
-    "lastUpdate": "2024-11-13",
+    "lastUpdate": "2025-08-22",
     "registration": "2000-03-22"
   },
   ".pt": {
@@ -9464,9 +9464,9 @@
     "dm": ".redstone",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www/redstone-cn.com",
-    "whois": "whois.nic.redstone",
-    "lastUpdate": "2024-12-13",
+    "nic": "NULL",
+    "whois": "NULL",
+    "lastUpdate": "2025-08-26",
     "registration": "2015-03-06"
   },
   ".redumbrella": {
@@ -9816,7 +9816,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.ricta.org.rw",
     "whois": "whois.ricta.org.rw",
-    "lastUpdate": "2025-06-11",
+    "lastUpdate": "2025-08-26",
     "registration": "1996-10-21"
   },
   ".rwe": {
@@ -10926,7 +10926,7 @@
     "tldType": "ccTLD",
     "nic": "NULL",
     "whois": "whois.tcinet.ru",
-    "lastUpdate": "2025-06-03",
+    "lastUpdate": "2025-08-21",
     "registration": "1990-09-19"
   },
   ".sucks": {
@@ -11506,7 +11506,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.tonic.to/",
     "whois": "whois.tonicregistry.to",
-    "lastUpdate": "2025-08-01",
+    "lastUpdate": "2025-08-21",
     "registration": "1995-12-18"
   },
   ".today": {
@@ -11716,7 +11716,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.tt",
     "whois": "NULL",
-    "lastUpdate": "2025-07-07",
+    "lastUpdate": "2025-08-22",
     "registration": "1991-09-03"
   },
   ".tube": {
@@ -11766,7 +11766,7 @@
     "tldType": "ccTLD",
     "nic": "https://turnon.tv/",
     "whois": "whois.nic.tv",
-    "lastUpdate": "2024-05-20",
+    "lastUpdate": "2025-08-21",
     "registration": "1996-03-18"
   },
   ".tvs": {
