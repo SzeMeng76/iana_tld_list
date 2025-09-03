@@ -726,7 +726,7 @@
     "tldType": "gTLD",
     "nic": "http://www.registry.asia",
     "whois": "whois.nic.asia",
-    "lastUpdate": "2023-08-03",
+    "lastUpdate": "2025-09-01",
     "registration": "2007-05-02"
   },
   ".associates": {
@@ -1144,9 +1144,9 @@
     "dm": ".bd",
     "isIDN": "False",
     "tldType": "ccTLD",
-    "nic": "http://domainreg.btcl.com.bd/",
+    "nic": "https://bdia.btcl.com.bd/",
     "whois": "NULL",
-    "lastUpdate": "2024-05-29",
+    "lastUpdate": "2025-09-01",
     "registration": "1999-05-20"
   },
   ".be": {
@@ -1466,7 +1466,7 @@
     "tldType": "gTLD",
     "nic": "http://www.bnpparibas.com/en/about-us",
     "whois": "whois.nic.bnpparibas",
-    "lastUpdate": "2023-08-28",
+    "lastUpdate": "2025-08-28",
     "registration": "2014-07-31"
   },
   ".bo": {
@@ -2576,7 +2576,7 @@
     "tldType": "gTLD",
     "nic": "https://www.nic.koeln",
     "whois": "whois.ryce-rsp.com",
-    "lastUpdate": "2025-03-04",
+    "lastUpdate": "2025-09-01",
     "registration": "2014-03-13"
   },
   ".com": {
@@ -3616,7 +3616,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.emerck",
     "whois": "whois.nic.emerck",
-    "lastUpdate": "2023-10-16",
+    "lastUpdate": "2025-08-27",
     "registration": "2014-09-11"
   },
   ".energy": {
@@ -4366,7 +4366,7 @@
     "tldType": "gTLD",
     "nic": "https://nic.frogans/",
     "whois": "whois.nic.frogans",
-    "lastUpdate": "2023-10-16",
+    "lastUpdate": "2025-08-27",
     "registration": "2014-04-03"
   },
   ".frontier": {
@@ -4956,7 +4956,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.gp/",
     "whois": "whois.nic.gp",
-    "lastUpdate": "2023-01-18",
+    "lastUpdate": "2025-08-29",
     "registration": "1996-10-21"
   },
   ".gq": {
@@ -5256,7 +5256,7 @@
     "tldType": "gTLD",
     "nic": "http://www.hel.fi",
     "whois": "whois.nic.helsinki",
-    "lastUpdate": "2023-09-25",
+    "lastUpdate": "2025-08-27",
     "registration": "2015-12-10"
   },
   ".here": {
@@ -5336,7 +5336,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dot.asia/namesphere/",
     "whois": "whois.nic.hkt",
-    "lastUpdate": "2023-08-03",
+    "lastUpdate": "2025-08-27",
     "registration": "2016-04-15"
   },
   ".hm": {
@@ -5966,7 +5966,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.istanbul",
     "whois": "whois.nic.ist",
-    "lastUpdate": "2023-08-03",
+    "lastUpdate": "2025-08-28",
     "registration": "2015-05-29"
   },
   ".istanbul": {
@@ -5976,7 +5976,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.istanbul",
     "whois": "whois.nic.istanbul",
-    "lastUpdate": "2023-08-03",
+    "lastUpdate": "2025-08-28",
     "registration": "2015-05-29"
   },
   ".it": {
@@ -6006,7 +6006,7 @@
     "tldType": "gTLD",
     "nic": "http://www.itv.com",
     "whois": "whois.nic.itv",
-    "lastUpdate": "2023-08-11",
+    "lastUpdate": "2025-08-27",
     "registration": "2016-05-19"
   },
   ".jaguar": {
@@ -6216,7 +6216,7 @@
     "tldType": "gTLD",
     "nic": "http://uniregistry.link",
     "whois": "whois.uniregistry.net",
-    "lastUpdate": "2025-05-15",
+    "lastUpdate": "2025-08-30",
     "registration": "2014-05-08"
   },
   ".juniper": {
@@ -6336,7 +6336,7 @@
     "tldType": "gTLD",
     "nic": "https://www.dotkids.asia",
     "whois": "whois.nic.kids",
-    "lastUpdate": "2023-08-03",
+    "lastUpdate": "2025-09-02",
     "registration": "2022-03-05"
   },
   ".kim": {
@@ -6406,7 +6406,7 @@
     "tldType": "gTLD",
     "nic": "https://www.nic.koeln",
     "whois": "whois.ryce-rsp.com",
-    "lastUpdate": "2025-03-07",
+    "lastUpdate": "2025-09-01",
     "registration": "2014-02-20"
   },
   ".komatsu": {
@@ -6966,7 +6966,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dish.com",
     "whois": "whois.nic.locker",
-    "lastUpdate": "2025-05-23",
+    "lastUpdate": "2025-09-02",
     "registration": "2016-05-19"
   },
   ".locus": {
@@ -8156,7 +8156,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nira.org.ng/",
     "whois": "whois.nic.net.ng",
-    "lastUpdate": "2023-03-13",
+    "lastUpdate": "2025-09-01",
     "registration": "1995-03-15"
   },
   ".ngo": {
@@ -8316,7 +8316,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dot.asia/namesphere/",
     "whois": "whois.nic.nowtv",
-    "lastUpdate": "2023-08-03",
+    "lastUpdate": "2025-08-27",
     "registration": "2016-04-15"
   },
   ".np": {
@@ -8736,7 +8736,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dot.asia/namesphere/",
     "whois": "whois.nic.pccw",
-    "lastUpdate": "2023-08-03",
+    "lastUpdate": "2025-08-27",
     "registration": "2016-04-15"
   },
   ".pe": {
@@ -8888,16 +8888,6 @@
     "whois": "whois.nic.pics",
     "lastUpdate": "2025-08-12",
     "registration": "2014-01-09"
-  },
-  ".pictet": {
-    "tld": "pictet",
-    "dm": ".pictet",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "NULL",
-    "whois": "whois.nic.pictet",
-    "lastUpdate": "2025-04-29",
-    "registration": "2015-01-08"
   },
   ".pictures": {
     "tld": "pictures",
@@ -9459,16 +9449,6 @@
     "lastUpdate": "2023-09-01",
     "registration": "2014-01-16"
   },
-  ".redstone": {
-    "tld": "redstone",
-    "dm": ".redstone",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "NULL",
-    "whois": "NULL",
-    "lastUpdate": "2025-08-26",
-    "registration": "2015-03-06"
-  },
   ".redumbrella": {
     "tld": "redumbrella",
     "dm": ".redumbrella",
@@ -9656,7 +9636,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dot.asia/namesphere/",
     "whois": "whois.nic.richardli",
-    "lastUpdate": "2023-08-03",
+    "lastUpdate": "2025-08-27",
     "registration": "2016-04-15"
   },
   ".ricoh": {
@@ -10856,7 +10836,7 @@
     "tldType": "gTLD",
     "nic": "http://www.stockholm.se/",
     "whois": "whois.nic.stockholm",
-    "lastUpdate": "2023-08-07",
+    "lastUpdate": "2025-08-27",
     "registration": "2015-09-17"
   },
   ".storage": {
@@ -11116,7 +11096,7 @@
     "tldType": "gTLD",
     "nic": "http://www.alibabagroup.com",
     "whois": "whois.nic.taobao",
-    "lastUpdate": "2023-08-11",
+    "lastUpdate": "2025-08-27",
     "registration": "2016-01-08"
   },
   ".target": {
@@ -11266,7 +11246,7 @@
     "tldType": "gTLD",
     "nic": "http://www.temasek.com.sg/nictemasek",
     "whois": "whois.nic.temasek",
-    "lastUpdate": "2023-08-11",
+    "lastUpdate": "2025-08-27",
     "registration": "2014-12-18"
   },
   ".tennis": {
@@ -11406,7 +11386,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.tirol",
     "whois": "whois.nic.tirol",
-    "lastUpdate": "2025-03-13",
+    "lastUpdate": "2025-09-01",
     "registration": "2014-05-29"
   },
   ".tj": {
@@ -11486,7 +11466,7 @@
     "tldType": "gTLD",
     "nic": "http://www.alibabagroup.com",
     "whois": "whois.nic.tmall",
-    "lastUpdate": "2023-08-11",
+    "lastUpdate": "2025-08-27",
     "registration": "2016-01-08"
   },
   ".tn": {
@@ -12456,7 +12436,7 @@
     "tldType": "gTLD",
     "nic": "https://www.nic.wien",
     "whois": "whois.nic.wien",
-    "lastUpdate": "2025-03-07",
+    "lastUpdate": "2025-09-01",
     "registration": "2013-12-19"
   },
   ".wiki": {
@@ -13016,7 +12996,7 @@
     "tldType": "gTLD",
     "nic": "http://www.temasek.com.sg/nicdan4ma3xi1",
     "whois": "whois.nic.xn--b4w605ferd",
-    "lastUpdate": "2023-08-11",
+    "lastUpdate": "2025-08-27",
     "registration": "2014-12-18"
   },
   ".ファッション": {
@@ -13276,7 +13256,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dot.asia/namesphere/",
     "whois": "whois.nic.xn--fzys8d69uvgm",
-    "lastUpdate": "2023-08-03",
+    "lastUpdate": "2025-08-27",
     "registration": "2016-04-15"
   },
   ".购物": {
@@ -13586,7 +13566,7 @@
     "tldType": "ccTLD",
     "nic": "https://dns.jo/",
     "whois": "NULL",
-    "lastUpdate": "2025-08-19",
+    "lastUpdate": "2025-08-29",
     "registration": "2010-08-20"
   },
   ".بارت": {

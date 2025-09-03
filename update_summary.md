@@ -1,10 +1,13 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-08-27 03:05:02 UTC
+🕐 **Update Time**: 2025-09-03 03:04:10 UTC
 
-📈 **Total TLDs**: 1440
+📈 **Total TLDs**: 1438
 
-✅ **No TLD changes, data refreshed**
+🗑️ **Removed TLDs**:
+  - .pictet
+  - .redstone
+
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
