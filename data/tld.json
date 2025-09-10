@@ -655,8 +655,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.archi",
-    "lastUpdate": "2023-08-31",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-03-20"
   },
   ".army": {
@@ -1225,8 +1225,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.bet",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2015-07-16"
   },
   ".bf": {
@@ -1276,7 +1276,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.bi",
     "whois": "whois1.nic.bi",
-    "lastUpdate": "2025-07-07",
+    "lastUpdate": "2025-09-05",
     "registration": "1996-10-21"
   },
   ".bible": {
@@ -1335,8 +1335,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.bio",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-05-15"
   },
   ".biz": {
@@ -1365,8 +1365,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.black",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-03-20"
   },
   ".blackfriday": {
@@ -1415,8 +1415,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.blue",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-01-23"
   },
   ".bm": {
@@ -2435,8 +2435,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
-    "whois": "whois.nic.click",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2014-08-15"
   },
   ".clinic": {
@@ -2745,8 +2745,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
-    "whois": "whois.nic.country",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2014-02-28"
   },
   ".coupon": {
@@ -3305,8 +3305,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
-    "whois": "whois.nic.diy",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2016-07-21"
   },
   ".dj": {
@@ -4245,8 +4245,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
-    "whois": "whois.nic.food",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2016-11-04"
   },
   ".football": {
@@ -4295,8 +4295,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "http://www.topspectrum.com",
-    "whois": "whois.nic.forum",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.registry.click",
+    "lastUpdate": "2025-09-08",
     "registration": "2015-06-11"
   },
   ".foundation": {
@@ -4695,8 +4695,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "http://uniregistry.link",
-    "whois": "whois.uniregistry.net",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2014-01-09"
   },
   ".gifts": {
@@ -4956,7 +4956,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.gp/",
     "whois": "whois.nic.gp",
-    "lastUpdate": "2025-08-29",
+    "lastUpdate": "2025-09-09",
     "registration": "1996-10-21"
   },
   ".gq": {
@@ -5015,8 +5015,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.green",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-06-12"
   },
   ".gripe": {
@@ -5076,7 +5076,7 @@
     "tldType": "ccTLD",
     "nic": "https://give.uog.edu/shop/",
     "whois": "NULL",
-    "lastUpdate": "2022-08-04",
+    "lastUpdate": "2025-09-08",
     "registration": "1994-04-15"
   },
   ".gucci": {
@@ -5315,8 +5315,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
-    "whois": "whois.nic.hiv",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2014-05-22"
   },
   ".hk": {
@@ -5795,8 +5795,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.info",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2001-06-26"
   },
   ".ing": {
@@ -6345,8 +6345,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.kim",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2013-12-19"
   },
   ".kindle": {
@@ -6765,8 +6765,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.lgbt",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-06-26"
   },
   ".li": {
@@ -6815,8 +6815,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
-    "whois": "whois.nic.lifestyle",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2015-10-01"
   },
   ".lighting": {
@@ -6885,8 +6885,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "http://uniregistry.link",
-    "whois": "whois.uniregistry.net",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2014-01-09"
   },
   ".live": {
@@ -6905,8 +6905,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
-    "whois": "whois.nic.living",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2015-12-10"
   },
   ".lk": {
@@ -6925,8 +6925,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.llc",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2018-02-16"
   },
   ".llp": {
@@ -7015,8 +7015,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.lotto",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-06-05"
   },
   ".love": {
@@ -7239,86 +7239,6 @@
     "lastUpdate": "2022-01-07",
     "registration": "2014-01-23"
   },
-  ".map": {
-    "tld": "map",
-    "dm": ".map",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.registry.google",
-    "whois": "NULL",
-    "lastUpdate": "2025-04-11",
-    "registration": "2017-06-08"
-  },
-  ".market": {
-    "tld": "market",
-    "dm": ".market",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.market",
-    "lastUpdate": "2023-09-13",
-    "registration": "2014-05-22"
-  },
-  ".marketing": {
-    "tld": "marketing",
-    "dm": ".marketing",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.marketing",
-    "lastUpdate": "2023-09-12",
-    "registration": "2014-01-09"
-  },
-  ".markets": {
-    "tld": "markets",
-    "dm": ".markets",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.markets",
-    "lastUpdate": "2023-09-12",
-    "registration": "2015-03-06"
-  },
-  ".marriott": {
-    "tld": "marriott",
-    "dm": ".marriott",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.marriott.com",
-    "whois": "whois.nic.marriott",
-    "lastUpdate": "2024-05-02",
-    "registration": "2014-12-18"
-  },
-  ".marshalls": {
-    "tld": "marshalls",
-    "dm": ".marshalls",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.tjx.com",
-    "whois": "NULL",
-    "lastUpdate": "2024-05-11",
-    "registration": "2016-04-07"
-  },
-  ".mattel": {
-    "tld": "mattel",
-    "dm": ".mattel",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.mattel.com",
-    "whois": "NULL",
-    "lastUpdate": "2025-06-10",
-    "registration": "2016-01-22"
-  },
-  ".mba": {
-    "tld": "mba",
-    "dm": ".mba",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.mba",
-    "lastUpdate": "2023-09-12",
-    "registration": "2015-05-14"
-  },
   ".mc": {
     "tld": "mc",
     "dm": ".mc",
@@ -7328,56 +7248,6 @@
     "whois": "NULL",
     "lastUpdate": "2025-07-31",
     "registration": "1995-01-20"
-  },
-  ".mckinsey": {
-    "tld": "mckinsey",
-    "dm": ".mckinsey",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.mckinsey.com/",
-    "whois": "whois.nic.mckinsey",
-    "lastUpdate": "2023-08-11",
-    "registration": "2016-07-21"
-  },
-  ".md": {
-    "tld": "md",
-    "dm": ".md",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.nic.md",
-    "whois": "whois.nic.md",
-    "lastUpdate": "2023-11-07",
-    "registration": "1994-03-24"
-  },
-  ".me": {
-    "tld": "me",
-    "dm": ".me",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.domain.me",
-    "whois": "whois.nic.me",
-    "lastUpdate": "2020-10-19",
-    "registration": "2007-09-24"
-  },
-  ".med": {
-    "tld": "med",
-    "dm": ".med",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "NULL",
-    "whois": "NULL",
-    "lastUpdate": "2025-01-28",
-    "registration": "2015-11-12"
-  },
-  ".media": {
-    "tld": "media",
-    "dm": ".media",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.media",
-    "lastUpdate": "2023-09-12",
-    "registration": "2014-04-03"
   },
   ".meet": {
     "tld": "meet",
@@ -7389,36 +7259,6 @@
     "lastUpdate": "2025-04-11",
     "registration": "2014-03-20"
   },
-  ".melbourne": {
-    "tld": "melbourne",
-    "dm": ".melbourne",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.live.melbourne/",
-    "whois": "whois.nic.melbourne",
-    "lastUpdate": "2024-04-17",
-    "registration": "2014-07-03"
-  },
-  ".meme": {
-    "tld": "meme",
-    "dm": ".meme",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.registry.google",
-    "whois": "NULL",
-    "lastUpdate": "2025-04-11",
-    "registration": "2014-06-12"
-  },
-  ".memorial": {
-    "tld": "memorial",
-    "dm": ".memorial",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.memorial",
-    "lastUpdate": "2023-09-13",
-    "registration": "2014-11-20"
-  },
   ".men": {
     "tld": "men",
     "dm": ".men",
@@ -7429,46 +7269,6 @@
     "lastUpdate": "2024-05-11",
     "registration": "2015-05-08"
   },
-  ".menu": {
-    "tld": "menu",
-    "dm": ".menu",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.nic.menu",
-    "whois": "whois.nic.menu",
-    "lastUpdate": "2024-07-05",
-    "registration": "2013-11-13"
-  },
-  ".merckmsd": {
-    "tld": "merckmsd",
-    "dm": ".merckmsd",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "NULL",
-    "whois": "whois.nic.merckmsd",
-    "lastUpdate": "2025-01-24",
-    "registration": "2017-06-15"
-  },
-  ".mg": {
-    "tld": "mg",
-    "dm": ".mg",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.nic.mg",
-    "whois": "whois.nic.mg",
-    "lastUpdate": "2025-06-12",
-    "registration": "1995-07-25"
-  },
-  ".mh": {
-    "tld": "mh",
-    "dm": ".mh",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.nic.net.mh/",
-    "whois": "NULL",
-    "lastUpdate": "2013-08-03",
-    "registration": "1996-08-16"
-  },
   ".miami": {
     "tld": "miami",
     "dm": ".miami",
@@ -7478,76 +7278,6 @@
     "whois": "whois.nic.miami",
     "lastUpdate": "2024-04-17",
     "registration": "2014-02-28"
-  },
-  ".microsoft": {
-    "tld": "microsoft",
-    "dm": ".microsoft",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.microsoft.com",
-    "whois": "NULL",
-    "lastUpdate": "2025-05-01",
-    "registration": "2015-04-30"
-  },
-  ".mil": {
-    "tld": "mil",
-    "dm": ".mil",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "NULL",
-    "whois": "NULL",
-    "lastUpdate": "2025-07-08",
-    "registration": "1985-01-01"
-  },
-  ".mini": {
-    "tld": "mini",
-    "dm": ".mini",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://nic.mini.com",
-    "whois": "whois.nic.mini",
-    "lastUpdate": "2023-11-06",
-    "registration": "2014-06-05"
-  },
-  ".mint": {
-    "tld": "mint",
-    "dm": ".mint",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.intuit.com/",
-    "whois": "NULL",
-    "lastUpdate": "2024-05-11",
-    "registration": "2016-06-09"
-  },
-  ".mit": {
-    "tld": "mit",
-    "dm": ".mit",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.mit.edu",
-    "whois": "whois.nic.mit",
-    "lastUpdate": "2023-08-04",
-    "registration": "2016-06-24"
-  },
-  ".mitsubishi": {
-    "tld": "mitsubishi",
-    "dm": ".mitsubishi",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.gmoregistry.com/en/",
-    "whois": "whois.nic.gmo",
-    "lastUpdate": "2023-06-20",
-    "registration": "2016-06-24"
-  },
-  ".mk": {
-    "tld": "mk",
-    "dm": ".mk",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://marnet.mk/",
-    "whois": "whois.marnet.mk",
-    "lastUpdate": "2024-02-15",
-    "registration": "1993-09-23"
   },
   ".ml": {
     "tld": "ml",
@@ -7625,8 +7355,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.mobi",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2005-10-17"
   },
   ".mobile": {
@@ -8346,7 +8076,7 @@
     "tldType": "gTLD",
     "nic": "http://contact.nra.org/contact-us.aspx",
     "whois": "whois.nic.nra",
-    "lastUpdate": "2023-08-08",
+    "lastUpdate": "2025-09-09",
     "registration": "2014-07-10"
   },
   ".nrw": {
@@ -8585,8 +8315,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.organic",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-05-29"
   },
   ".origins": {
@@ -8755,8 +8485,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.pet",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2015-07-16"
   },
   ".pf": {
@@ -8889,6 +8619,16 @@
     "lastUpdate": "2025-08-12",
     "registration": "2014-01-09"
   },
+  ".pictet": {
+    "tld": "pictet",
+    "dm": ".pictet",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "NULL",
+    "whois": "whois.nic.pictet",
+    "lastUpdate": "2025-04-29",
+    "registration": "2015-01-08"
+  },
   ".pictures": {
     "tld": "pictures",
     "dm": ".pictures",
@@ -8935,8 +8675,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.pink",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2013-12-19"
   },
   ".pioneer": {
@@ -9075,8 +8815,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.poker",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-09-04"
   },
   ".politie": {
@@ -9155,8 +8895,8 @@
     "isIDN": "False",
     "tldType": "ccTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.pro",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2002-05-08"
   },
   ".prod": {
@@ -9205,8 +8945,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.promo",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2015-12-18"
   },
   ".properties": {
@@ -9225,8 +8965,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
-    "whois": "whois.nic.property",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2014-08-15"
   },
   ".protection": {
@@ -9445,8 +9185,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.red",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-01-16"
   },
   ".redumbrella": {
@@ -10026,7 +9766,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.sc",
     "whois": "whois.nic.sc",
-    "lastUpdate": "2024-04-29",
+    "lastUpdate": "2025-09-09",
     "registration": "1997-05-09"
   },
   ".scb": {
@@ -10255,8 +9995,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
-    "whois": "whois.nic.sexy",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2013-11-08"
   },
   ".sfr": {
@@ -10335,8 +10075,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.shiksha",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-01-16"
   },
   ".shoes": {
@@ -10465,8 +10205,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.ski",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2015-05-14"
   },
   ".skin": {
@@ -11675,8 +11415,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
-    "whois": "whois.nic.trust",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2014-11-26"
   },
   ".trv": {
@@ -11746,7 +11486,7 @@
     "tldType": "ccTLD",
     "nic": "https://turnon.tv/",
     "whois": "whois.nic.tv",
-    "lastUpdate": "2025-08-21",
+    "lastUpdate": "2025-09-04",
     "registration": "1996-03-18"
   },
   ".tvs": {
@@ -11935,8 +11675,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://nic.vana",
-    "whois": "whois.nic.vana",
-    "lastUpdate": "2025-05-15",
+    "whois": "whois.tucowsregistry.net",
+    "lastUpdate": "2025-09-08",
     "registration": "2015-09-24"
   },
   ".vanguard": {
@@ -12246,7 +11986,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.hello.vu",
     "whois": "whois.dnrs.vu",
-    "lastUpdate": "2024-05-21",
+    "lastUpdate": "2025-09-05",
     "registration": "1995-04-10"
   },
   ".wales": {
@@ -12315,8 +12055,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.watches",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2015-11-12"
   },
   ".weather": {
@@ -12855,8 +12595,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.xn--6frz82g",
-    "lastUpdate": "2023-09-01",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
     "registration": "2014-01-23"
   },
   ".我爱你": {

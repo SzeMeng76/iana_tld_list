@@ -1,12 +1,34 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-09-03 03:04:10 UTC
+🕐 **Update Time**: 2025-09-10 03:06:27 UTC
 
-📈 **Total TLDs**: 1438
+📈 **Total TLDs**: 1412
+
+🆕 **Added TLDs**:
+  - .pictet
 
 🗑️ **Removed TLDs**:
-  - .pictet
-  - .redstone
+  - .map
+  - .market
+  - .marketing
+  - .markets
+  - .marriott
+  - .marshalls
+  - .mattel
+  - .mba
+  - .mckinsey
+  - .md
+  - .me
+  - .med
+  - .media
+  - .melbourne
+  - .meme
+  - .memorial
+  - .menu
+  - .merckmsd
+  - .mg
+  - .mh
+  - ... and 7 more
 
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
