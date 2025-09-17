@@ -1,13 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-09-10 03:06:27 UTC
+🕐 **Update Time**: 2025-09-17 02:59:33 UTC
 
-📈 **Total TLDs**: 1412
+📈 **Total TLDs**: 1439
 
 🆕 **Added TLDs**:
-  - .pictet
-
-🗑️ **Removed TLDs**:
   - .map
   - .market
   - .marketing
