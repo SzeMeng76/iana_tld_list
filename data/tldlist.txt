@@ -372,7 +372,7 @@ erni -- .erni -- False -- gTLD -- http://www.erni.ch -- whois.nic.erni -- 2022-0
 es -- .es -- False -- ccTLD -- http://www.nic.es/ -- whois.nic.es -- 2025-07-11 -- 1988-04-14
 esq -- .esq -- False -- gTLD -- https://www.registry.google -- NULL -- 2025-04-11 -- 2014-08-23
 estate -- .estate -- False -- gTLD -- https://www.identity.digital/ -- whois.nic.estate -- 2023-09-13 -- 2013-11-08
-et -- .et -- False -- ccTLD -- http://www.ethiotelecom.et -- NULL -- 2025-04-04 -- 1995-10-15
+et -- .et -- False -- ccTLD -- http://www.ethiotelecom.et -- NULL -- 2025-09-19 -- 1995-10-15
 eu -- .eu -- False -- ccTLD -- http://www.eurid.eu -- whois.eu -- 2024-05-22 -- 2005-04-28
 eurovision -- .eurovision -- False -- gTLD -- https://www.ebu.ch/ -- whois.nic.eurovision -- 2022-01-07 -- 2014-08-28
 eus -- .eus -- False -- gTLD -- https://www.domeinuak.eus -- whois.nic.eus -- 2022-01-07 -- 2014-03-06
@@ -705,7 +705,7 @@ lpl -- .lpl -- False -- gTLD -- NULL -- whois.nic.lpl -- 2023-10-05 -- 2016-06-3
 lplfinancial -- .lplfinancial -- False -- gTLD -- NULL -- whois.nic.lplfinancial -- 2023-10-05 -- 2016-06-30
 lr -- .lr -- False -- ccTLD -- http://psg.com/dns/lr -- NULL -- 2024-04-03 -- 1997-04-09
 ls -- .ls -- False -- ccTLD -- http://www.nic.ls -- whois.nic.ls -- 2024-06-17 -- 1993-01-13
-lt -- .lt -- False -- ccTLD -- http://www.domreg.lt -- whois.domreg.lt -- 2025-02-28 -- 1992-06-03
+lt -- .lt -- False -- ccTLD -- http://www.domreg.lt -- whois.domreg.lt -- 2025-09-19 -- 1992-06-03
 ltd -- .ltd -- False -- gTLD -- https://www.identity.digital/ -- whois.nic.ltd -- 2023-09-12 -- 2015-08-06
 ltda -- .ltda -- False -- gTLD -- http://www.internetx.info -- whois.nic.ltda -- 2023-08-03 -- 2014-07-03
 lu -- .lu -- False -- ccTLD -- http://www.dns.lu -- whois.dns.lu -- 2023-07-28 -- 1995-01-27
@@ -747,7 +747,7 @@ mg -- .mg -- False -- ccTLD -- http://www.nic.mg -- whois.nic.mg -- 2025-06-12 -
 mh -- .mh -- False -- ccTLD -- http://www.nic.net.mh/ -- NULL -- 2013-08-03 -- 1996-08-16
 miami -- .miami -- False -- gTLD -- http://nic.miami -- whois.nic.miami -- 2024-04-17 -- 2014-02-28
 microsoft -- .microsoft -- False -- gTLD -- http://www.microsoft.com -- NULL -- 2025-05-01 -- 2015-04-30
-mil -- .mil -- False -- gTLD -- NULL -- NULL -- 2025-07-08 -- 1985-01-01
+mil -- .mil -- False -- gTLD -- NULL -- NULL -- 2025-09-23 -- 1985-01-01
 mini -- .mini -- False -- gTLD -- http://nic.mini.com -- whois.nic.mini -- 2023-11-06 -- 2014-06-05
 mint -- .mint -- False -- gTLD -- https://www.intuit.com/ -- NULL -- 2024-05-11 -- 2016-06-09
 mit -- .mit -- False -- gTLD -- http://www.mit.edu -- whois.nic.mit -- 2023-08-04 -- 2016-06-24
@@ -933,7 +933,7 @@ pwc -- .pwc -- False -- gTLD -- http://pwc.com -- whois.nic.pwc -- 2023-08-11 --
 py -- .py -- False -- ccTLD -- http://www.nic.py -- NULL -- 2023-01-18 -- 1991-09-09
 qa -- .qa -- False -- ccTLD -- https://www.cra.gov.qa/ -- whois.registry.qa -- 2022-02-07 -- 1996-06-12
 qpon -- .qpon -- False -- gTLD -- http://www.nic.qpon -- whois.nic.qpon -- 2023-11-17 -- 2014-01-09
-quebec -- .quebec -- False -- gTLD -- http://www.registre.quebec -- whois.nic.quebec -- 2023-09-13 -- 2014-03-13
+quebec -- .quebec -- False -- gTLD -- http://www.registre.quebec -- whois.nic.quebec -- 2025-09-19 -- 2014-03-13
 quest -- .quest -- False -- gTLD -- https://nic.quest/ -- whois.nic.quest -- 2025-08-12 -- 2015-08-06
 racing -- .racing -- False -- gTLD -- http://nic.racing -- whois.nic.racing -- 2024-05-11 -- 2015-03-26
 radio -- .radio -- False -- gTLD -- https://www.nic.radio/ -- whois.nic.radio -- 2022-01-07 -- 2016-09-22
@@ -1017,7 +1017,7 @@ search -- .search -- False -- gTLD -- https://www.registry.google -- NULL -- 202
 seat -- .seat -- False -- gTLD -- http://www.seat.com/content/com/com/en/contact/abuse.html -- whois.nic.seat -- 2022-01-07 -- 2015-03-06
 secure -- .secure -- False -- gTLD -- http://www.nic.secure -- NULL -- 2025-02-14 -- 2016-07-21
 security -- .security -- False -- gTLD -- https://nic.security/ -- whois.nic.security -- 2025-08-12 -- 2015-09-03
-seek -- .seek -- False -- gTLD -- https://www.seek.com.au/about/ -- whois.nic.seek -- 2023-11-30 -- 2015-04-16
+seek -- .seek -- False -- gTLD -- https://www.seek.com.au/about/ -- whois.nic.seek -- 2025-09-18 -- 2015-04-16
 select -- .select -- False -- gTLD -- http://nic.select/ -- whois.nic.select -- 2024-04-17 -- 2015-12-23
 sener -- .sener -- False -- gTLD -- http://sener.es -- whois.nic.rwe -- 2024-07-25 -- 2015-04-02
 services -- .services -- False -- gTLD -- https://www.identity.digital/ -- whois.nic.services -- 2023-09-12 -- 2014-04-03

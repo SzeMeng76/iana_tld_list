@@ -1,32 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-09-17 02:59:33 UTC
+🕐 **Update Time**: 2025-09-24 03:07:07 UTC
 
 📈 **Total TLDs**: 1439
 
-🆕 **Added TLDs**:
-  - .map
-  - .market
-  - .marketing
-  - .markets
-  - .marriott
-  - .marshalls
-  - .mattel
-  - .mba
-  - .mckinsey
-  - .md
-  - .me
-  - .med
-  - .media
-  - .melbourne
-  - .meme
-  - .memorial
-  - .menu
-  - .merckmsd
-  - .mg
-  - .mh
-  - ... and 7 more
-
+✅ **No TLD changes, data refreshed**
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions

@@ -3746,7 +3746,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.ethiotelecom.et",
     "whois": "NULL",
-    "lastUpdate": "2025-04-04",
+    "lastUpdate": "2025-09-19",
     "registration": "1995-10-15"
   },
   ".eu": {
@@ -7076,7 +7076,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.domreg.lt",
     "whois": "whois.domreg.lt",
-    "lastUpdate": "2025-02-28",
+    "lastUpdate": "2025-09-19",
     "registration": "1992-06-03"
   },
   ".ltd": {
@@ -7496,7 +7496,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "NULL",
-    "lastUpdate": "2025-07-08",
+    "lastUpdate": "2025-09-23",
     "registration": "1985-01-01"
   },
   ".mini": {
@@ -9356,7 +9356,7 @@
     "tldType": "gTLD",
     "nic": "http://www.registre.quebec",
     "whois": "whois.nic.quebec",
-    "lastUpdate": "2023-09-13",
+    "lastUpdate": "2025-09-19",
     "registration": "2014-03-13"
   },
   ".quest": {
@@ -10196,7 +10196,7 @@
     "tldType": "gTLD",
     "nic": "https://www.seek.com.au/about/",
     "whois": "whois.nic.seek",
-    "lastUpdate": "2023-11-30",
+    "lastUpdate": "2025-09-18",
     "registration": "2015-04-16"
   },
   ".select": {
