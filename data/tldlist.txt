@@ -250,7 +250,7 @@ club -- .club -- False -- gTLD -- http://nic.club/ -- whois.nic.club -- 2024-04-
 clubmed -- .clubmed -- False -- gTLD -- NULL -- whois.nic.clubmed -- 2024-03-31 -- 2015-09-24
 cm -- .cm -- False -- ccTLD -- https://www.nic.cm -- whois.nic.cm -- 2025-07-15 -- 1995-04-29
 cn -- .cn -- False -- ccTLD -- http://www.cnnic.cn/ -- whois.cnnic.cn -- 2025-07-17 -- 1990-11-28
-co -- .co -- False -- ccTLD -- http://www.cointernet.com.co -- whois.nic.co -- 2025-09-16 -- 1991-12-24
+co -- .co -- False -- ccTLD -- http://www.cointernet.com.co -- whois.nic.co -- 2025-09-30 -- 1991-12-24
 coach -- .coach -- False -- gTLD -- https://www.identity.digital/ -- whois.nic.coach -- 2023-09-12 -- 2014-11-20
 codes -- .codes -- False -- gTLD -- https://www.identity.digital/ -- whois.nic.codes -- 2023-09-12 -- 2013-12-19
 coffee -- .coffee -- False -- gTLD -- https://www.identity.digital/ -- whois.nic.coffee -- 2023-09-12 -- 2013-12-19
@@ -618,8 +618,8 @@ jot -- .jot -- False -- gTLD -- http://www.nic.jot -- NULL -- 2025-02-14 -- 2015
 joy -- .joy -- False -- gTLD -- http://www.nic.joy -- NULL -- 2025-02-14 -- 2015-11-12
 jp -- .jp -- False -- ccTLD -- https://jprs.jp/ -- whois.jprs.jp -- 2024-11-06 -- 1986-08-05
 jpmorgan -- .jpmorgan -- False -- gTLD -- http://www.jpmorganchase.com -- NULL -- 2024-05-11 -- 2016-01-14
-jprs -- .jprs -- False -- gTLD -- https://nic.jprs/ -- whois.nic.jprs -- 2024-11-29 -- 2014-12-18
-juegos -- .juegos -- False -- gTLD -- http://uniregistry.link -- whois.uniregistry.net -- 2025-09-10 -- 2014-05-08
+jprs -- .jprs -- False -- gTLD -- https://nic.jprs/ -- whois.nic.jprs -- 2025-09-30 -- 2014-12-18
+juegos -- .juegos -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-09-25 -- 2014-05-08
 juniper -- .juniper -- False -- gTLD -- http://juniper.net -- whois.nic.juniper -- 2023-08-11 -- 2016-06-30
 kaufen -- .kaufen -- False -- gTLD -- https://www.identity.digital/ -- whois.nic.kaufen -- 2023-09-12 -- 2013-12-19
 kddi -- .kddi -- False -- gTLD -- http://nic.kddi -- whois.nic.kddi -- 2019-08-20 -- 2014-12-18
@@ -1180,7 +1180,7 @@ tz -- .tz -- False -- ccTLD -- https://karibu.tz/ -- whois.tznic.or.tz -- 2023-0
 ua -- .ua -- False -- ccTLD -- https://www.hostmaster.ua/ -- whois.ua -- 2024-11-30 -- 1992-12-01
 ubank -- .ubank -- False -- gTLD -- http://www.ubank.com.au/ -- whois.nic.ubank -- 2023-08-11 -- 2016-08-04
 ubs -- .ubs -- False -- gTLD -- NULL -- whois.nic.ubs -- 2023-08-11 -- 2015-06-11
-ug -- .ug -- False -- ccTLD -- http://www.registry.co.ug -- whois.co.ug -- 2012-10-26 -- 1995-03-08
+ug -- .ug -- False -- ccTLD -- http://www.registry.co.ug -- whois.co.ug -- 2025-09-30 -- 1995-03-08
 uk -- .uk -- False -- ccTLD -- http://www.nic.uk/ -- whois.nic.uk -- 2023-03-07 -- 1985-07-24
 unicom -- .unicom -- False -- gTLD -- http://www.chinaunicom.cn -- whois.nic.unicom -- 2024-12-12 -- 2016-01-22
 university -- .university -- False -- gTLD -- https://www.identity.digital/ -- whois.nic.university -- 2023-09-12 -- 2014-04-03
