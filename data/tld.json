@@ -785,8 +785,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.auction",
-    "lastUpdate": "2023-09-12",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2014-04-24"
   },
   ".audi": {
@@ -1995,8 +1995,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.careers",
-    "lastUpdate": "2023-09-12",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2013-12-12"
   },
   ".cars": {
@@ -2524,9 +2524,9 @@
     "dm": ".co",
     "isIDN": "False",
     "tldType": "ccTLD",
-    "nic": "http://www.cointernet.com.co",
-    "whois": "whois.nic.co",
-    "lastUpdate": "2025-10-06",
+    "nic": "http://www.registry.co",
+    "whois": "whois.registry.co",
+    "lastUpdate": "2025-10-08",
     "registration": "1991-12-24"
   },
   ".coach": {
@@ -2555,8 +2555,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.coffee",
-    "lastUpdate": "2023-09-12",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2013-12-19"
   },
   ".college": {
@@ -3506,7 +3506,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.dz",
     "whois": "whois.nic.dz",
-    "lastUpdate": "2025-10-01",
+    "lastUpdate": "2025-10-10",
     "registration": "1994-01-03"
   },
   ".earth": {
@@ -4415,8 +4415,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.fund",
-    "lastUpdate": "2023-09-13",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2014-04-17"
   },
   ".furniture": {
@@ -5045,8 +5045,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.group",
-    "lastUpdate": "2023-09-12",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2015-07-30"
   },
   ".gs": {
@@ -5185,8 +5185,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.haus",
-    "lastUpdate": "2023-09-12",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2014-03-26"
   },
   ".hbo": {
@@ -5235,8 +5235,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.healthcare",
-    "lastUpdate": "2023-09-12",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2014-07-24"
   },
   ".help": {
@@ -9795,8 +9795,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.run",
-    "lastUpdate": "2023-09-13",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2015-04-30"
   },
   ".rw": {
@@ -10355,8 +10355,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.shoes",
-    "lastUpdate": "2023-09-12",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2013-12-12"
   },
   ".shop": {
@@ -10955,8 +10955,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.support",
-    "lastUpdate": "2023-09-13",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2013-12-12"
   },
   ".surf": {
@@ -11585,8 +11585,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.town",
-    "lastUpdate": "2023-09-12",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2014-04-03"
   },
   ".toyota": {
@@ -14365,8 +14365,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.zone",
-    "lastUpdate": "2023-09-12",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
     "registration": "2014-01-09"
   },
   ".zuerich": {
