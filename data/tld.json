@@ -3454,9 +3454,9 @@
     "dm": ".dunlop",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.goodyear.com",
-    "whois": "whois.nic.dunlop",
-    "lastUpdate": "2023-08-11",
+    "nic": "NULL",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-21",
     "registration": "2015-12-17"
   },
   ".dupont": {
@@ -9766,7 +9766,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.cctld.ru/en",
     "whois": "whois.tcinet.ru",
-    "lastUpdate": "2024-12-03",
+    "lastUpdate": "2025-10-21",
     "registration": "1994-04-07"
   },
   ".rugby": {
@@ -11136,7 +11136,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dottatar.ru",
     "whois": "whois.nic.tatar",
-    "lastUpdate": "2024-12-03",
+    "lastUpdate": "2025-10-21",
     "registration": "2014-07-03"
   },
   ".tattoo": {
@@ -12646,7 +12646,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dotxin.org",
     "whois": "whois.nic.xin",
-    "lastUpdate": "2024-11-12",
+    "lastUpdate": "2025-10-21",
     "registration": "2015-02-19"
   },
   ".कॉम": {
@@ -13846,7 +13846,7 @@
     "tldType": "ccTLD",
     "nic": "http://cctld.ru/en",
     "whois": "whois.tcinet.ru",
-    "lastUpdate": "2024-12-03",
+    "lastUpdate": "2025-10-21",
     "registration": "2010-05-12"
   },
   ".تونس": {
