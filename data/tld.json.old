@@ -536,7 +536,7 @@
     "tldType": "gTLD",
     "nic": "http://www.teleinfo.cn",
     "whois": "whois.teleinfo.cn",
-    "lastUpdate": "2025-04-30",
+    "lastUpdate": "2025-10-24",
     "registration": "2016-03-18"
   },
   ".anz": {
@@ -3449,16 +3449,6 @@
     "lastUpdate": "2020-05-21",
     "registration": "2015-12-17"
   },
-  ".dunlop": {
-    "tld": "dunlop",
-    "dm": ".dunlop",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "NULL",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-21",
-    "registration": "2015-12-17"
-  },
   ".dupont": {
     "tld": "dupont",
     "dm": ".dupont",
@@ -3686,7 +3676,7 @@
     "tldType": "ccTLD",
     "nic": "NULL",
     "whois": "NULL",
-    "lastUpdate": "2023-11-01",
+    "lastUpdate": "2025-10-28",
     "registration": "1996-09-24"
   },
   ".ericsson": {
@@ -6256,7 +6246,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.kenic.or.ke",
     "whois": "whois.kenic.or.ke",
-    "lastUpdate": "2024-08-06",
+    "lastUpdate": "2025-10-25",
     "registration": "1993-04-29"
   },
   ".kerryhotels": {
@@ -8246,7 +8236,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nissay.co.jp/english/",
     "whois": "whois.nic.nissay",
-    "lastUpdate": "2020-10-01",
+    "lastUpdate": "2025-10-24",
     "registration": "2016-01-08"
   },
   ".nl": {
@@ -9766,7 +9756,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.cctld.ru/en",
     "whois": "whois.tcinet.ru",
-    "lastUpdate": "2025-10-21",
+    "lastUpdate": "2025-10-22",
     "registration": "1994-04-07"
   },
   ".rugby": {
@@ -10386,7 +10376,7 @@
     "tldType": "gTLD",
     "nic": "http://www.teleinfo.cn",
     "whois": "whois.teleinfo.cn",
-    "lastUpdate": "2025-04-30",
+    "lastUpdate": "2025-10-24",
     "registration": "2016-03-18"
   },
   ".show": {
@@ -11496,7 +11486,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.tonic.to/",
     "whois": "whois.tonicregistry.to",
-    "lastUpdate": "2025-08-21",
+    "lastUpdate": "2025-10-28",
     "registration": "1995-12-18"
   },
   ".today": {
@@ -11916,7 +11906,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.cctld.uz/",
     "whois": "whois.cctld.uz",
-    "lastUpdate": "2025-04-17",
+    "lastUpdate": "2025-10-24",
     "registration": "1995-04-29"
   },
   ".va": {
@@ -12636,7 +12626,7 @@
     "tldType": "gTLD",
     "nic": "http://www.teleinfo.cn",
     "whois": "whois.teleinfo.cn",
-    "lastUpdate": "2025-04-30",
+    "lastUpdate": "2025-10-24",
     "registration": "2016-03-18"
   },
   ".xin": {
@@ -12846,7 +12836,7 @@
     "tldType": "gTLD",
     "nic": "http://www.shangri-la.com/",
     "whois": "whois.nic.xn--5su34j936bgsg",
-    "lastUpdate": "2023-01-18",
+    "lastUpdate": "2025-10-24",
     "registration": "2016-06-24"
   },
   ".网站": {
@@ -13846,7 +13836,7 @@
     "tldType": "ccTLD",
     "nic": "http://cctld.ru/en",
     "whois": "whois.tcinet.ru",
-    "lastUpdate": "2025-10-21",
+    "lastUpdate": "2025-10-22",
     "registration": "2010-05-12"
   },
   ".تونس": {
@@ -14056,7 +14046,7 @@
     "tldType": "gTLD",
     "nic": "http://www.kerryprops.com",
     "whois": "whois.nic.xn--w4r85el8fhu5dnra",
-    "lastUpdate": "2023-01-19",
+    "lastUpdate": "2025-10-24",
     "registration": "2016-02-05"
   },
   ".嘉里": {
@@ -14066,7 +14056,7 @@
     "tldType": "gTLD",
     "nic": "http://www.kerryprops.com",
     "whois": "whois.nic.xn--w4rs40l",
-    "lastUpdate": "2023-01-19",
+    "lastUpdate": "2025-10-24",
     "registration": "2016-02-05"
   },
   ".مصر": {
@@ -14296,7 +14286,7 @@
     "tldType": "gTLD",
     "nic": "http://www.teleinfo.cn",
     "whois": "whois.teleinfo.cn",
-    "lastUpdate": "2025-04-30",
+    "lastUpdate": "2025-10-24",
     "registration": "2016-03-18"
   },
   ".za": {

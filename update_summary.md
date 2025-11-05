@@ -1,11 +1,11 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-10-29 03:22:50 UTC
+🕐 **Update Time**: 2025-11-05 03:15:04 UTC
 
-📈 **Total TLDs**: 1438
+📈 **Total TLDs**: 1437
 
 🗑️ **Removed TLDs**:
-  - .dunlop
+  - .ooo
 
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)

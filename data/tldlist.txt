@@ -57,7 +57,7 @@ ao -- .ao -- False -- ccTLD -- http://www.dns.ao/ -- NULL -- 2024-09-09 -- 1995-
 aol -- .aol -- False -- gTLD -- http://www.aol.com -- whois.nic.aol -- 2024-05-15 -- 2016-10-27
 apartments -- .apartments -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2015-02-05
 app -- .app -- False -- gTLD -- https://www.registry.google -- NULL -- 2025-04-11 -- 2015-06-25
-apple -- .apple -- False -- gTLD -- http://www.apple.com/ -- whois.nic.apple -- 2025-04-10 -- 2015-07-02
+apple -- .apple -- False -- gTLD -- http://www.apple.com/ -- whois.nic.apple -- 2025-11-04 -- 2015-07-02
 aq -- .aq -- False -- ccTLD -- NULL -- NULL -- 2025-01-21 -- 1992-02-26
 aquarelle -- .aquarelle -- False -- gTLD -- https://www.aquarelle.com -- whois.nic.aquarelle -- 2024-11-08 -- 2014-11-06
 ar -- .ar -- False -- ccTLD -- https://nic.ar -- whois.nic.ar -- 2025-04-17 -- 1987-09-23
@@ -330,7 +330,7 @@ discover -- .discover -- False -- gTLD -- https://www.discover.com/ -- whois.nic
 dish -- .dish -- False -- gTLD -- http://www.dish.com/ -- whois.nic.dish -- 2025-07-22 -- 2016-08-04
 diy -- .diy -- False -- gTLD -- https://internetnaming.co -- whois.tucowsregistry.net -- 2025-09-08 -- 2016-07-21
 dj -- .dj -- False -- ccTLD -- http://www.nic.dj -- NULL -- 2024-12-25 -- 1996-05-22
-dk -- .dk -- False -- ccTLD -- https://punktum.dk/ -- whois.punktum.dk -- 2025-06-17 -- 1987-07-14
+dk -- .dk -- False -- ccTLD -- https://punktum.dk/ -- whois.punktum.dk -- 2025-10-30 -- 1987-07-14
 dm -- .dm -- False -- ccTLD -- http://www.nic.dm -- whois.dmdomains.dm -- 2024-05-29 -- 1991-09-03
 dnp -- .dnp -- False -- gTLD -- http://www.gmoregistry.com/ -- whois.nic.dnp -- 2019-08-28 -- 2014-02-27
 do -- .do -- False -- ccTLD -- http://www.nic.do -- whois.nic.do -- 2025-08-21 -- 1991-08-25
@@ -712,7 +712,7 @@ lundbeck -- .lundbeck -- False -- gTLD -- NULL -- whois.nic.lundbeck -- 2023-08-
 luxe -- .luxe -- False -- gTLD -- http://nic.luxe/ -- whois.nic.luxe -- 2024-04-17 -- 2014-03-13
 luxury -- .luxury -- False -- gTLD -- https://join.luxury/ -- whois.nic.luxury -- 2023-10-05 -- 2014-01-09
 lv -- .lv -- False -- ccTLD -- http://www.nic.lv/ -- whois.nic.lv -- 2025-08-22 -- 1993-04-29
-ly -- .ly -- False -- ccTLD -- https://wsm.ltt.ly/ -- whois.nic.ly -- 2024-11-04 -- 1997-04-23
+ly -- .ly -- False -- ccTLD -- https://wsm.ltt.ly/ -- whois.nic.ly -- 2025-11-01 -- 1997-04-23
 ma -- .ma -- False -- ccTLD -- http://www.registre.ma -- whois.registre.ma -- 2025-06-08 -- 1993-11-26
 madrid -- .madrid -- False -- gTLD -- http://dominios.madrid.org -- whois.nic.madrid -- 2022-01-07 -- 2014-10-02
 maif -- .maif -- False -- gTLD -- http://www.maif.fr -- whois.nic.maif -- 2024-03-31 -- 2015-02-13
@@ -850,7 +850,7 @@ one -- .one -- False -- gTLD -- http://www.one.com/ -- whois.nic.one -- 2023-12-
 ong -- .ong -- False -- gTLD -- http://nic.ong -- whois.nic.ong -- 2025-08-14 -- 2014-07-10
 onl -- .onl -- False -- gTLD -- http://www.i-registry.com -- whois.nic.onl -- 2025-06-23 -- 2013-12-12
 online -- .online -- False -- gTLD -- https://radix.website/ -- whois.nic.online -- 2025-05-08 -- 2015-03-06
-ooo -- .ooo -- False -- gTLD -- http://www.infibeam.com -- whois.nic.ooo -- 2024-04-30 -- 2014-07-31
+ooo -- NULL -- False -- ccTLD -- NULL -- NULL -- NULL -- NULL
 open -- .open -- False -- gTLD -- https://www.americanexpress.com -- whois.nic.open -- 2024-05-11 -- 2016-07-21
 oracle -- .oracle -- False -- gTLD -- NULL -- whois.nic.oracle -- 2024-02-09 -- 2015-01-15
 orange -- .orange -- False -- gTLD -- NULL -- whois.nic.orange -- 2024-03-31 -- 2015-06-18
