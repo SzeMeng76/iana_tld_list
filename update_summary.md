@@ -1,11 +1,28 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-11-05 03:15:04 UTC
+🕐 **Update Time**: 2025-11-12 03:26:03 UTC
 
-📈 **Total TLDs**: 1437
+📈 **Total TLDs**: 1423
+
+🆕 **Added TLDs**:
+  - .ooo
 
 🗑️ **Removed TLDs**:
-  - .ooo
+  - .istanbul
+  - .it
+  - .itau
+  - .itv
+  - .java
+  - .jcb
+  - .je
+  - .jeep
+  - .jetzt
+  - .jewelry
+  - .jio
+  - .jll
+  - .jm
+  - .jo
+  - .jobs
 
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)

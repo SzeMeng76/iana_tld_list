@@ -596,7 +596,7 @@
     "tldType": "gTLD",
     "nic": "http://www.apple.com/",
     "whois": "whois.nic.apple",
-    "lastUpdate": "2025-04-10",
+    "lastUpdate": "2025-11-04",
     "registration": "2015-07-02"
   },
   ".aq": {
@@ -3326,7 +3326,7 @@
     "tldType": "ccTLD",
     "nic": "https://punktum.dk/",
     "whois": "whois.punktum.dk",
-    "lastUpdate": "2025-06-17",
+    "lastUpdate": "2025-10-30",
     "registration": "1987-07-14"
   },
   ".dm": {
@@ -7146,7 +7146,7 @@
     "tldType": "ccTLD",
     "nic": "https://wsm.ltt.ly/",
     "whois": "whois.nic.ly",
-    "lastUpdate": "2024-11-04",
+    "lastUpdate": "2025-11-01",
     "registration": "1997-04-23"
   },
   ".ma": {
@@ -8518,16 +8518,6 @@
     "whois": "whois.nic.online",
     "lastUpdate": "2025-05-08",
     "registration": "2015-03-06"
-  },
-  ".ooo": {
-    "tld": "ooo",
-    "dm": ".ooo",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.infibeam.com",
-    "whois": "whois.nic.ooo",
-    "lastUpdate": "2024-04-30",
-    "registration": "2014-07-31"
   },
   ".open": {
     "tld": "open",
