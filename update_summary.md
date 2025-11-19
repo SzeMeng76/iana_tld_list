@@ -1,13 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-11-12 03:26:03 UTC
+🕐 **Update Time**: 2025-11-19 03:18:24 UTC
 
-📈 **Total TLDs**: 1423
+📈 **Total TLDs**: 1427
 
 🆕 **Added TLDs**:
-  - .ooo
-
-🗑️ **Removed TLDs**:
   - .istanbul
   - .it
   - .itau
@@ -23,6 +20,19 @@
   - .jm
   - .jo
   - .jobs
+
+🗑️ **Removed TLDs**:
+  - .uno
+  - .ups
+  - .us
+  - .uy
+  - .uz
+  - .viajes
+  - .vig
+  - .villas
+  - .vin
+  - .vip
+  - .virgin
 
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)

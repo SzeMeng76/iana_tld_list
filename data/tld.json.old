@@ -166,7 +166,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.domini.ad",
     "whois": "whois.nic.ad",
-    "lastUpdate": "2024-09-16",
+    "lastUpdate": "2025-11-10",
     "registration": "1996-01-09"
   },
   ".ads": {
@@ -336,7 +336,7 @@
     "tldType": "gTLD",
     "nic": "http://www.airtel.in",
     "whois": "whois.nic.airtel",
-    "lastUpdate": "2023-11-21",
+    "lastUpdate": "2025-11-10",
     "registration": "2015-06-18"
   },
   ".akdn": {
@@ -594,9 +594,9 @@
     "dm": ".apple",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.apple.com/",
-    "whois": "whois.nic.apple",
-    "lastUpdate": "2025-11-04",
+    "nic": "https://www.nic.apple/",
+    "whois": "NULL",
+    "lastUpdate": "2025-11-10",
     "registration": "2015-07-02"
   },
   ".aq": {
@@ -1266,7 +1266,7 @@
     "tldType": "gTLD",
     "nic": "http://www.bharti.com/wps/wcm/connect/BhartiPortal/Bharti/home",
     "whois": "NULL",
-    "lastUpdate": "2023-11-21",
+    "lastUpdate": "2025-11-10",
     "registration": "2015-05-08"
   },
   ".bi": {
@@ -1816,7 +1816,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.cira.ca/",
     "whois": "whois.cira.ca",
-    "lastUpdate": "2023-09-19",
+    "lastUpdate": "2025-11-06",
     "registration": "1987-05-14"
   },
   ".cab": {
@@ -5959,46 +5959,6 @@
     "lastUpdate": "2025-08-28",
     "registration": "2015-05-29"
   },
-  ".istanbul": {
-    "tld": "istanbul",
-    "dm": ".istanbul",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.nic.istanbul",
-    "whois": "whois.nic.istanbul",
-    "lastUpdate": "2025-08-28",
-    "registration": "2015-05-29"
-  },
-  ".it": {
-    "tld": "it",
-    "dm": ".it",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "https://www.nic.it/",
-    "whois": "whois.nic.it",
-    "lastUpdate": "2025-01-28",
-    "registration": "1987-12-23"
-  },
-  ".itau": {
-    "tld": "itau",
-    "dm": ".itau",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.itau.com",
-    "whois": "NULL",
-    "lastUpdate": "2024-05-11",
-    "registration": "2015-05-29"
-  },
-  ".itv": {
-    "tld": "itv",
-    "dm": ".itv",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.itv.com",
-    "whois": "whois.nic.itv",
-    "lastUpdate": "2025-08-27",
-    "registration": "2016-05-19"
-  },
   ".jaguar": {
     "tld": "jaguar",
     "dm": ".jaguar",
@@ -6008,96 +5968,6 @@
     "whois": "whois.nic.jaguar",
     "lastUpdate": "2023-08-11",
     "registration": "2015-10-15"
-  },
-  ".java": {
-    "tld": "java",
-    "dm": ".java",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "NULL",
-    "whois": "whois.nic.java",
-    "lastUpdate": "2024-02-09",
-    "registration": "2015-01-15"
-  },
-  ".jcb": {
-    "tld": "jcb",
-    "dm": ".jcb",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://nic.jcb",
-    "whois": "whois.nic.gmo",
-    "lastUpdate": "2019-08-20",
-    "registration": "2015-01-08"
-  },
-  ".je": {
-    "tld": "je",
-    "dm": ".je",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.nic.je",
-    "whois": "whois.je",
-    "lastUpdate": "2024-02-12",
-    "registration": "1996-08-08"
-  },
-  ".jeep": {
-    "tld": "jeep",
-    "dm": ".jeep",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.fcausllc.com/",
-    "whois": "whois.nic.jeep",
-    "lastUpdate": "2023-08-11",
-    "registration": "2016-07-07"
-  },
-  ".jetzt": {
-    "tld": "jetzt",
-    "dm": ".jetzt",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-07",
-    "registration": "2014-03-06"
-  },
-  ".jewelry": {
-    "tld": "jewelry",
-    "dm": ".jewelry",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-07",
-    "registration": "2015-04-09"
-  },
-  ".jio": {
-    "tld": "jio",
-    "dm": ".jio",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.ril.com",
-    "whois": "whois.nic.jio",
-    "lastUpdate": "2024-04-23",
-    "registration": "2016-08-11"
-  },
-  ".jll": {
-    "tld": "jll",
-    "dm": ".jll",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.jll.com",
-    "whois": "whois.nic.jll",
-    "lastUpdate": "2023-08-11",
-    "registration": "2015-05-14"
-  },
-  ".jm": {
-    "tld": "jm",
-    "dm": ".jm",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "NULL",
-    "whois": "NULL",
-    "lastUpdate": "2025-07-10",
-    "registration": "1991-09-24"
   },
   ".jmp": {
     "tld": "jmp",
@@ -6118,26 +5988,6 @@
     "whois": "NULL",
     "lastUpdate": "2025-04-09",
     "registration": "2016-01-14"
-  },
-  ".jo": {
-    "tld": "jo",
-    "dm": ".jo",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "https://www.dns.jo",
-    "whois": "NULL",
-    "lastUpdate": "2025-07-14",
-    "registration": "1994-11-23"
-  },
-  ".jobs": {
-    "tld": "jobs",
-    "dm": ".jobs",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.goto.jobs",
-    "whois": "NULL",
-    "lastUpdate": "2025-01-28",
-    "registration": "2005-09-08"
   },
   ".joburg": {
     "tld": "joburg",
@@ -6176,7 +6026,7 @@
     "tldType": "ccTLD",
     "nic": "https://jprs.jp/",
     "whois": "whois.jprs.jp",
-    "lastUpdate": "2024-11-06",
+    "lastUpdate": "2025-11-06",
     "registration": "1986-08-05"
   },
   ".jpmorgan": {
@@ -8236,7 +8086,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nissay.co.jp/english/",
     "whois": "whois.nic.nissay",
-    "lastUpdate": "2025-10-24",
+    "lastUpdate": "2025-11-06",
     "registration": "2016-01-08"
   },
   ".nl": {
@@ -8518,6 +8368,16 @@
     "whois": "whois.nic.online",
     "lastUpdate": "2025-05-08",
     "registration": "2015-03-06"
+  },
+  ".ooo": {
+    "tld": "ooo",
+    "dm": ".ooo",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.infibeam.com",
+    "whois": "whois.nic.ooo",
+    "lastUpdate": "2024-04-30",
+    "registration": "2014-07-31"
   },
   ".open": {
     "tld": "open",
@@ -12656,7 +12516,7 @@
     "tldType": "gTLD",
     "nic": "http://www.yu-wei.cn/",
     "whois": "whois.ngtld.cn",
-    "lastUpdate": "2022-04-22",
+    "lastUpdate": "2025-11-06",
     "registration": "2014-07-17"
   },
   ".ಭಾರತ": {
@@ -12826,7 +12686,7 @@
     "tldType": "gTLD",
     "nic": "http://www.shangri-la.com/",
     "whois": "whois.nic.xn--5su34j936bgsg",
-    "lastUpdate": "2025-10-24",
+    "lastUpdate": "2025-11-06",
     "registration": "2016-06-24"
   },
   ".网站": {
@@ -14036,7 +13896,7 @@
     "tldType": "gTLD",
     "nic": "http://www.kerryprops.com",
     "whois": "whois.nic.xn--w4r85el8fhu5dnra",
-    "lastUpdate": "2025-10-24",
+    "lastUpdate": "2025-11-06",
     "registration": "2016-02-05"
   },
   ".嘉里": {
@@ -14046,7 +13906,7 @@
     "tldType": "gTLD",
     "nic": "http://www.kerryprops.com",
     "whois": "whois.nic.xn--w4rs40l",
-    "lastUpdate": "2025-10-24",
+    "lastUpdate": "2025-11-06",
     "registration": "2016-02-05"
   },
   ".مصر": {
@@ -14076,7 +13936,7 @@
     "tldType": "gTLD",
     "nic": "http://www.yu-wei.cn/",
     "whois": "whois.ngtld.cn",
-    "lastUpdate": "2022-04-22",
+    "lastUpdate": "2025-11-06",
     "registration": "2014-07-24"
   },
   ".இலங்கை": {
