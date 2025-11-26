@@ -906,7 +906,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.whois.az/",
     "whois": "NULL",
-    "lastUpdate": "2022-03-14",
+    "lastUpdate": "2025-11-21",
     "registration": "1993-08-25"
   },
   ".azure": {
@@ -2206,7 +2206,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.nic.ch/",
     "whois": "whois.nic.ch",
-    "lastUpdate": "2024-11-21",
+    "lastUpdate": "2025-11-20",
     "registration": "1987-05-20"
   },
   ".chanel": {
@@ -6766,7 +6766,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.nic.li",
     "whois": "whois.nic.li",
-    "lastUpdate": "2024-11-21",
+    "lastUpdate": "2025-11-20",
     "registration": "1993-02-26"
   },
   ".lidl": {
@@ -11026,7 +11026,7 @@
     "tldType": "ccTLD",
     "nic": "http://tld.sy",
     "whois": "whois.tld.sy",
-    "lastUpdate": "2024-10-14",
+    "lastUpdate": "2025-11-19",
     "registration": "1996-02-20"
   },
   ".sydney": {
@@ -11849,6 +11849,16 @@
     "lastUpdate": "2025-10-07",
     "registration": "2014-04-03"
   },
+  ".uno": {
+    "tld": "uno",
+    "dm": ".uno",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://radix.website/",
+    "whois": "whois.nic.uno",
+    "lastUpdate": "2024-03-20",
+    "registration": "2013-11-13"
+  },
   ".uol": {
     "tld": "uol",
     "dm": ".uol",
@@ -11858,6 +11868,46 @@
     "whois": "NULL",
     "lastUpdate": "2025-08-14",
     "registration": "2014-08-07"
+  },
+  ".ups": {
+    "tld": "ups",
+    "dm": ".ups",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.ups.com",
+    "whois": "whois.nic.ups",
+    "lastUpdate": "2023-08-11",
+    "registration": "2016-04-14"
+  },
+  ".us": {
+    "tld": "us",
+    "dm": ".us",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.nic.us",
+    "whois": "whois.nic.us",
+    "lastUpdate": "2024-08-29",
+    "registration": "1985-02-15"
+  },
+  ".uy": {
+    "tld": "uy",
+    "dm": ".uy",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.nic.org.uy/",
+    "whois": "whois.nic.org.uy",
+    "lastUpdate": "2022-12-08",
+    "registration": "1990-09-10"
+  },
+  ".uz": {
+    "tld": "uz",
+    "dm": ".uz",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.cctld.uz/",
+    "whois": "whois.cctld.uz",
+    "lastUpdate": "2025-10-24",
+    "registration": "1995-04-29"
   },
   ".va": {
     "tld": "va",
@@ -11989,6 +12039,16 @@
     "lastUpdate": "2024-02-26",
     "registration": "1995-08-31"
   },
+  ".viajes": {
+    "tld": "viajes",
+    "dm": ".viajes",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2013-12-12"
+  },
   ".video": {
     "tld": "video",
     "dm": ".video",
@@ -11999,6 +12059,16 @@
     "lastUpdate": "2025-10-07",
     "registration": "2014-12-17"
   },
+  ".vig": {
+    "tld": "vig",
+    "dm": ".vig",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.vig.com",
+    "whois": "whois.nic.vig",
+    "lastUpdate": "2023-08-11",
+    "registration": "2015-11-25"
+  },
   ".viking": {
     "tld": "viking",
     "dm": ".viking",
@@ -12008,6 +12078,46 @@
     "whois": "whois.nic.viking",
     "lastUpdate": "2023-08-11",
     "registration": "2015-10-15"
+  },
+  ".villas": {
+    "tld": "villas",
+    "dm": ".villas",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2014-02-06"
+  },
+  ".vin": {
+    "tld": "vin",
+    "dm": ".vin",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2015-07-23"
+  },
+  ".vip": {
+    "tld": "vip",
+    "dm": ".vip",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://nic.vip/",
+    "whois": "whois.nic.vip",
+    "lastUpdate": "2024-04-17",
+    "registration": "2015-07-30"
+  },
+  ".virgin": {
+    "tld": "virgin",
+    "dm": ".virgin",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.virgin.com",
+    "whois": "NULL",
+    "lastUpdate": "2025-01-28",
+    "registration": "2015-09-10"
   },
   ".visa": {
     "tld": "visa",
@@ -12596,7 +12706,7 @@
     "tldType": "gTLD",
     "nic": "http://internetregistry.info/",
     "whois": "whois.teleinfo.cn",
-    "lastUpdate": "2025-04-24",
+    "lastUpdate": "2025-11-24",
     "registration": "2013-12-19"
   },
   ".한국": {
@@ -13066,7 +13176,7 @@
     "tldType": "gTLD",
     "nic": "http://internetregistry.info/",
     "whois": "whois.teleinfo.cn",
-    "lastUpdate": "2025-04-24",
+    "lastUpdate": "2025-11-24",
     "registration": "2013-12-19"
   },
   ".中信": {
@@ -13696,7 +13806,7 @@
     "tldType": "ccTLD",
     "nic": "http://tld.sy",
     "whois": "whois.tld.sy",
-    "lastUpdate": "2024-10-14",
+    "lastUpdate": "2025-11-19",
     "registration": "2011-02-05"
   },
   ".招聘": {

@@ -1,27 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-11-19 03:18:24 UTC
+🕐 **Update Time**: 2025-11-26 03:22:20 UTC
 
-📈 **Total TLDs**: 1427
+📈 **Total TLDs**: 1438
 
 🆕 **Added TLDs**:
-  - .istanbul
-  - .it
-  - .itau
-  - .itv
-  - .java
-  - .jcb
-  - .je
-  - .jeep
-  - .jetzt
-  - .jewelry
-  - .jio
-  - .jll
-  - .jm
-  - .jo
-  - .jobs
-
-🗑️ **Removed TLDs**:
   - .uno
   - .ups
   - .us

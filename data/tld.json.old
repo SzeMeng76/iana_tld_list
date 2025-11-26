@@ -336,7 +336,7 @@
     "tldType": "gTLD",
     "nic": "http://www.airtel.in",
     "whois": "whois.nic.airtel",
-    "lastUpdate": "2025-11-10",
+    "lastUpdate": "2025-11-14",
     "registration": "2015-06-18"
   },
   ".akdn": {
@@ -776,7 +776,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.auda.org.au/domains/au-domains/",
     "whois": "whois.auda.org.au",
-    "lastUpdate": "2025-08-07",
+    "lastUpdate": "2025-11-13",
     "registration": "1986-03-05"
   },
   ".auction": {
@@ -1266,7 +1266,7 @@
     "tldType": "gTLD",
     "nic": "http://www.bharti.com/wps/wcm/connect/BhartiPortal/Bharti/home",
     "whois": "NULL",
-    "lastUpdate": "2025-11-10",
+    "lastUpdate": "2025-11-14",
     "registration": "2015-05-08"
   },
   ".bi": {
@@ -1816,7 +1816,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.cira.ca/",
     "whois": "whois.cira.ca",
-    "lastUpdate": "2025-11-06",
+    "lastUpdate": "2025-11-18",
     "registration": "1987-05-14"
   },
   ".cab": {
@@ -5959,6 +5959,46 @@
     "lastUpdate": "2025-08-28",
     "registration": "2015-05-29"
   },
+  ".istanbul": {
+    "tld": "istanbul",
+    "dm": ".istanbul",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.nic.istanbul",
+    "whois": "whois.nic.istanbul",
+    "lastUpdate": "2025-08-28",
+    "registration": "2015-05-29"
+  },
+  ".it": {
+    "tld": "it",
+    "dm": ".it",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "https://www.nic.it/",
+    "whois": "whois.nic.it",
+    "lastUpdate": "2025-01-28",
+    "registration": "1987-12-23"
+  },
+  ".itau": {
+    "tld": "itau",
+    "dm": ".itau",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.itau.com",
+    "whois": "NULL",
+    "lastUpdate": "2024-05-11",
+    "registration": "2015-05-29"
+  },
+  ".itv": {
+    "tld": "itv",
+    "dm": ".itv",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.itv.com",
+    "whois": "whois.nic.itv",
+    "lastUpdate": "2025-08-27",
+    "registration": "2016-05-19"
+  },
   ".jaguar": {
     "tld": "jaguar",
     "dm": ".jaguar",
@@ -5968,6 +6008,96 @@
     "whois": "whois.nic.jaguar",
     "lastUpdate": "2023-08-11",
     "registration": "2015-10-15"
+  },
+  ".java": {
+    "tld": "java",
+    "dm": ".java",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "NULL",
+    "whois": "whois.nic.java",
+    "lastUpdate": "2024-02-09",
+    "registration": "2015-01-15"
+  },
+  ".jcb": {
+    "tld": "jcb",
+    "dm": ".jcb",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://nic.jcb",
+    "whois": "whois.nic.gmo",
+    "lastUpdate": "2019-08-20",
+    "registration": "2015-01-08"
+  },
+  ".je": {
+    "tld": "je",
+    "dm": ".je",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.nic.je",
+    "whois": "whois.je",
+    "lastUpdate": "2024-02-12",
+    "registration": "1996-08-08"
+  },
+  ".jeep": {
+    "tld": "jeep",
+    "dm": ".jeep",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.fcausllc.com/",
+    "whois": "whois.nic.jeep",
+    "lastUpdate": "2023-08-11",
+    "registration": "2016-07-07"
+  },
+  ".jetzt": {
+    "tld": "jetzt",
+    "dm": ".jetzt",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2014-03-06"
+  },
+  ".jewelry": {
+    "tld": "jewelry",
+    "dm": ".jewelry",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2015-04-09"
+  },
+  ".jio": {
+    "tld": "jio",
+    "dm": ".jio",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.ril.com",
+    "whois": "whois.nic.jio",
+    "lastUpdate": "2024-04-23",
+    "registration": "2016-08-11"
+  },
+  ".jll": {
+    "tld": "jll",
+    "dm": ".jll",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.jll.com",
+    "whois": "whois.nic.jll",
+    "lastUpdate": "2023-08-11",
+    "registration": "2015-05-14"
+  },
+  ".jm": {
+    "tld": "jm",
+    "dm": ".jm",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "NULL",
+    "whois": "NULL",
+    "lastUpdate": "2025-07-10",
+    "registration": "1991-09-24"
   },
   ".jmp": {
     "tld": "jmp",
@@ -5988,6 +6118,26 @@
     "whois": "NULL",
     "lastUpdate": "2025-04-09",
     "registration": "2016-01-14"
+  },
+  ".jo": {
+    "tld": "jo",
+    "dm": ".jo",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "https://www.dns.jo",
+    "whois": "NULL",
+    "lastUpdate": "2025-07-14",
+    "registration": "1994-11-23"
+  },
+  ".jobs": {
+    "tld": "jobs",
+    "dm": ".jobs",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.goto.jobs",
+    "whois": "NULL",
+    "lastUpdate": "2025-01-28",
+    "registration": "2005-09-08"
   },
   ".joburg": {
     "tld": "joburg",
@@ -11699,16 +11849,6 @@
     "lastUpdate": "2025-10-07",
     "registration": "2014-04-03"
   },
-  ".uno": {
-    "tld": "uno",
-    "dm": ".uno",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://radix.website/",
-    "whois": "whois.nic.uno",
-    "lastUpdate": "2024-03-20",
-    "registration": "2013-11-13"
-  },
   ".uol": {
     "tld": "uol",
     "dm": ".uol",
@@ -11718,46 +11858,6 @@
     "whois": "NULL",
     "lastUpdate": "2025-08-14",
     "registration": "2014-08-07"
-  },
-  ".ups": {
-    "tld": "ups",
-    "dm": ".ups",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.ups.com",
-    "whois": "whois.nic.ups",
-    "lastUpdate": "2023-08-11",
-    "registration": "2016-04-14"
-  },
-  ".us": {
-    "tld": "us",
-    "dm": ".us",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.nic.us",
-    "whois": "whois.nic.us",
-    "lastUpdate": "2024-08-29",
-    "registration": "1985-02-15"
-  },
-  ".uy": {
-    "tld": "uy",
-    "dm": ".uy",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.nic.org.uy/",
-    "whois": "whois.nic.org.uy",
-    "lastUpdate": "2022-12-08",
-    "registration": "1990-09-10"
-  },
-  ".uz": {
-    "tld": "uz",
-    "dm": ".uz",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.cctld.uz/",
-    "whois": "whois.cctld.uz",
-    "lastUpdate": "2025-10-24",
-    "registration": "1995-04-29"
   },
   ".va": {
     "tld": "va",
@@ -11889,16 +11989,6 @@
     "lastUpdate": "2024-02-26",
     "registration": "1995-08-31"
   },
-  ".viajes": {
-    "tld": "viajes",
-    "dm": ".viajes",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-07",
-    "registration": "2013-12-12"
-  },
   ".video": {
     "tld": "video",
     "dm": ".video",
@@ -11909,16 +11999,6 @@
     "lastUpdate": "2025-10-07",
     "registration": "2014-12-17"
   },
-  ".vig": {
-    "tld": "vig",
-    "dm": ".vig",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.vig.com",
-    "whois": "whois.nic.vig",
-    "lastUpdate": "2023-08-11",
-    "registration": "2015-11-25"
-  },
   ".viking": {
     "tld": "viking",
     "dm": ".viking",
@@ -11928,46 +12008,6 @@
     "whois": "whois.nic.viking",
     "lastUpdate": "2023-08-11",
     "registration": "2015-10-15"
-  },
-  ".villas": {
-    "tld": "villas",
-    "dm": ".villas",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-07",
-    "registration": "2014-02-06"
-  },
-  ".vin": {
-    "tld": "vin",
-    "dm": ".vin",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-07",
-    "registration": "2015-07-23"
-  },
-  ".vip": {
-    "tld": "vip",
-    "dm": ".vip",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://nic.vip/",
-    "whois": "whois.nic.vip",
-    "lastUpdate": "2024-04-17",
-    "registration": "2015-07-30"
-  },
-  ".virgin": {
-    "tld": "virgin",
-    "dm": ".virgin",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.virgin.com",
-    "whois": "NULL",
-    "lastUpdate": "2025-01-28",
-    "registration": "2015-09-10"
   },
   ".visa": {
     "tld": "visa",
