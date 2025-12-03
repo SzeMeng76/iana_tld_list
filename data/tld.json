@@ -336,7 +336,7 @@
     "tldType": "gTLD",
     "nic": "http://www.airtel.in",
     "whois": "whois.nic.airtel",
-    "lastUpdate": "2025-11-14",
+    "lastUpdate": "2025-12-01",
     "registration": "2015-06-18"
   },
   ".akdn": {
@@ -706,7 +706,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.as",
     "whois": "whois.nic.as",
-    "lastUpdate": "2022-05-06",
+    "lastUpdate": "2025-11-29",
     "registration": "1997-06-12"
   },
   ".asda": {
@@ -1265,8 +1265,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "http://www.bharti.com/wps/wcm/connect/BhartiPortal/Bharti/home",
-    "whois": "NULL",
-    "lastUpdate": "2025-11-14",
+    "whois": "whois.nic.bharti",
+    "lastUpdate": "2025-12-01",
     "registration": "2015-05-08"
   },
   ".bi": {
@@ -7946,7 +7946,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nab.com.au",
     "whois": "whois.nic.nab",
-    "lastUpdate": "2023-08-11",
+    "lastUpdate": "2025-12-01",
     "registration": "2016-08-04"
   },
   ".nagoya": {
@@ -11796,7 +11796,7 @@
     "tldType": "gTLD",
     "nic": "http://www.ubank.com.au/",
     "whois": "whois.nic.ubank",
-    "lastUpdate": "2023-08-11",
+    "lastUpdate": "2025-12-01",
     "registration": "2016-08-04"
   },
   ".ubs": {
@@ -13825,8 +13825,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://rusnames.ru/",
-    "whois": "whois.nic.xn--p1acf",
-    "lastUpdate": "2022-11-21",
+    "whois": "NULL",
+    "lastUpdate": "2025-12-02",
     "registration": "2014-07-03"
   },
   ".рф": {

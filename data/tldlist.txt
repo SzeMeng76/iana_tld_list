@@ -31,7 +31,7 @@ ai -- .ai -- False -- ccTLD -- https://nic.ai -- whois.nic.ai -- 2025-02-11 -- 1
 aig -- .aig -- False -- gTLD -- http://www.aig.com -- NULL -- 2024-05-11 -- 2015-04-09
 airbus -- .airbus -- False -- gTLD -- NULL -- whois.nic.airbus -- 2024-11-15 -- 2016-05-26
 airforce -- .airforce -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-04-17
-airtel -- .airtel -- False -- gTLD -- http://www.airtel.in -- whois.nic.airtel -- 2025-11-14 -- 2015-06-18
+airtel -- .airtel -- False -- gTLD -- http://www.airtel.in -- whois.nic.airtel -- 2025-12-01 -- 2015-06-18
 akdn -- .akdn -- False -- gTLD -- http://www.akdn.org/ -- whois.nic.akdn -- 2023-08-25 -- 2016-03-31
 al -- .al -- False -- ccTLD -- https://akep.al/e-aplikime-domain/ -- NULL -- 2023-10-12 -- 1992-04-21
 alibaba -- .alibaba -- False -- gTLD -- http://www.alibabagroup.com -- whois.nic.alibaba -- 2023-08-11 -- 2016-01-08
@@ -68,7 +68,7 @@ army -- .army -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-
 arpa -- .arpa -- False -- iTLD -- https://www.iana.org/domains/arpa -- whois.iana.org -- 2023-11-27 -- 1985-01-01
 art -- .art -- False -- gTLD -- http://art.art/ -- whois.nic.art -- 2024-04-30 -- 2016-06-09
 arte -- .arte -- False -- gTLD -- NULL -- whois.nic.arte -- 2024-03-31 -- 2015-09-24
-as -- .as -- False -- ccTLD -- http://www.nic.as -- whois.nic.as -- 2022-05-06 -- 1997-06-12
+as -- .as -- False -- ccTLD -- http://www.nic.as -- whois.nic.as -- 2025-11-29 -- 1997-06-12
 asda -- .asda -- False -- gTLD -- http://www.asda.com -- whois.nic.asda -- 2024-12-17 -- 2016-07-21
 asia -- .asia -- False -- gTLD -- http://www.registry.asia -- whois.nic.asia -- 2025-09-01 -- 2007-05-02
 associates -- .associates -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-04-03
@@ -124,7 +124,7 @@ bet -- .bet -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-09
 bf -- .bf -- False -- ccTLD -- https://www.registre.bf -- whois.registre.bf -- 2025-04-30 -- 1993-03-29
 bg -- .bg -- False -- ccTLD -- http://www.register.bg -- whois.register.bg -- 2021-02-24 -- 1995-01-03
 bh -- .bh -- False -- ccTLD -- NULL -- whois.nic.bh -- 2024-07-01 -- 1994-02-01
-bharti -- .bharti -- False -- gTLD -- http://www.bharti.com/wps/wcm/connect/BhartiPortal/Bharti/home -- NULL -- 2025-11-14 -- 2015-05-08
+bharti -- .bharti -- False -- gTLD -- http://www.bharti.com/wps/wcm/connect/BhartiPortal/Bharti/home -- whois.nic.bharti -- 2025-12-01 -- 2015-05-08
 bi -- .bi -- False -- ccTLD -- http://www.nic.bi -- whois1.nic.bi -- 2025-09-05 -- 1996-10-21
 bible -- .bible -- False -- gTLD -- http://get.bible -- whois.nic.bible -- 2024-05-11 -- 2015-05-14
 bid -- .bid -- False -- gTLD -- http://nic.bid -- whois.nic.bid -- 2024-05-11 -- 2014-02-13
@@ -792,7 +792,7 @@ mx -- .mx -- False -- ccTLD -- http://www.registry.mx/ -- whois.mx -- 2025-02-21
 my -- .my -- False -- ccTLD -- http://www.mynic.my -- whois.mynic.my -- 2025-05-12 -- 1987-06-08
 mz -- .mz -- False -- ccTLD -- NULL -- whois.nic.mz -- 2020-03-09 -- 1992-09-04
 na -- .na -- False -- ccTLD -- http://www.na-nic.com.na/ -- NULL -- 2024-10-16 -- 1991-05-08
-nab -- .nab -- False -- gTLD -- http://www.nab.com.au -- whois.nic.nab -- 2023-08-11 -- 2016-08-04
+nab -- .nab -- False -- gTLD -- http://www.nab.com.au -- whois.nic.nab -- 2025-12-01 -- 2016-08-04
 nagoya -- .nagoya -- False -- gTLD -- http://www.gmo-registry.com/en/ -- whois.nic.nagoya -- 2019-08-20 -- 2014-01-16
 name -- .name -- False -- ccTLD -- http://www.nic.name -- whois.nic.name -- 2020-10-01 -- 2001-08-17
 navy -- .navy -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-05-29
@@ -1177,7 +1177,7 @@ tvs -- .tvs -- False -- gTLD -- http://www.tvs.in -- whois.nic.tvs -- 2024-09-05
 tw -- .tw -- False -- ccTLD -- http://rs.twnic.net.tw -- whois.twnic.net.tw -- 2025-07-15 -- 1989-07-31
 tz -- .tz -- False -- ccTLD -- https://karibu.tz/ -- whois.tznic.or.tz -- 2023-07-27 -- 1995-07-14
 ua -- .ua -- False -- ccTLD -- https://www.hostmaster.ua/ -- whois.ua -- 2024-11-30 -- 1992-12-01
-ubank -- .ubank -- False -- gTLD -- http://www.ubank.com.au/ -- whois.nic.ubank -- 2023-08-11 -- 2016-08-04
+ubank -- .ubank -- False -- gTLD -- http://www.ubank.com.au/ -- whois.nic.ubank -- 2025-12-01 -- 2016-08-04
 ubs -- .ubs -- False -- gTLD -- NULL -- whois.nic.ubs -- 2023-08-11 -- 2015-06-11
 ug -- .ug -- False -- ccTLD -- http://www.registry.co.ug -- whois.co.ug -- 2025-09-30 -- 1995-03-08
 uk -- .uk -- False -- ccTLD -- http://www.nic.uk/ -- whois.nic.uk -- 2023-03-07 -- 1985-07-24
@@ -1380,7 +1380,7 @@ xn--nyqy26a -- .健康 -- True -- gTLD -- http://www.stabletone.com -- NULL -- 2
 xn--o3cw4h -- .ไทย -- True -- ccTLD -- http://www.thnic.co.th -- whois.thnic.co.th -- 2025-01-23 -- 2010-08-19
 xn--ogbpf8fl -- .سورية -- True -- ccTLD -- http://tld.sy -- whois.tld.sy -- 2025-11-19 -- 2011-02-05
 xn--otu796d -- .招聘 -- True -- gTLD -- NULL -- NULL -- 2024-12-17 -- 2017-12-21
-xn--p1acf -- .рус -- True -- gTLD -- http://rusnames.ru/ -- whois.nic.xn--p1acf -- 2022-11-21 -- 2014-07-03
+xn--p1acf -- .рус -- True -- gTLD -- http://rusnames.ru/ -- NULL -- 2025-12-02 -- 2014-07-03
 xn--p1ai -- .рф -- True -- ccTLD -- http://cctld.ru/en -- whois.tcinet.ru -- 2025-10-22 -- 2010-05-12
 xn--pgbs0dh -- .تونس -- True -- ccTLD -- http://www.ati.tn -- whois.ati.tn -- 2023-03-07 -- 2010-08-19
 xn--pssy2u -- .大拿 -- True -- gTLD -- http://www.verisigninc.com -- whois.nic.xn--pssy2u -- 2020-10-01 -- 2015-07-02
