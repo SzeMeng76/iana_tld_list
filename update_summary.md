@@ -1,10 +1,17 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-12-10 03:28:26 UTC
+🕐 **Update Time**: 2025-12-17 03:29:26 UTC
 
-📈 **Total TLDs**: 1438
+📈 **Total TLDs**: 1432
 
-✅ **No TLD changes, data refreshed**
+🗑️ **Removed TLDs**:
+  - .plus
+  - .pm
+  - .porn
+  - .post
+  - .pro
+  - .productions
+
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
