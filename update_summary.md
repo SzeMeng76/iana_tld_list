@@ -1,10 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2025-12-17 03:29:26 UTC
+🕐 **Update Time**: 2025-12-24 03:29:31 UTC
 
-📈 **Total TLDs**: 1432
+📈 **Total TLDs**: 1438
 
-🗑️ **Removed TLDs**:
+🆕 **Added TLDs**:
   - .plus
   - .pm
   - .porn

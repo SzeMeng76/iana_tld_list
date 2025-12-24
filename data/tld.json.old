@@ -36,7 +36,7 @@
     "tldType": "gTLD",
     "nic": "http://www.abbott.com",
     "whois": "whois.nic.abbott",
-    "lastUpdate": "2023-08-16",
+    "lastUpdate": "2025-12-15",
     "registration": "2014-11-20"
   },
   ".abbvie": {
@@ -336,7 +336,7 @@
     "tldType": "gTLD",
     "nic": "http://www.airtel.in",
     "whois": "whois.nic.airtel",
-    "lastUpdate": "2025-12-01",
+    "lastUpdate": "2025-12-11",
     "registration": "2015-06-18"
   },
   ".akdn": {
@@ -986,7 +986,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.bar",
     "whois": "whois.nic.bar",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2014-02-13"
   },
   ".barcelona": {
@@ -1266,7 +1266,7 @@
     "tldType": "gTLD",
     "nic": "http://www.bharti.com/wps/wcm/connect/BhartiPortal/Bharti/home",
     "whois": "whois.nic.bharti",
-    "lastUpdate": "2025-12-01",
+    "lastUpdate": "2025-12-11",
     "registration": "2015-05-08"
   },
   ".bi": {
@@ -1386,7 +1386,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dish.com/",
     "whois": "whois.nic.blockbuster",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-06-30"
   },
   ".blog": {
@@ -1686,7 +1686,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.brussels",
     "whois": "NULL",
-    "lastUpdate": "2025-06-17",
+    "lastUpdate": "2025-12-15",
     "registration": "2014-06-05"
   },
   ".bs": {
@@ -2126,7 +2126,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.cd/",
     "whois": "NULL",
-    "lastUpdate": "2021-02-10",
+    "lastUpdate": "2025-12-12",
     "registration": "1997-08-20"
   },
   ".center": {
@@ -2436,7 +2436,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2014-08-15"
   },
   ".clinic": {
@@ -2726,7 +2726,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.coop",
     "whois": "whois.nic.coop",
-    "lastUpdate": "2025-12-09",
+    "lastUpdate": "2025-12-12",
     "registration": "2001-12-15"
   },
   ".corsica": {
@@ -2746,7 +2746,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2014-02-28"
   },
   ".coupon": {
@@ -2826,7 +2826,7 @@
     "tldType": "gTLD",
     "nic": "http://www.identity.coop/creditunion",
     "whois": "whois.nic.creditunion",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2015-10-15"
   },
   ".cricket": {
@@ -2996,7 +2996,7 @@
     "tldType": "gTLD",
     "nic": "https://www.dish.com/",
     "whois": "whois.nic.data",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-12-15"
   },
   ".date": {
@@ -3296,7 +3296,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dish.com/",
     "whois": "whois.nic.dish",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-08-04"
   },
   ".diy": {
@@ -3306,7 +3306,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-07-21"
   },
   ".dj": {
@@ -3406,7 +3406,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dish.com",
     "whois": "whois.nic.dot",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-04-21"
   },
   ".download": {
@@ -3436,7 +3436,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dish.com",
     "whois": "whois.nic.dtv",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-05-19"
   },
   ".dubai": {
@@ -3486,7 +3486,7 @@
     "tldType": "gTLD",
     "nic": "http://www.echostar.com",
     "whois": "whois.nic.dvr",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-09-22"
   },
   ".dz": {
@@ -4236,7 +4236,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-11-04"
   },
   ".football": {
@@ -4686,7 +4686,7 @@
     "tldType": "gTLD",
     "nic": "http://uniregistry.link",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-09",
+    "lastUpdate": "2025-12-12",
     "registration": "2014-01-09"
   },
   ".gifts": {
@@ -4936,7 +4936,7 @@
     "tldType": "gTLD",
     "nic": "https://get.gov",
     "whois": "whois.nic.gov",
-    "lastUpdate": "2025-03-13",
+    "lastUpdate": "2025-12-10",
     "registration": "1985-01-01"
   },
   ".gp": {
@@ -5276,7 +5276,7 @@
     "tldType": "gTLD",
     "nic": "https://get.hiphop",
     "whois": "whois.nic.hiphop",
-    "lastUpdate": "2025-05-19",
+    "lastUpdate": "2025-12-15",
     "registration": "2014-05-08"
   },
   ".hisamitsu": {
@@ -5306,7 +5306,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2014-05-22"
   },
   ".hk": {
@@ -5976,7 +5976,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.nic.it/",
     "whois": "whois.nic.it",
-    "lastUpdate": "2025-01-28",
+    "lastUpdate": "2025-12-12",
     "registration": "1987-12-23"
   },
   ".itau": {
@@ -6626,7 +6626,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dish.com/",
     "whois": "whois.nic.latino",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-06-30"
   },
   ".latrobe": {
@@ -6806,7 +6806,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2015-10-01"
   },
   ".lighting": {
@@ -6876,7 +6876,7 @@
     "tldType": "gTLD",
     "nic": "http://uniregistry.link",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-15",
     "registration": "2014-01-09"
   },
   ".live": {
@@ -6896,7 +6896,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2015-12-10"
   },
   ".lk": {
@@ -7016,7 +7016,7 @@
     "tldType": "gTLD",
     "nic": "https://get.love",
     "whois": "whois.nic.love",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2015-03-25"
   },
   ".lpl": {
@@ -7315,8 +7315,8 @@
     "isIDN": "False",
     "tldType": "ccTLD",
     "nic": "https://www.nic.mc/",
-    "whois": "NULL",
-    "lastUpdate": "2025-07-31",
+    "whois": "whois.nic.mc",
+    "lastUpdate": "2025-12-15",
     "registration": "1995-01-20"
   },
   ".mckinsey": {
@@ -7626,7 +7626,7 @@
     "tldType": "gTLD",
     "nic": "https://www.dish.com/",
     "whois": "whois.nic.mobile",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-12-15"
   },
   ".moda": {
@@ -7876,7 +7876,7 @@
     "tldType": "gTLD",
     "nic": "https://nic.music/",
     "whois": "whois.nic.music",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2021-10-14"
   },
   ".mv": {
@@ -8356,7 +8356,7 @@
     "tldType": "gTLD",
     "nic": "https://group.ntt/en/dotntt/",
     "whois": "whois.nic.ntt",
-    "lastUpdate": "2024-12-02",
+    "lastUpdate": "2025-12-11",
     "registration": "2015-01-08"
   },
   ".nu": {
@@ -8386,7 +8386,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.dnc.org.nz/",
     "whois": "whois.irs.net.nz",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-15",
     "registration": "1987-01-19"
   },
   ".obi": {
@@ -8456,7 +8456,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dish.com",
     "whois": "whois.nic.ollo",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-05-19"
   },
   ".om": {
@@ -8616,7 +8616,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dish.com",
     "whois": "whois.nic.ott",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-05-19"
   },
   ".ovh": {
@@ -8826,7 +8826,7 @@
     "tldType": "gTLD",
     "nic": "https://www.dish.com/",
     "whois": "whois.nic.phone",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-12-15"
   },
   ".photo": {
@@ -9019,26 +9019,6 @@
     "lastUpdate": "2025-10-07",
     "registration": "2013-11-08"
   },
-  ".plus": {
-    "tld": "plus",
-    "dm": ".plus",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-07",
-    "registration": "2015-03-12"
-  },
-  ".pm": {
-    "tld": "pm",
-    "dm": ".pm",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.nic.pm",
-    "whois": "whois.nic.pm",
-    "lastUpdate": "2024-09-09",
-    "registration": "1997-08-20"
-  },
   ".pn": {
     "tld": "pn",
     "dm": ".pn",
@@ -9089,26 +9069,6 @@
     "lastUpdate": "2023-07-18",
     "registration": "2016-06-16"
   },
-  ".porn": {
-    "tld": "porn",
-    "dm": ".porn",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://nic.porn",
-    "whois": "whois.nic.porn",
-    "lastUpdate": "2024-04-17",
-    "registration": "2014-11-26"
-  },
-  ".post": {
-    "tld": "post",
-    "dm": ".post",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.upu.int",
-    "whois": "whois.nic.post",
-    "lastUpdate": "2025-05-15",
-    "registration": "2012-08-07"
-  },
   ".pr": {
     "tld": "pr",
     "dm": ".pr",
@@ -9149,16 +9109,6 @@
     "lastUpdate": "2025-02-14",
     "registration": "2016-05-19"
   },
-  ".pro": {
-    "tld": "pro",
-    "dm": ".pro",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-09-04",
-    "registration": "2002-05-08"
-  },
   ".prod": {
     "tld": "prod",
     "dm": ".prod",
@@ -9168,16 +9118,6 @@
     "whois": "NULL",
     "lastUpdate": "2025-04-11",
     "registration": "2014-08-23"
-  },
-  ".productions": {
-    "tld": "productions",
-    "dm": ".productions",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-07",
-    "registration": "2014-02-06"
   },
   ".prof": {
     "tld": "prof",
@@ -9226,7 +9166,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2014-08-15"
   },
   ".protection": {
@@ -9426,7 +9366,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.nic.realty",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2015-06-11"
   },
   ".recipes": {
@@ -9576,7 +9516,7 @@
     "tldType": "gTLD",
     "nic": "http://www.register.rest/",
     "whois": "whois.nic.rest",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2014-03-06"
   },
   ".restaurant": {
@@ -10256,7 +10196,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2013-11-08"
   },
   ".sfr": {
@@ -10516,7 +10456,7 @@
     "tldType": "gTLD",
     "nic": "http://www.echostar.com/",
     "whois": "whois.nic.sling",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2016-08-04"
   },
   ".sm": {
@@ -11486,7 +11426,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.tonic.to/",
     "whois": "whois.tonicregistry.to",
-    "lastUpdate": "2025-12-05",
+    "lastUpdate": "2025-12-16",
     "registration": "1995-12-18"
   },
   ".today": {
@@ -11676,7 +11616,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2014-11-26"
   },
   ".trv": {
@@ -11936,7 +11876,7 @@
     "tldType": "gTLD",
     "nic": "https://nic.vana",
     "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2015-09-24"
   },
   ".vanguard": {
@@ -12166,7 +12106,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.vlaanderen",
     "whois": "NULL",
-    "lastUpdate": "2025-06-17",
+    "lastUpdate": "2025-12-15",
     "registration": "2014-06-05"
   },
   ".vn": {
@@ -13806,7 +13746,7 @@
     "tldType": "ccTLD",
     "nic": "http://tld.sy",
     "whois": "whois.tld.sy",
-    "lastUpdate": "2025-11-19",
+    "lastUpdate": "2025-12-11",
     "registration": "2011-02-05"
   },
   ".招聘": {
@@ -14206,7 +14146,7 @@
     "tldType": "gTLD",
     "nic": "http://www.yandex.ru/",
     "whois": "whois.nic.yandex",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-12",
     "registration": "2014-07-10"
   },
   ".ye": {
