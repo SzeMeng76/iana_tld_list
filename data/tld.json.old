@@ -2476,7 +2476,7 @@
     "tldType": "gTLD",
     "nic": "https://www.get.cloud",
     "whois": "whois.nic.cloud",
-    "lastUpdate": "2025-12-09",
+    "lastUpdate": "2025-12-18",
     "registration": "2015-06-18"
   },
   ".club": {
@@ -3746,7 +3746,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.eurid.eu",
     "whois": "whois.eu",
-    "lastUpdate": "2024-05-22",
+    "lastUpdate": "2025-12-22",
     "registration": "2005-04-28"
   },
   ".eurovision": {
@@ -3956,7 +3956,7 @@
     "tldType": "gTLD",
     "nic": "https://nic.feedback",
     "whois": "whois.registry.click",
-    "lastUpdate": "2025-12-09",
+    "lastUpdate": "2025-12-18",
     "registration": "2014-03-06"
   },
   ".ferrari": {
@@ -4286,7 +4286,7 @@
     "tldType": "gTLD",
     "nic": "http://www.topspectrum.com",
     "whois": "whois.registry.click",
-    "lastUpdate": "2025-12-09",
+    "lastUpdate": "2025-12-18",
     "registration": "2015-06-11"
   },
   ".foundation": {
@@ -5976,7 +5976,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.nic.it/",
     "whois": "whois.nic.it",
-    "lastUpdate": "2025-12-12",
+    "lastUpdate": "2025-12-17",
     "registration": "1987-12-23"
   },
   ".itau": {
@@ -6506,7 +6506,7 @@
     "tldType": "ccTLD",
     "nic": "http://uniregistry.com",
     "whois": "whois.kyregistry.ky",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-22",
     "registration": "1995-05-03"
   },
   ".kyoto": {
@@ -6956,7 +6956,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dish.com",
     "whois": "whois.nic.locker",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2025-12-19",
     "registration": "2016-05-19"
   },
   ".locus": {
@@ -7846,7 +7846,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.mtr",
     "whois": "whois.nic.mtr",
-    "lastUpdate": "2024-12-23",
+    "lastUpdate": "2025-12-19",
     "registration": "2015-07-31"
   },
   ".mu": {
@@ -8336,7 +8336,7 @@
     "tldType": "gTLD",
     "nic": "http://contact.nra.org/contact-us.aspx",
     "whois": "whois.nic.nra",
-    "lastUpdate": "2025-09-09",
+    "lastUpdate": "2025-12-23",
     "registration": "2014-07-10"
   },
   ".nrw": {
@@ -8406,7 +8406,7 @@
     "tldType": "gTLD",
     "nic": "https://internetnaming.co",
     "whois": "whois.nic.observer",
-    "lastUpdate": "2025-12-09",
+    "lastUpdate": "2025-12-18",
     "registration": "2016-09-15"
   },
   ".office": {
@@ -8906,7 +8906,7 @@
     "tldType": "gTLD",
     "nic": "http://www.topspectrum.com/",
     "whois": "whois.registry.click",
-    "lastUpdate": "2025-12-09",
+    "lastUpdate": "2025-12-18",
     "registration": "2015-12-10"
   },
   ".pin": {
@@ -9019,6 +9019,26 @@
     "lastUpdate": "2025-10-07",
     "registration": "2013-11-08"
   },
+  ".plus": {
+    "tld": "plus",
+    "dm": ".plus",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2015-03-12"
+  },
+  ".pm": {
+    "tld": "pm",
+    "dm": ".pm",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.nic.pm",
+    "whois": "whois.nic.pm",
+    "lastUpdate": "2024-09-09",
+    "registration": "1997-08-20"
+  },
   ".pn": {
     "tld": "pn",
     "dm": ".pn",
@@ -9069,6 +9089,26 @@
     "lastUpdate": "2023-07-18",
     "registration": "2016-06-16"
   },
+  ".porn": {
+    "tld": "porn",
+    "dm": ".porn",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://nic.porn",
+    "whois": "whois.nic.porn",
+    "lastUpdate": "2024-04-17",
+    "registration": "2014-11-26"
+  },
+  ".post": {
+    "tld": "post",
+    "dm": ".post",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.upu.int",
+    "whois": "whois.nic.post",
+    "lastUpdate": "2025-05-15",
+    "registration": "2012-08-07"
+  },
   ".pr": {
     "tld": "pr",
     "dm": ".pr",
@@ -9109,6 +9149,16 @@
     "lastUpdate": "2025-02-14",
     "registration": "2016-05-19"
   },
+  ".pro": {
+    "tld": "pro",
+    "dm": ".pro",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-09-04",
+    "registration": "2002-05-08"
+  },
   ".prod": {
     "tld": "prod",
     "dm": ".prod",
@@ -9118,6 +9168,16 @@
     "whois": "NULL",
     "lastUpdate": "2025-04-11",
     "registration": "2014-08-23"
+  },
+  ".productions": {
+    "tld": "productions",
+    "dm": ".productions",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2014-02-06"
   },
   ".prof": {
     "tld": "prof",
@@ -10966,7 +11026,7 @@
     "tldType": "ccTLD",
     "nic": "http://tld.sy",
     "whois": "whois.tld.sy",
-    "lastUpdate": "2025-11-19",
+    "lastUpdate": "2025-12-22",
     "registration": "1996-02-20"
   },
   ".sydney": {
@@ -12226,7 +12286,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.wang",
     "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2024-12-03",
+    "lastUpdate": "2025-12-17",
     "registration": "2013-12-12"
   },
   ".wanggou": {
@@ -12296,7 +12356,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "whois.nic.weber",
-    "lastUpdate": "2025-03-06",
+    "lastUpdate": "2025-12-17",
     "registration": "2015-12-10"
   },
   ".website": {
@@ -12646,7 +12706,7 @@
     "tldType": "gTLD",
     "nic": "http://internetregistry.info/",
     "whois": "whois.teleinfo.cn",
-    "lastUpdate": "2025-11-24",
+    "lastUpdate": "2025-12-17",
     "registration": "2013-12-19"
   },
   ".한국": {
@@ -13036,7 +13096,7 @@
     "tldType": "gTLD",
     "nic": "http://www.shangcheng.wang",
     "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2024-12-03",
+    "lastUpdate": "2025-12-17",
     "registration": "2014-02-27"
   },
   ".дети": {
@@ -13066,7 +13126,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.registry.eu",
     "whois": "whois.eu",
-    "lastUpdate": "2023-03-07",
+    "lastUpdate": "2025-12-22",
     "registration": "2015-12-08"
   },
   ".ポイント": {
@@ -13086,7 +13146,7 @@
     "tldType": "gTLD",
     "nic": "http://www.gd.xinhua.org",
     "whois": "whois.nic.xn--efvy88h",
-    "lastUpdate": "2024-12-23",
+    "lastUpdate": "2025-12-17",
     "registration": "2015-08-06"
   },
   ".家電": {
@@ -13116,7 +13176,7 @@
     "tldType": "gTLD",
     "nic": "http://internetregistry.info/",
     "whois": "whois.teleinfo.cn",
-    "lastUpdate": "2025-11-24",
+    "lastUpdate": "2025-12-17",
     "registration": "2013-12-19"
   },
   ".中信": {
@@ -13836,7 +13896,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.registry.eu",
     "whois": "whois.eu",
-    "lastUpdate": "2023-03-07",
+    "lastUpdate": "2025-12-22",
     "registration": "2019-07-18"
   },
   ".ελ": {

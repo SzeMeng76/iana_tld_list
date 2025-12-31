@@ -90,7 +90,7 @@ ax -- .ax -- False -- ccTLD -- http://www.whois.ax -- whois.ax -- 2017-08-04 -- 
 axa -- .axa -- False -- gTLD -- https://domains.axa/ -- NULL -- 2024-05-11 -- 2014-03-13
 az -- .az -- False -- ccTLD -- http://www.whois.az/ -- NULL -- 2025-11-21 -- 1993-08-25
 azure -- .azure -- False -- gTLD -- http://www.microsoft.com -- NULL -- 2025-05-01 -- 2015-04-30
-ba -- .ba -- False -- ccTLD -- http://www.nic.ba -- NULL -- 2025-10-01 -- 1996-08-14
+ba -- .ba -- False -- ccTLD -- http://www.nic.ba -- NULL -- 2025-12-26 -- 1996-08-14
 baby -- .baby -- False -- gTLD -- https://nic.baby/ -- whois.nic.baby -- 2025-08-12 -- 2016-01-14
 baidu -- .baidu -- False -- gTLD -- http://www.zdns.cn -- whois.gtld.knet.cn -- 2024-12-12 -- 2015-12-17
 banamex -- .banamex -- False -- gTLD -- http://www.citigroup.com -- NULL -- 2024-05-11 -- 2016-07-21
@@ -786,7 +786,7 @@ mtr -- .mtr -- False -- gTLD -- http://nic.mtr -- whois.nic.mtr -- 2025-12-19 --
 mu -- .mu -- False -- ccTLD -- http://www.nic.mu/ -- whois.tld.mu -- 2025-02-26 -- 1995-10-06
 museum -- .museum -- False -- gTLD -- https://about.museum -- whois.nic.museum -- 2024-09-11 -- 2001-10-20
 music -- .music -- False -- gTLD -- https://nic.music/ -- whois.nic.music -- 2025-12-12 -- 2021-10-14
-mv -- .mv -- False -- ccTLD -- NULL -- NULL -- 2024-10-28 -- 1996-09-25
+mv -- .mv -- False -- ccTLD -- NULL -- NULL -- 2025-12-26 -- 1996-09-25
 mw -- .mw -- False -- ccTLD -- http://www.registrar.mw -- whois.nic.mw -- 2025-08-21 -- 1997-01-03
 mx -- .mx -- False -- ccTLD -- http://www.registry.mx/ -- whois.mx -- 2025-02-21 -- 1989-02-01
 my -- .my -- False -- ccTLD -- http://www.mynic.my -- whois.mynic.my -- 2025-05-12 -- 1987-06-08
