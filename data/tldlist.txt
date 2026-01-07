@@ -1268,7 +1268,7 @@ xn--1qqw23a -- .佛山 -- True -- gTLD -- http://www.yu-wei.cn/ -- whois.ngtld.c
 xn--2scrj9c -- .ಭಾರತ -- True -- ccTLD -- https://registry.in -- whois.nixiregistry.in -- 2025-07-17 -- 2016-04-18
 xn--30rr7y -- .慈善 -- True -- gTLD -- http://www.newgtld.cn -- whois.gtld.knet.cn -- 2025-12-08 -- 2015-03-12
 xn--3bst00m -- .集团 -- True -- gTLD -- http://www.newgtld.cn -- whois.gtld.knet.cn -- 2025-12-08 -- 2013-12-12
-xn--3ds443g -- .在线 -- True -- gTLD -- http://internetregistry.info/ -- whois.teleinfo.cn -- 2025-12-17 -- 2013-12-19
+xn--3ds443g -- .在线 -- True -- gTLD -- https://tldland.cn/ -- whois.teleinfo.cn -- 2025-12-31 -- 2013-12-19
 xn--3e0b707e -- .한국 -- True -- ccTLD -- http://www.nic.or.kr -- whois.kr -- 2023-03-07 -- 2011-02-05
 xn--3hcrj9c -- .ଭାରତ -- True -- ccTLD -- https://registry.in -- whois.nixiregistry.in -- 2025-07-17 -- 2016-04-18
 xn--3pxu8k -- .点看 -- True -- gTLD -- http://www.verisigninc.com -- whois.nic.xn--3pxu8k -- 2020-10-01 -- 2015-07-02
@@ -1315,7 +1315,7 @@ xn--eckvdtc9d -- .ポイント -- True -- gTLD -- http://www.nic.xn--eckvdtc9d -
 xn--efvy88h -- .新闻 -- True -- gTLD -- http://www.gd.xinhua.org -- whois.nic.xn--efvy88h -- 2025-12-17 -- 2015-08-06
 xn--fct429k -- .家電 -- True -- gTLD -- http://www.nic.xn--fct429k -- whois.nic.xn--fct429k -- 2025-06-17 -- 2016-03-18
 xn--fhbei -- .كوم -- True -- gTLD -- http://www.verisigninc.com -- whois.nic.xn--fhbei -- 2020-10-01 -- 2015-07-02
-xn--fiq228c5hs -- .中文网 -- True -- gTLD -- http://internetregistry.info/ -- whois.teleinfo.cn -- 2025-12-17 -- 2013-12-19
+xn--fiq228c5hs -- .中文网 -- True -- gTLD -- https://tldland.cn/ -- whois.teleinfo.cn -- 2025-12-31 -- 2013-12-19
 xn--fiq64b -- .中信 -- True -- gTLD -- NULL -- whois.gtld.knet.cn -- 2025-02-14 -- 2014-01-09
 xn--fiqs8s -- .中国 -- True -- ccTLD -- http://www.cnnic.cn -- whois.cnnic.cn -- 2025-07-18 -- 2010-07-09
 xn--fiqz9s -- .中國 -- True -- ccTLD -- http://www.cnnic.cn -- whois.cnnic.cn -- 2025-07-18 -- 2010-07-09
