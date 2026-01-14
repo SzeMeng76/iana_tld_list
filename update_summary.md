@@ -1,10 +1,12 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-01-07 03:35:25 UTC
+🕐 **Update Time**: 2026-01-14 03:49:00 UTC
 
-📈 **Total TLDs**: 1438
+📈 **Total TLDs**: 1437
 
-✅ **No TLD changes, data refreshed**
+🗑️ **Removed TLDs**:
+  - .za
+
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
