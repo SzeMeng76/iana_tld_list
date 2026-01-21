@@ -1,11 +1,19 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-01-14 03:49:00 UTC
+🕐 **Update Time**: 2026-01-21 03:50:05 UTC
 
-📈 **Total TLDs**: 1437
+📈 **Total TLDs**: 1432
+
+🆕 **Added TLDs**:
+  - .za
 
 🗑️ **Removed TLDs**:
-  - .za
+  - .wf
+  - .whoswho
+  - .wien
+  - .windows
+  - .winners
+  - .woodside
 
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)

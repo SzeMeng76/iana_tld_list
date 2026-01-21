@@ -2846,7 +2846,7 @@
     "tldType": "gTLD",
     "nic": "http://www.crown.com/",
     "whois": "whois.nic.crown",
-    "lastUpdate": "2024-11-18",
+    "lastUpdate": "2026-01-16",
     "registration": "2015-06-04"
   },
   ".crs": {
@@ -5324,9 +5324,9 @@
     "dm": ".hkt",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.dot.asia/namesphere/",
+    "nic": "https://www.pccw.com/",
     "whois": "whois.nic.hkt",
-    "lastUpdate": "2025-08-27",
+    "lastUpdate": "2026-01-16",
     "registration": "2016-04-15"
   },
   ".hm": {
@@ -7566,7 +7566,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "whois.nic.mls",
-    "lastUpdate": "2024-11-18",
+    "lastUpdate": "2026-01-15",
     "registration": "2015-08-20"
   },
   ".mm": {
@@ -8304,9 +8304,9 @@
     "dm": ".nowtv",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.dot.asia/namesphere/",
+    "nic": "https://www.pccw.com/",
     "whois": "whois.nic.nowtv",
-    "lastUpdate": "2025-08-27",
+    "lastUpdate": "2026-01-16",
     "registration": "2016-04-15"
   },
   ".np": {
@@ -8724,9 +8724,9 @@
     "dm": ".pccw",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.dot.asia/namesphere/",
+    "nic": "https://www.pccw.com/",
     "whois": "whois.nic.pccw",
-    "lastUpdate": "2025-08-27",
+    "lastUpdate": "2026-01-16",
     "registration": "2016-04-15"
   },
   ".pe": {
@@ -9634,9 +9634,9 @@
     "dm": ".richardli",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.dot.asia/namesphere/",
+    "nic": "https://www.pccw.com/",
     "whois": "whois.nic.richardli",
-    "lastUpdate": "2025-08-27",
+    "lastUpdate": "2026-01-16",
     "registration": "2016-04-15"
   },
   ".ricoh": {
@@ -11016,7 +11016,7 @@
     "tldType": "ccTLD",
     "nic": "http://registry.sx",
     "whois": "whois.sx",
-    "lastUpdate": "2024-11-21",
+    "lastUpdate": "2026-01-15",
     "registration": "2010-12-20"
   },
   ".sy": {
@@ -11526,7 +11526,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.top",
     "whois": "whois.nic.top",
-    "lastUpdate": "2025-07-29",
+    "lastUpdate": "2026-01-20",
     "registration": "2014-07-24"
   },
   ".toray": {
@@ -12409,36 +12409,6 @@
     "lastUpdate": "2023-08-11",
     "registration": "2015-04-02"
   },
-  ".wf": {
-    "tld": "wf",
-    "dm": ".wf",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.nic.wf",
-    "whois": "whois.nic.wf",
-    "lastUpdate": "2024-09-09",
-    "registration": "1997-11-14"
-  },
-  ".whoswho": {
-    "tld": "whoswho",
-    "dm": ".whoswho",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://nic.whoswho",
-    "whois": "whois.nic.whoswho",
-    "lastUpdate": "2023-06-16",
-    "registration": "2014-06-12"
-  },
-  ".wien": {
-    "tld": "wien",
-    "dm": ".wien",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.nic.wien",
-    "whois": "whois.nic.wien",
-    "lastUpdate": "2025-09-01",
-    "registration": "2013-12-19"
-  },
   ".wiki": {
     "tld": "wiki",
     "dm": ".wiki",
@@ -12469,16 +12439,6 @@
     "lastUpdate": "2024-05-11",
     "registration": "2015-02-05"
   },
-  ".windows": {
-    "tld": "windows",
-    "dm": ".windows",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.microsoft.com",
-    "whois": "NULL",
-    "lastUpdate": "2025-05-01",
-    "registration": "2015-04-30"
-  },
   ".wine": {
     "tld": "wine",
     "dm": ".wine",
@@ -12488,16 +12448,6 @@
     "whois": "NULL",
     "lastUpdate": "2025-10-07",
     "registration": "2015-07-23"
-  },
-  ".winners": {
-    "tld": "winners",
-    "dm": ".winners",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.tjx.com",
-    "whois": "NULL",
-    "lastUpdate": "2024-05-11",
-    "registration": "2016-04-07"
   },
   ".wme": {
     "tld": "wme",
@@ -12518,16 +12468,6 @@
     "whois": "whois.nic.wolterskluwer",
     "lastUpdate": "2023-08-03",
     "registration": "2016-02-05"
-  },
-  ".woodside": {
-    "tld": "woodside",
-    "dm": ".woodside",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.woodside.com.au/",
-    "whois": "whois.nic.woodside",
-    "lastUpdate": "2024-10-31",
-    "registration": "2016-01-08"
   },
   ".work": {
     "tld": "work",
@@ -13254,9 +13194,9 @@
     "dm": ".電訊盈科",
     "isIDN": "True",
     "tldType": "gTLD",
-    "nic": "http://www.dot.asia/namesphere/",
+    "nic": "https://www.pccw.com/",
     "whois": "whois.nic.xn--fzys8d69uvgm",
-    "lastUpdate": "2025-08-27",
+    "lastUpdate": "2026-01-16",
     "registration": "2016-04-15"
   },
   ".购物": {
@@ -14288,6 +14228,16 @@
     "whois": "whois.teleinfo.cn",
     "lastUpdate": "2025-10-24",
     "registration": "2016-03-18"
+  },
+  ".za": {
+    "tld": "za",
+    "dm": ".za",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.zadna.org.za/",
+    "whois": "NULL",
+    "lastUpdate": "2025-04-16",
+    "registration": "1990-11-07"
   },
   ".zappos": {
     "tld": "zappos",

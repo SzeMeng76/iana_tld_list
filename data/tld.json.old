@@ -1156,7 +1156,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.dnsbelgium.be",
     "whois": "whois.dns.be",
-    "lastUpdate": "2025-06-05",
+    "lastUpdate": "2026-01-12",
     "registration": "1988-08-05"
   },
   ".beats": {
@@ -1876,7 +1876,7 @@
     "tldType": "gTLD",
     "nic": "https://nic.cam/",
     "whois": "whois.nic.cam",
-    "lastUpdate": "2024-04-30",
+    "lastUpdate": "2026-01-13",
     "registration": "2016-06-09"
   },
   ".camera": {
@@ -5316,7 +5316,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.hkirc.hk",
     "whois": "whois.hkirc.hk",
-    "lastUpdate": "2025-01-01",
+    "lastUpdate": "2026-01-07",
     "registration": "1990-01-03"
   },
   ".hkt": {
@@ -6456,7 +6456,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.or.kr/",
     "whois": "whois.kr",
-    "lastUpdate": "2020-07-16",
+    "lastUpdate": "2026-01-07",
     "registration": "1986-09-29"
   },
   ".krd": {
@@ -7046,7 +7046,7 @@
     "tldType": "ccTLD",
     "nic": "http://psg.com/dns/lr",
     "whois": "NULL",
-    "lastUpdate": "2024-04-03",
+    "lastUpdate": "2026-01-10",
     "registration": "1997-04-09"
   },
   ".ls": {
@@ -9906,7 +9906,7 @@
     "tldType": "gTLD",
     "nic": "http://samsungregistry.com",
     "whois": "whois.nic.samsung",
-    "lastUpdate": "2025-02-11",
+    "lastUpdate": "2026-01-08",
     "registration": "2014-10-30"
   },
   ".sandvik": {
@@ -11486,7 +11486,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.tonic.to/",
     "whois": "whois.tonicregistry.to",
-    "lastUpdate": "2025-12-16",
+    "lastUpdate": "2026-01-07",
     "registration": "1995-12-18"
   },
   ".today": {
@@ -13056,7 +13056,7 @@
     "tldType": "gTLD",
     "nic": "http://samsungregistry.com",
     "whois": "whois.kr",
-    "lastUpdate": "2025-02-11",
+    "lastUpdate": "2026-01-08",
     "registration": "2013-12-12"
   },
   ".சிங்கப்பூர்": {
@@ -13396,7 +13396,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.hkirc.hk",
     "whois": "whois.hkirc.hk",
-    "lastUpdate": "2025-01-01",
+    "lastUpdate": "2026-01-07",
     "registration": "2010-07-12"
   },
   ".亚马逊": {
@@ -14288,16 +14288,6 @@
     "whois": "whois.teleinfo.cn",
     "lastUpdate": "2025-10-24",
     "registration": "2016-03-18"
-  },
-  ".za": {
-    "tld": "za",
-    "dm": ".za",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.zadna.org.za/",
-    "whois": "NULL",
-    "lastUpdate": "2025-04-16",
-    "registration": "1990-11-07"
   },
   ".zappos": {
     "tld": "zappos",
