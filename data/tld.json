@@ -36,7 +36,7 @@
     "tldType": "gTLD",
     "nic": "http://www.abbott.com",
     "whois": "whois.nic.abbott",
-    "lastUpdate": "2025-12-15",
+    "lastUpdate": "2026-01-26",
     "registration": "2014-11-20"
   },
   ".abbvie": {
@@ -2846,7 +2846,7 @@
     "tldType": "gTLD",
     "nic": "http://www.crown.com/",
     "whois": "whois.nic.crown",
-    "lastUpdate": "2026-01-16",
+    "lastUpdate": "2026-01-22",
     "registration": "2015-06-04"
   },
   ".crs": {
@@ -4396,7 +4396,7 @@
     "tldType": "gTLD",
     "nic": "https://www.radix.website/",
     "whois": "whois.nic.fun",
-    "lastUpdate": "2024-03-11",
+    "lastUpdate": "2026-01-22",
     "registration": "2016-11-30"
   },
   ".fund": {
@@ -5456,7 +5456,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.host",
-    "lastUpdate": "2024-03-11",
+    "lastUpdate": "2026-01-22",
     "registration": "2014-05-22"
   },
   ".hosting": {
@@ -7566,7 +7566,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "whois.nic.mls",
-    "lastUpdate": "2026-01-15",
+    "lastUpdate": "2026-01-23",
     "registration": "2015-08-20"
   },
   ".mm": {
@@ -8476,7 +8476,7 @@
     "tldType": "gTLD",
     "nic": "http://www.swatchgroup.com/",
     "whois": "NULL",
-    "lastUpdate": "2025-01-28",
+    "lastUpdate": "2026-01-23",
     "registration": "2015-04-23"
   },
   ".one": {
@@ -8516,7 +8516,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.online",
-    "lastUpdate": "2025-05-08",
+    "lastUpdate": "2026-01-22",
     "registration": "2015-03-06"
   },
   ".ooo": {
@@ -9136,7 +9136,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.press",
-    "lastUpdate": "2024-03-11",
+    "lastUpdate": "2026-01-22",
     "registration": "2014-05-22"
   },
   ".prime": {
@@ -9296,7 +9296,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.registry.pw",
     "whois": "whois.nic.pw",
-    "lastUpdate": "2025-04-15",
+    "lastUpdate": "2026-01-21",
     "registration": "1997-06-12"
   },
   ".pwc": {
@@ -9549,16 +9549,6 @@
     "lastUpdate": "2025-10-07",
     "registration": "2013-12-19"
   },
-  ".report": {
-    "tld": "report",
-    "dm": ".report",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-07",
-    "registration": "2014-01-30"
-  },
   ".republican": {
     "tld": "republican",
     "dm": ".republican",
@@ -9728,26 +9718,6 @@
     "whois": "NULL",
     "lastUpdate": "2025-02-14",
     "registration": "2015-11-12"
-  },
-  ".rs": {
-    "tld": "rs",
-    "dm": ".rs",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "http://www.rnids.rs",
-    "whois": "whois.rnids.rs",
-    "lastUpdate": "2025-02-06",
-    "registration": "2007-09-24"
-  },
-  ".rsvp": {
-    "tld": "rsvp",
-    "dm": ".rsvp",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.registry.google",
-    "whois": "NULL",
-    "lastUpdate": "2025-04-11",
-    "registration": "2014-08-23"
   },
   ".ru": {
     "tld": "ru",
@@ -10436,7 +10406,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.site",
-    "lastUpdate": "2025-05-08",
+    "lastUpdate": "2026-01-22",
     "registration": "2015-03-06"
   },
   ".sj": {
@@ -10696,7 +10666,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.space",
-    "lastUpdate": "2024-03-20",
+    "lastUpdate": "2026-01-22",
     "registration": "2014-05-22"
   },
   ".sport": {
@@ -10856,7 +10826,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.store",
-    "lastUpdate": "2024-03-20",
+    "lastUpdate": "2026-01-22",
     "registration": "2016-02-11"
   },
   ".stream": {
@@ -10986,7 +10956,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.svnet.sv",
     "whois": "NULL",
-    "lastUpdate": "2023-09-11",
+    "lastUpdate": "2026-01-22",
     "registration": "1994-11-04"
   },
   ".swatch": {
@@ -10996,7 +10966,7 @@
     "tldType": "gTLD",
     "nic": "http://www.swatchgroup.com/",
     "whois": "NULL",
-    "lastUpdate": "2025-01-28",
+    "lastUpdate": "2026-01-23",
     "registration": "2015-04-23"
   },
   ".swiss": {
@@ -11016,7 +10986,7 @@
     "tldType": "ccTLD",
     "nic": "http://registry.sx",
     "whois": "whois.sx",
-    "lastUpdate": "2026-01-15",
+    "lastUpdate": "2026-01-26",
     "registration": "2010-12-20"
   },
   ".sy": {
@@ -11216,7 +11186,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.tech",
-    "lastUpdate": "2024-02-28",
+    "lastUpdate": "2026-01-22",
     "registration": "2015-03-12"
   },
   ".technology": {
@@ -11526,7 +11496,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.top",
     "whois": "whois.nic.top",
-    "lastUpdate": "2026-01-20",
+    "lastUpdate": "2026-01-21",
     "registration": "2014-07-24"
   },
   ".toray": {
@@ -11856,7 +11826,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.uno",
-    "lastUpdate": "2024-03-20",
+    "lastUpdate": "2026-01-22",
     "registration": "2013-11-13"
   },
   ".uol": {
@@ -12366,7 +12336,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.website",
-    "lastUpdate": "2024-03-20",
+    "lastUpdate": "2026-01-22",
     "registration": "2014-05-22"
   },
   ".wed": {
@@ -12409,6 +12379,36 @@
     "lastUpdate": "2023-08-11",
     "registration": "2015-04-02"
   },
+  ".wf": {
+    "tld": "wf",
+    "dm": ".wf",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.nic.wf",
+    "whois": "whois.nic.wf",
+    "lastUpdate": "2024-09-09",
+    "registration": "1997-11-14"
+  },
+  ".whoswho": {
+    "tld": "whoswho",
+    "dm": ".whoswho",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://nic.whoswho",
+    "whois": "whois.nic.whoswho",
+    "lastUpdate": "2023-06-16",
+    "registration": "2014-06-12"
+  },
+  ".wien": {
+    "tld": "wien",
+    "dm": ".wien",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.nic.wien",
+    "whois": "whois.nic.wien",
+    "lastUpdate": "2025-09-01",
+    "registration": "2013-12-19"
+  },
   ".wiki": {
     "tld": "wiki",
     "dm": ".wiki",
@@ -12439,6 +12439,16 @@
     "lastUpdate": "2024-05-11",
     "registration": "2015-02-05"
   },
+  ".windows": {
+    "tld": "windows",
+    "dm": ".windows",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.microsoft.com",
+    "whois": "NULL",
+    "lastUpdate": "2025-05-01",
+    "registration": "2015-04-30"
+  },
   ".wine": {
     "tld": "wine",
     "dm": ".wine",
@@ -12448,6 +12458,16 @@
     "whois": "NULL",
     "lastUpdate": "2025-10-07",
     "registration": "2015-07-23"
+  },
+  ".winners": {
+    "tld": "winners",
+    "dm": ".winners",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.tjx.com",
+    "whois": "NULL",
+    "lastUpdate": "2024-05-11",
+    "registration": "2016-04-07"
   },
   ".wme": {
     "tld": "wme",
@@ -12468,6 +12488,16 @@
     "whois": "whois.nic.wolterskluwer",
     "lastUpdate": "2023-08-03",
     "registration": "2016-02-05"
+  },
+  ".woodside": {
+    "tld": "woodside",
+    "dm": ".woodside",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.woodside.com.au/",
+    "whois": "whois.nic.woodside",
+    "lastUpdate": "2024-10-31",
+    "registration": "2016-01-08"
   },
   ".work": {
     "tld": "work",
@@ -12606,7 +12636,7 @@
     "tldType": "gTLD",
     "nic": "http://www.yu-wei.cn/",
     "whois": "whois.ngtld.cn",
-    "lastUpdate": "2025-12-05",
+    "lastUpdate": "2026-01-23",
     "registration": "2014-07-17"
   },
   ".ಭಾರತ": {
@@ -14026,7 +14056,7 @@
     "tldType": "gTLD",
     "nic": "http://www.yu-wei.cn/",
     "whois": "whois.ngtld.cn",
-    "lastUpdate": "2025-12-05",
+    "lastUpdate": "2026-01-23",
     "registration": "2014-07-24"
   },
   ".இலங்கை": {
