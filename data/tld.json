@@ -916,7 +916,7 @@
     "tldType": "gTLD",
     "nic": "http://www.microsoft.com",
     "whois": "NULL",
-    "lastUpdate": "2025-05-01",
+    "lastUpdate": "2026-02-02",
     "registration": "2015-04-30"
   },
   ".ba": {
@@ -1316,7 +1316,7 @@
     "tldType": "gTLD",
     "nic": "http://www.microsoft.com",
     "whois": "NULL",
-    "lastUpdate": "2025-05-01",
+    "lastUpdate": "2026-02-02",
     "registration": "2015-04-30"
   },
   ".bingo": {
@@ -2796,7 +2796,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.cr/",
     "whois": "whois.nic.cr",
-    "lastUpdate": "2025-08-22",
+    "lastUpdate": "2026-02-02",
     "registration": "1990-09-10"
   },
   ".credit": {
@@ -5496,7 +5496,7 @@
     "tldType": "gTLD",
     "nic": "http://www.microsoft.com",
     "whois": "NULL",
-    "lastUpdate": "2025-05-01",
+    "lastUpdate": "2026-02-02",
     "registration": "2015-04-30"
   },
   ".house": {
@@ -5656,7 +5656,7 @@
     "tldType": "gTLD",
     "nic": "http://www.ieee.org",
     "whois": "NULL",
-    "lastUpdate": "2022-03-23",
+    "lastUpdate": "2026-02-02",
     "registration": "2016-06-09"
   },
   ".ifm": {
@@ -5686,7 +5686,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.isoc.org.il/domains",
     "whois": "whois.isoc.org.il",
-    "lastUpdate": "2025-02-11",
+    "lastUpdate": "2026-02-03",
     "registration": "1985-10-24"
   },
   ".im": {
@@ -7476,7 +7476,7 @@
     "tldType": "gTLD",
     "nic": "http://www.microsoft.com",
     "whois": "NULL",
-    "lastUpdate": "2025-05-01",
+    "lastUpdate": "2026-02-02",
     "registration": "2015-04-30"
   },
   ".mil": {
@@ -7916,7 +7916,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.mynic.my",
     "whois": "whois.mynic.my",
-    "lastUpdate": "2025-05-12",
+    "lastUpdate": "2026-01-28",
     "registration": "1987-06-08"
   },
   ".mz": {
@@ -8146,7 +8146,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nira.org.ng/",
     "whois": "whois.nic.net.ng",
-    "lastUpdate": "2025-09-01",
+    "lastUpdate": "2026-01-29",
     "registration": "1995-03-15"
   },
   ".ngo": {
@@ -9549,6 +9549,16 @@
     "lastUpdate": "2025-10-07",
     "registration": "2013-12-19"
   },
+  ".report": {
+    "tld": "report",
+    "dm": ".report",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2014-01-30"
+  },
   ".republican": {
     "tld": "republican",
     "dm": ".republican",
@@ -9718,6 +9728,26 @@
     "whois": "NULL",
     "lastUpdate": "2025-02-14",
     "registration": "2015-11-12"
+  },
+  ".rs": {
+    "tld": "rs",
+    "dm": ".rs",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.rnids.rs",
+    "whois": "whois.rnids.rs",
+    "lastUpdate": "2025-02-06",
+    "registration": "2007-09-24"
+  },
+  ".rsvp": {
+    "tld": "rsvp",
+    "dm": ".rsvp",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.registry.google",
+    "whois": "NULL",
+    "lastUpdate": "2025-04-11",
+    "registration": "2014-08-23"
   },
   ".ru": {
     "tld": "ru",
@@ -10286,7 +10316,7 @@
     "tldType": "gTLD",
     "nic": "http://www.shell.com",
     "whois": "NULL",
-    "lastUpdate": "2025-01-28",
+    "lastUpdate": "2026-02-02",
     "registration": "2015-11-06"
   },
   ".shia": {
@@ -12446,7 +12476,7 @@
     "tldType": "gTLD",
     "nic": "http://www.microsoft.com",
     "whois": "NULL",
-    "lastUpdate": "2025-05-01",
+    "lastUpdate": "2026-02-02",
     "registration": "2015-04-30"
   },
   ".wine": {
@@ -12576,7 +12606,7 @@
     "tldType": "gTLD",
     "nic": "http://www.microsoft.com",
     "whois": "NULL",
-    "lastUpdate": "2025-05-01",
+    "lastUpdate": "2026-02-02",
     "registration": "2015-04-30"
   },
   ".xerox": {
@@ -13536,7 +13566,7 @@
     "tldType": "ccTLD",
     "nic": "https://dns.jo/",
     "whois": "NULL",
-    "lastUpdate": "2025-08-29",
+    "lastUpdate": "2026-02-03",
     "registration": "2010-08-20"
   },
   ".بارت": {
@@ -13656,7 +13686,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.mynic.my",
     "whois": "whois.mynic.my",
-    "lastUpdate": "2025-05-02",
+    "lastUpdate": "2026-01-28",
     "registration": "2011-10-22"
   },
   ".澳門": {

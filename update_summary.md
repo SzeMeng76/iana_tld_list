@@ -1,18 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-01-28 03:53:45 UTC
+🕐 **Update Time**: 2026-02-04 04:15:12 UTC
 
-📈 **Total TLDs**: 1435
+📈 **Total TLDs**: 1438
 
 🆕 **Added TLDs**:
-  - .wf
-  - .whoswho
-  - .wien
-  - .windows
-  - .winners
-  - .woodside
-
-🗑️ **Removed TLDs**:
   - .report
   - .rs
   - .rsvp
