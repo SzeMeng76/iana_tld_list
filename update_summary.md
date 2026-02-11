@@ -1,13 +1,30 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-02-04 04:15:12 UTC
+🕐 **Update Time**: 2026-02-11 04:36:14 UTC
 
-📈 **Total TLDs**: 1438
+📈 **Total TLDs**: 1418
 
-🆕 **Added TLDs**:
-  - .report
-  - .rs
-  - .rsvp
+🗑️ **Removed TLDs**:
+  - .goo
+  - .tennis
+  - .tf
+  - .tg
+  - .theater
+  - .tienda
+  - .tips
+  - .tires
+  - .tirol
+  - .tj
+  - .tjmaxx
+  - .tjx
+  - .tmall
+  - .tokyo
+  - .tools
+  - .toray
+  - .toshiba
+  - .total
+  - .town
+  - .toyota
 
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
