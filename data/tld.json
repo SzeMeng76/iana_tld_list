@@ -1204,9 +1204,9 @@
     "dm": ".best",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "https://www.go.best",
+    "nic": "https://www.domains.best",
     "whois": "whois.nic.best",
-    "lastUpdate": "2023-10-05",
+    "lastUpdate": "2026-02-11",
     "registration": "2014-02-20"
   },
   ".bestbuy": {
@@ -2526,7 +2526,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.registry.co",
     "whois": "whois.registry.co",
-    "lastUpdate": "2025-10-08",
+    "lastUpdate": "2026-02-17",
     "registration": "1991-12-24"
   },
   ".coach": {
@@ -2796,7 +2796,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.cr/",
     "whois": "whois.nic.cr",
-    "lastUpdate": "2026-02-02",
+    "lastUpdate": "2026-02-17",
     "registration": "1990-09-10"
   },
   ".credit": {
@@ -4216,7 +4216,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.fo/",
     "whois": "whois.nic.fo",
-    "lastUpdate": "2024-06-21",
+    "lastUpdate": "2026-02-13",
     "registration": "1993-05-14"
   },
   ".foo": {
@@ -4396,7 +4396,7 @@
     "tldType": "gTLD",
     "nic": "https://www.radix.website/",
     "whois": "whois.nic.fun",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-02-12",
     "registration": "2016-11-30"
   },
   ".fund": {
@@ -5446,7 +5446,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.host",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-02-12",
     "registration": "2014-05-22"
   },
   ".hosting": {
@@ -5926,7 +5926,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.isnic.is/",
     "whois": "whois.isnic.is",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2026-02-17",
     "registration": "1987-11-18"
   },
   ".ismaili": {
@@ -6116,7 +6116,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.dns.jo",
     "whois": "NULL",
-    "lastUpdate": "2026-02-05",
+    "lastUpdate": "2026-02-14",
     "registration": "1994-11-23"
   },
   ".jobs": {
@@ -6266,7 +6266,7 @@
     "tldType": "gTLD",
     "nic": "http://kfh.com",
     "whois": "whois.nic.kfh",
-    "lastUpdate": "2026-02-05",
+    "lastUpdate": "2026-02-17",
     "registration": "2015-10-29"
   },
   ".kg": {
@@ -7896,7 +7896,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.registry.mx/",
     "whois": "whois.mx",
-    "lastUpdate": "2025-02-21",
+    "lastUpdate": "2026-02-17",
     "registration": "1989-02-01"
   },
   ".my": {
@@ -7906,7 +7906,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.mynic.my",
     "whois": "whois.mynic.my",
-    "lastUpdate": "2026-01-28",
+    "lastUpdate": "2026-02-12",
     "registration": "1987-06-08"
   },
   ".mz": {
@@ -8136,7 +8136,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nira.org.ng/",
     "whois": "whois.nic.net.ng",
-    "lastUpdate": "2026-01-29",
+    "lastUpdate": "2026-02-14",
     "registration": "1995-03-15"
   },
   ".ngo": {
@@ -8506,7 +8506,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.online",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-02-11",
     "registration": "2015-03-06"
   },
   ".ooo": {
@@ -9126,7 +9126,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.press",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-02-12",
     "registration": "2014-05-22"
   },
   ".prime": {
@@ -10126,7 +10126,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.internetstiftelsen.se",
     "whois": "whois.iis.se",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-02-12",
     "registration": "1986-09-04"
   },
   ".search": {
@@ -10426,7 +10426,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.site",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-02-11",
     "registration": "2015-03-06"
   },
   ".sj": {
@@ -10686,7 +10686,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.space",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-02-11",
     "registration": "2014-05-22"
   },
   ".sport": {
@@ -10846,7 +10846,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.store",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-02-12",
     "registration": "2016-02-11"
   },
   ".stream": {
@@ -11206,7 +11206,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.tech",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-02-12",
     "registration": "2015-03-12"
   },
   ".technology": {
@@ -11239,6 +11239,16 @@
     "lastUpdate": "2025-08-27",
     "registration": "2014-12-18"
   },
+  ".tennis": {
+    "tld": "tennis",
+    "dm": ".tennis",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2015-01-29"
+  },
   ".teva": {
     "tld": "teva",
     "dm": ".teva",
@@ -11248,6 +11258,26 @@
     "whois": "whois.nic.teva",
     "lastUpdate": "2024-05-11",
     "registration": "2016-02-19"
+  },
+  ".tf": {
+    "tld": "tf",
+    "dm": ".tf",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.nic.tf",
+    "whois": "whois.nic.tf",
+    "lastUpdate": "2024-09-09",
+    "registration": "1997-08-26"
+  },
+  ".tg": {
+    "tld": "tg",
+    "dm": ".tg",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.nic.tg",
+    "whois": "whois.nic.tg",
+    "lastUpdate": "2021-03-08",
+    "registration": "1996-09-05"
   },
   ".th": {
     "tld": "th",
@@ -11268,6 +11298,16 @@
     "whois": "whois.nic.thd",
     "lastUpdate": "2023-08-11",
     "registration": "2015-05-14"
+  },
+  ".theater": {
+    "tld": "theater",
+    "dm": ".theater",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2015-04-30"
   },
   ".theatre": {
     "tld": "theatre",
@@ -11298,6 +11338,76 @@
     "whois": "whois.nic.tickets",
     "lastUpdate": "2025-08-12",
     "registration": "2015-03-19"
+  },
+  ".tienda": {
+    "tld": "tienda",
+    "dm": ".tienda",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2014-01-16"
+  },
+  ".tips": {
+    "tld": "tips",
+    "dm": ".tips",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2013-11-13"
+  },
+  ".tires": {
+    "tld": "tires",
+    "dm": ".tires",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2014-12-11"
+  },
+  ".tirol": {
+    "tld": "tirol",
+    "dm": ".tirol",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.nic.tirol",
+    "whois": "whois.nic.tirol",
+    "lastUpdate": "2025-09-01",
+    "registration": "2014-05-29"
+  },
+  ".tj": {
+    "tld": "tj",
+    "dm": ".tj",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "http://www.nic.tj",
+    "whois": "NULL",
+    "lastUpdate": "2020-03-09",
+    "registration": "1997-12-11"
+  },
+  ".tjmaxx": {
+    "tld": "tjmaxx",
+    "dm": ".tjmaxx",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.tjx.com",
+    "whois": "NULL",
+    "lastUpdate": "2024-05-11",
+    "registration": "2016-04-07"
+  },
+  ".tjx": {
+    "tld": "tjx",
+    "dm": ".tjx",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.tjx.com",
+    "whois": "NULL",
+    "lastUpdate": "2024-05-11",
+    "registration": "2016-04-07"
   },
   ".tk": {
     "tld": "tk",
@@ -11339,6 +11449,16 @@
     "lastUpdate": "2025-06-18",
     "registration": "1997-05-30"
   },
+  ".tmall": {
+    "tld": "tmall",
+    "dm": ".tmall",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.alibabagroup.com",
+    "whois": "whois.nic.tmall",
+    "lastUpdate": "2025-08-27",
+    "registration": "2016-01-08"
+  },
   ".tn": {
     "tld": "tn",
     "dm": ".tn",
@@ -11369,6 +11489,26 @@
     "lastUpdate": "2025-10-07",
     "registration": "2013-11-13"
   },
+  ".tokyo": {
+    "tld": "tokyo",
+    "dm": ".tokyo",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.gmo-registry.com/en/",
+    "whois": "whois.nic.tokyo",
+    "lastUpdate": "2019-08-20",
+    "registration": "2014-01-16"
+  },
+  ".tools": {
+    "tld": "tools",
+    "dm": ".tools",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2014-01-16"
+  },
   ".top": {
     "tld": "top",
     "dm": ".top",
@@ -11379,6 +11519,36 @@
     "lastUpdate": "2026-01-21",
     "registration": "2014-07-24"
   },
+  ".toray": {
+    "tld": "toray",
+    "dm": ".toray",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.toray.com",
+    "whois": "whois.nic.toray",
+    "lastUpdate": "2023-06-20",
+    "registration": "2015-04-16"
+  },
+  ".toshiba": {
+    "tld": "toshiba",
+    "dm": ".toshiba",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://nic.toshiba",
+    "whois": "whois.nic.toshiba",
+    "lastUpdate": "2019-08-20",
+    "registration": "2014-10-09"
+  },
+  ".total": {
+    "tld": "total",
+    "dm": ".total",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.nic.total",
+    "whois": "whois.nic.total",
+    "lastUpdate": "2024-09-13",
+    "registration": "2016-02-05"
+  },
   ".tours": {
     "tld": "tours",
     "dm": ".tours",
@@ -11388,6 +11558,26 @@
     "whois": "NULL",
     "lastUpdate": "2025-10-07",
     "registration": "2015-03-12"
+  },
+  ".town": {
+    "tld": "town",
+    "dm": ".town",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2014-04-03"
+  },
+  ".toyota": {
+    "tld": "toyota",
+    "dm": ".toyota",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://toyota.jp/",
+    "whois": "whois.nic.toyota",
+    "lastUpdate": "2023-06-20",
+    "registration": "2015-07-16"
   },
   ".toys": {
     "tld": "toys",
@@ -11656,7 +11846,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.uno",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-02-11",
     "registration": "2013-11-13"
   },
   ".uol": {
@@ -12166,7 +12356,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.website",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-02-12",
     "registration": "2014-05-22"
   },
   ".wed": {
@@ -12308,16 +12498,6 @@
     "whois": "whois.nic.wme",
     "lastUpdate": "2023-09-19",
     "registration": "2014-08-22"
-  },
-  ".wolterskluwer": {
-    "tld": "wolterskluwer",
-    "dm": ".wolterskluwer",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://wolterskluwer.com",
-    "whois": "whois.nic.wolterskluwer",
-    "lastUpdate": "2023-08-03",
-    "registration": "2016-02-05"
   },
   ".woodside": {
     "tld": "woodside",
@@ -12866,7 +13046,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.sgnic.sg/",
     "whois": "whois.ta.sgnic.sg",
-    "lastUpdate": "2024-11-19",
+    "lastUpdate": "2026-02-11",
     "registration": "2011-02-05"
   },
   ".商标": {
@@ -13356,7 +13536,7 @@
     "tldType": "ccTLD",
     "nic": "NULL",
     "whois": "NULL",
-    "lastUpdate": "2023-03-07",
+    "lastUpdate": "2026-02-11",
     "registration": "2011-02-28"
   },
   ".الاردن": {
@@ -13486,7 +13666,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.mynic.my",
     "whois": "whois.mynic.my",
-    "lastUpdate": "2026-01-28",
+    "lastUpdate": "2026-02-12",
     "registration": "2011-10-22"
   },
   ".澳門": {
@@ -13536,7 +13716,7 @@
     "tldType": "gTLD",
     "nic": "http://kfh.com",
     "whois": "whois.nic.xn--ngbe9e0a",
-    "lastUpdate": "2026-02-06",
+    "lastUpdate": "2026-02-17",
     "registration": "2015-10-29"
   },
   ".عرب": {
@@ -13926,7 +14106,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.sgnic.sg/",
     "whois": "whois.zh.sgnic.sg",
-    "lastUpdate": "2024-11-19",
+    "lastUpdate": "2026-02-11",
     "registration": "2011-02-05"
   },
   ".فلسطين": {

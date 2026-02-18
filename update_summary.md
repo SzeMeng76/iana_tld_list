@@ -1,11 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-02-11 04:36:14 UTC
+🕐 **Update Time**: 2026-02-18 04:26:36 UTC
 
-📈 **Total TLDs**: 1418
+📈 **Total TLDs**: 1436
 
-🗑️ **Removed TLDs**:
-  - .goo
+🆕 **Added TLDs**:
   - .tennis
   - .tf
   - .tg
@@ -25,6 +24,9 @@
   - .total
   - .town
   - .toyota
+
+🗑️ **Removed TLDs**:
+  - .wolterskluwer
 
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
