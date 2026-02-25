@@ -1,33 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-02-18 04:26:36 UTC
+🕐 **Update Time**: 2026-02-25 04:25:08 UTC
 
 📈 **Total TLDs**: 1436
 
-🆕 **Added TLDs**:
-  - .tennis
-  - .tf
-  - .tg
-  - .theater
-  - .tienda
-  - .tips
-  - .tires
-  - .tirol
-  - .tj
-  - .tjmaxx
-  - .tjx
-  - .tmall
-  - .tokyo
-  - .tools
-  - .toray
-  - .toshiba
-  - .total
-  - .town
-  - .toyota
-
-🗑️ **Removed TLDs**:
-  - .wolterskluwer
-
+✅ **No TLD changes, data refreshed**
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
