@@ -4396,7 +4396,7 @@
     "tldType": "gTLD",
     "nic": "https://www.radix.website/",
     "whois": "whois.nic.fun",
-    "lastUpdate": "2026-02-12",
+    "lastUpdate": "2026-02-23",
     "registration": "2016-11-30"
   },
   ".fund": {
@@ -5446,7 +5446,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.host",
-    "lastUpdate": "2026-02-12",
+    "lastUpdate": "2026-02-23",
     "registration": "2014-05-22"
   },
   ".hosting": {
@@ -5676,7 +5676,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.isoc.org.il/domains",
     "whois": "whois.isoc.org.il",
-    "lastUpdate": "2026-02-03",
+    "lastUpdate": "2026-02-24",
     "registration": "1985-10-24"
   },
   ".im": {
@@ -5926,7 +5926,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.isnic.is/",
     "whois": "whois.isnic.is",
-    "lastUpdate": "2026-02-17",
+    "lastUpdate": "2026-02-18",
     "registration": "1987-11-18"
   },
   ".ismaili": {
@@ -6116,7 +6116,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.dns.jo",
     "whois": "NULL",
-    "lastUpdate": "2026-02-14",
+    "lastUpdate": "2026-02-24",
     "registration": "1994-11-23"
   },
   ".jobs": {
@@ -6266,7 +6266,7 @@
     "tldType": "gTLD",
     "nic": "http://kfh.com",
     "whois": "whois.nic.kfh",
-    "lastUpdate": "2026-02-17",
+    "lastUpdate": "2026-02-24",
     "registration": "2015-10-29"
   },
   ".kg": {
@@ -8506,7 +8506,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.online",
-    "lastUpdate": "2026-02-11",
+    "lastUpdate": "2026-02-23",
     "registration": "2015-03-06"
   },
   ".ooo": {
@@ -9126,7 +9126,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.press",
-    "lastUpdate": "2026-02-12",
+    "lastUpdate": "2026-02-23",
     "registration": "2014-05-22"
   },
   ".prime": {
@@ -9286,7 +9286,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.registry.pw",
     "whois": "whois.nic.pw",
-    "lastUpdate": "2026-02-09",
+    "lastUpdate": "2026-02-20",
     "registration": "1997-06-12"
   },
   ".pwc": {
@@ -9816,7 +9816,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.net.sa/",
     "whois": "whois.nic.net.sa",
-    "lastUpdate": "2025-08-19",
+    "lastUpdate": "2026-02-24",
     "registration": "1994-05-17"
   },
   ".saarland": {
@@ -10426,7 +10426,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.site",
-    "lastUpdate": "2026-02-11",
+    "lastUpdate": "2026-02-23",
     "registration": "2015-03-06"
   },
   ".sj": {
@@ -10686,7 +10686,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.space",
-    "lastUpdate": "2026-02-11",
+    "lastUpdate": "2026-02-23",
     "registration": "2014-05-22"
   },
   ".sport": {
@@ -10846,7 +10846,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.store",
-    "lastUpdate": "2026-02-12",
+    "lastUpdate": "2026-02-23",
     "registration": "2016-02-11"
   },
   ".stream": {
@@ -11206,7 +11206,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.tech",
-    "lastUpdate": "2026-02-12",
+    "lastUpdate": "2026-02-23",
     "registration": "2015-03-12"
   },
   ".technology": {
@@ -11846,7 +11846,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.uno",
-    "lastUpdate": "2026-02-11",
+    "lastUpdate": "2026-02-23",
     "registration": "2013-11-13"
   },
   ".uol": {
@@ -12356,7 +12356,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.website",
-    "lastUpdate": "2026-02-12",
+    "lastUpdate": "2026-02-23",
     "registration": "2014-05-22"
   },
   ".wed": {
@@ -13606,7 +13606,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.net.sa/",
     "whois": "whois.nic.net.sa",
-    "lastUpdate": "2025-08-19",
+    "lastUpdate": "2026-02-18",
     "registration": "2010-05-05"
   },
   ".ڀارت": {
@@ -13716,7 +13716,7 @@
     "tldType": "gTLD",
     "nic": "http://kfh.com",
     "whois": "whois.nic.xn--ngbe9e0a",
-    "lastUpdate": "2026-02-17",
+    "lastUpdate": "2026-02-24",
     "registration": "2015-10-29"
   },
   ".عرب": {
