@@ -6284,9 +6284,9 @@
     "dm": ".kh",
     "isIDN": "False",
     "tldType": "ccTLD",
-    "nic": "http://www.tc.com.kh",
+    "nic": "http://www.trc.gov.kh",
     "whois": "NULL",
-    "lastUpdate": "2019-05-28",
+    "lastUpdate": "2026-02-26",
     "registration": "1996-02-20"
   },
   ".ki": {
@@ -6348,16 +6348,6 @@
     "whois": "NULL",
     "lastUpdate": "2025-10-07",
     "registration": "2013-11-13"
-  },
-  ".kiwi": {
-    "tld": "kiwi",
-    "dm": ".kiwi",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://hello.kiwi",
-    "whois": "whois.nic.kiwi",
-    "lastUpdate": "2025-02-28",
-    "registration": "2013-11-25"
   },
   ".km": {
     "tld": "km",
@@ -7896,7 +7886,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.registry.mx/",
     "whois": "whois.mx",
-    "lastUpdate": "2026-02-17",
+    "lastUpdate": "2026-02-28",
     "registration": "1989-02-01"
   },
   ".my": {
@@ -9366,7 +9356,7 @@
     "tldType": "gTLD",
     "nic": "https://www.nic.radio/",
     "whois": "whois.nic.radio",
-    "lastUpdate": "2022-01-07",
+    "lastUpdate": "2026-02-26",
     "registration": "2016-09-22"
   },
   ".re": {
@@ -11156,7 +11146,7 @@
     "tldType": "ccTLD",
     "nic": "HTTPS://WWW.NIC.TC",
     "whois": "whois.nic.tc",
-    "lastUpdate": "2021-02-25",
+    "lastUpdate": "2026-02-25",
     "registration": "1997-01-27"
   },
   ".tci": {
@@ -12316,7 +12306,7 @@
     "tldType": "gTLD",
     "nic": "http://www.weather.com",
     "whois": "NULL",
-    "lastUpdate": "2023-11-30",
+    "lastUpdate": "2026-03-01",
     "registration": "2015-12-23"
   },
   ".weatherchannel": {
@@ -12324,9 +12314,9 @@
     "dm": ".weatherchannel",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.weather.com",
+    "nic": "https://www.weathercompany.com/",
     "whois": "NULL",
-    "lastUpdate": "2023-11-30",
+    "lastUpdate": "2026-03-01",
     "registration": "2016-01-22"
   },
   ".webcam": {
@@ -13339,16 +13329,6 @@
     "lastUpdate": "2024-12-17",
     "registration": "2015-05-08"
   },
-  ".网络": {
-    "tld": "xn--io0a7i",
-    "dm": ".网络",
-    "isIDN": "True",
-    "tldType": "gTLD",
-    "nic": "http://www.cnnic.cn",
-    "whois": "whois.ngtld.cn",
-    "lastUpdate": "2025-07-17",
-    "registration": "2014-01-09"
-  },
   ".ком": {
     "tld": "xn--j1aef",
     "dm": ".ком",
@@ -13528,16 +13508,6 @@
     "whois": "whois.nic.mr",
     "lastUpdate": "2023-03-07",
     "registration": "2017-11-28"
-  },
-  ".پاکستان": {
-    "tld": "xn--mgbai9azgqp6j",
-    "dm": ".پاکستان",
-    "isIDN": "True",
-    "tldType": "ccTLD",
-    "nic": "NULL",
-    "whois": "NULL",
-    "lastUpdate": "2026-02-11",
-    "registration": "2011-02-28"
   },
   ".الاردن": {
     "tld": "xn--mgbayh7gpa",

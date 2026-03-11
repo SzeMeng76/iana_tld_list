@@ -1,10 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-03-04 04:14:18 UTC
+🕐 **Update Time**: 2026-03-11 04:16:21 UTC
 
-📈 **Total TLDs**: 1433
+📈 **Total TLDs**: 1436
 
-🗑️ **Removed TLDs**:
+🆕 **Added TLDs**:
   - .kiwi
   - .پاکستان
   - .网络
