@@ -216,7 +216,7 @@
     "tldType": "gTLD",
     "nic": "http://www.information.aero",
     "whois": "whois.aero",
-    "lastUpdate": "2023-08-08",
+    "lastUpdate": "2026-03-10",
     "registration": "2001-12-21"
   },
   ".aetna": {
@@ -1346,7 +1346,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.biz",
     "whois": "whois.nic.biz",
-    "lastUpdate": "2024-04-16",
+    "lastUpdate": "2026-03-10",
     "registration": "2001-06-26"
   },
   ".bj": {
@@ -1816,7 +1816,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.cira.ca/",
     "whois": "whois.cira.ca",
-    "lastUpdate": "2025-11-18",
+    "lastUpdate": "2026-03-16",
     "registration": "1987-05-14"
   },
   ".cab": {
@@ -2586,7 +2586,7 @@
     "tldType": "gTLD",
     "nic": "http://www.verisigninc.com",
     "whois": "whois.verisign-grs.com",
-    "lastUpdate": "2023-12-07",
+    "lastUpdate": "2026-03-10",
     "registration": "1985-01-01"
   },
   ".commbank": {
@@ -2646,7 +2646,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "whois.nic.comsec",
-    "lastUpdate": "2020-10-01",
+    "lastUpdate": "2026-03-11",
     "registration": "2015-10-08"
   },
   ".condos": {
@@ -2726,7 +2726,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.coop",
     "whois": "whois.nic.coop",
-    "lastUpdate": "2025-12-12",
+    "lastUpdate": "2026-03-10",
     "registration": "2001-12-15"
   },
   ".corsica": {
@@ -3556,7 +3556,7 @@
     "tldType": "gTLD",
     "nic": "http://www.educause.edu/edudomain",
     "whois": "whois.educause.edu",
-    "lastUpdate": "2024-08-29",
+    "lastUpdate": "2026-03-10",
     "registration": "1985-01-01"
   },
   ".education": {
@@ -4396,7 +4396,7 @@
     "tldType": "gTLD",
     "nic": "https://www.radix.website/",
     "whois": "whois.nic.fun",
-    "lastUpdate": "2026-02-23",
+    "lastUpdate": "2026-03-17",
     "registration": "2016-11-30"
   },
   ".fund": {
@@ -4926,7 +4926,7 @@
     "tldType": "gTLD",
     "nic": "https://get.gov",
     "whois": "whois.nic.gov",
-    "lastUpdate": "2025-12-10",
+    "lastUpdate": "2026-03-10",
     "registration": "1985-01-01"
   },
   ".gp": {
@@ -5446,7 +5446,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.host",
-    "lastUpdate": "2026-02-23",
+    "lastUpdate": "2026-03-17",
     "registration": "2014-05-22"
   },
   ".hosting": {
@@ -5776,7 +5776,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "NULL",
-    "lastUpdate": "2025-09-04",
+    "lastUpdate": "2026-03-10",
     "registration": "2001-06-26"
   },
   ".ing": {
@@ -5836,7 +5836,7 @@
     "tldType": "gTLD",
     "nic": "https://www.iana.org/domains/int",
     "whois": "whois.iana.org",
-    "lastUpdate": "2025-07-15",
+    "lastUpdate": "2026-03-10",
     "registration": "1988-11-03"
   },
   ".international": {
@@ -7476,7 +7476,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "NULL",
-    "lastUpdate": "2025-09-23",
+    "lastUpdate": "2026-03-10",
     "registration": "1985-01-01"
   },
   ".mini": {
@@ -7856,7 +7856,7 @@
     "tldType": "gTLD",
     "nic": "https://about.museum",
     "whois": "whois.nic.museum",
-    "lastUpdate": "2024-09-11",
+    "lastUpdate": "2026-03-10",
     "registration": "2001-10-20"
   },
   ".music": {
@@ -7906,7 +7906,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.mynic.my",
     "whois": "whois.mynic.my",
-    "lastUpdate": "2026-02-12",
+    "lastUpdate": "2026-03-11",
     "registration": "1987-06-08"
   },
   ".mz": {
@@ -7956,7 +7956,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.name",
     "whois": "whois.nic.name",
-    "lastUpdate": "2020-10-01",
+    "lastUpdate": "2026-03-10",
     "registration": "2001-08-17"
   },
   ".navy": {
@@ -8016,7 +8016,7 @@
     "tldType": "gTLD",
     "nic": "http://www.verisigninc.com",
     "whois": "whois.verisign-grs.com",
-    "lastUpdate": "2023-11-08",
+    "lastUpdate": "2026-03-10",
     "registration": "1985-01-01"
   },
   ".netbank": {
@@ -8506,7 +8506,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.online",
-    "lastUpdate": "2026-02-23",
+    "lastUpdate": "2026-03-17",
     "registration": "2015-03-06"
   },
   ".ooo": {
@@ -8556,7 +8556,7 @@
     "tldType": "gTLD",
     "nic": "http://publicinterestregistry.org",
     "whois": "whois.publicinterestregistry.org",
-    "lastUpdate": "2025-08-14",
+    "lastUpdate": "2026-03-10",
     "registration": "1985-01-01"
   },
   ".organic": {
@@ -9126,7 +9126,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.press",
-    "lastUpdate": "2026-02-23",
+    "lastUpdate": "2026-03-17",
     "registration": "2014-05-22"
   },
   ".prime": {
@@ -9146,7 +9146,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.identity.digital/",
     "whois": "NULL",
-    "lastUpdate": "2025-09-04",
+    "lastUpdate": "2026-03-10",
     "registration": "2002-05-08"
   },
   ".prod": {
@@ -9286,7 +9286,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.registry.pw",
     "whois": "whois.nic.pw",
-    "lastUpdate": "2026-02-20",
+    "lastUpdate": "2026-03-17",
     "registration": "1997-06-12"
   },
   ".pwc": {
@@ -10426,7 +10426,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.site",
-    "lastUpdate": "2026-02-23",
+    "lastUpdate": "2026-03-17",
     "registration": "2015-03-06"
   },
   ".sj": {
@@ -10446,7 +10446,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.sk-nic.sk",
     "whois": "whois.sk-nic.sk",
-    "lastUpdate": "2025-05-10",
+    "lastUpdate": "2026-03-16",
     "registration": "1993-03-29"
   },
   ".ski": {
@@ -10544,9 +10544,9 @@
     "dm": ".sn",
     "isIDN": "False",
     "tldType": "ccTLD",
-    "nic": "https://www.nicsenegal.sn",
+    "nic": "https://www.cctld.sn",
     "whois": "whois.nic.sn",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-03-12",
     "registration": "1993-03-19"
   },
   ".sncf": {
@@ -10686,7 +10686,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.space",
-    "lastUpdate": "2026-02-23",
+    "lastUpdate": "2026-03-17",
     "registration": "2014-05-22"
   },
   ".sport": {
@@ -10846,7 +10846,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.store",
-    "lastUpdate": "2026-02-23",
+    "lastUpdate": "2026-03-17",
     "registration": "2016-02-11"
   },
   ".stream": {
@@ -11206,7 +11206,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.tech",
-    "lastUpdate": "2026-02-23",
+    "lastUpdate": "2026-03-17",
     "registration": "2015-03-12"
   },
   ".technology": {
@@ -11266,7 +11266,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.tf",
     "whois": "whois.nic.tf",
-    "lastUpdate": "2024-09-09",
+    "lastUpdate": "2026-03-13",
     "registration": "1997-08-26"
   },
   ".tg": {
@@ -11846,7 +11846,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.uno",
-    "lastUpdate": "2026-02-23",
+    "lastUpdate": "2026-03-17",
     "registration": "2013-11-13"
   },
   ".uol": {
@@ -12356,7 +12356,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.website",
-    "lastUpdate": "2026-02-23",
+    "lastUpdate": "2026-03-17",
     "registration": "2014-05-22"
   },
   ".wed": {
@@ -13666,7 +13666,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.mynic.my",
     "whois": "whois.mynic.my",
-    "lastUpdate": "2026-02-12",
+    "lastUpdate": "2026-03-11",
     "registration": "2011-10-22"
   },
   ".澳門": {

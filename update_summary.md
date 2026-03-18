@@ -1,14 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-03-11 04:16:21 UTC
+🕐 **Update Time**: 2026-03-18 04:32:41 UTC
 
 📈 **Total TLDs**: 1436
 
-🆕 **Added TLDs**:
-  - .kiwi
-  - .پاکستان
-  - .网络
-
+✅ **No TLD changes, data refreshed**
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
