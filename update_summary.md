@@ -1,10 +1,14 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-04-08 04:42:09 UTC
+🕐 **Update Time**: 2026-04-15 04:53:19 UTC
 
-📈 **Total TLDs**: 1436
+📈 **Total TLDs**: 1433
 
-✅ **No TLD changes, data refreshed**
+🗑️ **Removed TLDs**:
+  - .silk
+  - .singles
+  - .site
+
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions

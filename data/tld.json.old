@@ -3536,7 +3536,7 @@
     "tldType": "gTLD",
     "nic": "https://go.eco",
     "whois": "whois.nic.eco",
-    "lastUpdate": "2025-02-28",
+    "lastUpdate": "2026-04-07",
     "registration": "2016-08-18"
   },
   ".edeka": {
@@ -5446,7 +5446,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.host",
-    "lastUpdate": "2026-03-19",
+    "lastUpdate": "2026-04-07",
     "registration": "2014-05-22"
   },
   ".hosting": {
@@ -6266,7 +6266,7 @@
     "tldType": "gTLD",
     "nic": "http://kfh.com",
     "whois": "whois.nic.kfh",
-    "lastUpdate": "2026-03-30",
+    "lastUpdate": "2026-04-06",
     "registration": "2015-10-29"
   },
   ".kg": {
@@ -9026,7 +9026,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.pm",
     "whois": "whois.nic.pm",
-    "lastUpdate": "2024-09-09",
+    "lastUpdate": "2026-04-07",
     "registration": "1997-08-20"
   },
   ".pn": {
@@ -9126,7 +9126,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.press",
-    "lastUpdate": "2026-03-19",
+    "lastUpdate": "2026-04-07",
     "registration": "2014-05-22"
   },
   ".prime": {
@@ -11846,7 +11846,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.uno",
-    "lastUpdate": "2026-03-19",
+    "lastUpdate": "2026-04-07",
     "registration": "2013-11-13"
   },
   ".uol": {
@@ -12275,8 +12275,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "http://www.nic.wang",
-    "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2025-12-17",
+    "whois": "whois.zdns.cn",
+    "lastUpdate": "2026-04-02",
     "registration": "2013-12-12"
   },
   ".wanggou": {
@@ -12664,9 +12664,9 @@
     "dm": ".慈善",
     "isIDN": "True",
     "tldType": "gTLD",
-    "nic": "http://www.newgtld.cn",
-    "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2025-12-08",
+    "nic": "http://www.cishan.wang",
+    "whois": "whois.zdns.cn",
+    "lastUpdate": "2026-04-02",
     "registration": "2015-03-12"
   },
   ".集团": {
@@ -12674,9 +12674,9 @@
     "dm": ".集团",
     "isIDN": "True",
     "tldType": "gTLD",
-    "nic": "http://www.newgtld.cn",
-    "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2025-12-08",
+    "nic": "http://www.jituan.wang",
+    "whois": "whois.zdns.cn",
+    "lastUpdate": "2026-04-02",
     "registration": "2013-12-12"
   },
   ".在线": {
@@ -12755,8 +12755,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.bagua.wang",
-    "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2025-12-08",
+    "whois": "whois.zdns.cn",
+    "lastUpdate": "2026-04-02",
     "registration": "2014-11-06"
   },
   ".ישראל": {
@@ -12844,9 +12844,9 @@
     "dm": ".我爱你",
     "isIDN": "True",
     "tldType": "gTLD",
-    "nic": "http://www.newgtld.cn",
-    "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2025-12-08",
+    "nic": "http://www.520.wang",
+    "whois": "whois.zdns.cn",
+    "lastUpdate": "2026-04-02",
     "registration": "2013-12-12"
   },
   ".москва": {
@@ -12954,9 +12954,9 @@
     "dm": ".时尚",
     "isIDN": "True",
     "tldType": "gTLD",
-    "nic": "http://www.newgtld.cn",
-    "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2025-12-08",
+    "nic": "http://www.shishang.wang",
+    "whois": "whois.zdns.cn",
+    "lastUpdate": "2026-04-02",
     "registration": "2015-03-12"
   },
   ".微博": {
@@ -13075,8 +13075,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.shangcheng.wang",
-    "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2025-12-17",
+    "whois": "whois.zdns.cn",
+    "lastUpdate": "2026-04-02",
     "registration": "2014-02-27"
   },
   ".дети": {
@@ -13125,8 +13125,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.gd.xinhua.org",
-    "whois": "whois.nic.xn--efvy88h",
-    "lastUpdate": "2025-12-17",
+    "whois": "whois.zdns.cn",
+    "lastUpdate": "2026-04-02",
     "registration": "2015-08-06"
   },
   ".家電": {
@@ -13315,8 +13315,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.wangdian.wang",
-    "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2025-12-08",
+    "whois": "whois.zdns.cn",
+    "lastUpdate": "2026-04-02",
     "registration": "2014-11-20"
   },
   ".संगठन": {
@@ -13716,7 +13716,7 @@
     "tldType": "gTLD",
     "nic": "http://kfh.com",
     "whois": "whois.nic.xn--ngbe9e0a",
-    "lastUpdate": "2026-03-30",
+    "lastUpdate": "2026-04-06",
     "registration": "2015-10-29"
   },
   ".عرب": {
