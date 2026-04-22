@@ -206,7 +206,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "whois.nic.aeg",
-    "lastUpdate": "2023-12-05",
+    "lastUpdate": "2026-04-10",
     "registration": "2015-06-11"
   },
   ".aero": {
@@ -566,7 +566,7 @@
     "tldType": "gTLD",
     "nic": "http://www.aol.com",
     "whois": "whois.nic.aol",
-    "lastUpdate": "2024-05-15",
+    "lastUpdate": "2026-04-10",
     "registration": "2016-10-27"
   },
   ".apartments": {
@@ -1396,7 +1396,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.blog",
     "whois": "whois.nic.blog",
-    "lastUpdate": "2025-05-28",
+    "lastUpdate": "2026-04-08",
     "registration": "2016-05-12"
   },
   ".bloomberg": {
@@ -1456,7 +1456,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.bnnic.bn",
     "whois": "whois.bnnic.bn",
-    "lastUpdate": "2025-05-05",
+    "lastUpdate": "2026-04-09",
     "registration": "1994-06-03"
   },
   ".bnpparibas": {
@@ -4396,7 +4396,7 @@
     "tldType": "gTLD",
     "nic": "https://www.radix.website/",
     "whois": "whois.nic.fun",
-    "lastUpdate": "2026-03-19",
+    "lastUpdate": "2026-04-14",
     "registration": "2016-11-30"
   },
   ".fund": {
@@ -5126,7 +5126,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.gy/",
     "whois": "whois.registry.gy",
-    "lastUpdate": "2024-07-17",
+    "lastUpdate": "2026-04-10",
     "registration": "1994-09-13"
   },
   ".hair": {
@@ -8056,7 +8056,7 @@
     "tldType": "gTLD",
     "nic": "http://www.neustar.biz",
     "whois": "NULL",
-    "lastUpdate": "2024-04-17",
+    "lastUpdate": "2026-04-09",
     "registration": "2014-02-06"
   },
   ".new": {
@@ -10389,16 +10389,6 @@
     "lastUpdate": "2026-03-25",
     "registration": "1992-04-01"
   },
-  ".silk": {
-    "tld": "silk",
-    "dm": ".silk",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.nic.silk",
-    "whois": "NULL",
-    "lastUpdate": "2025-02-14",
-    "registration": "2016-05-19"
-  },
   ".sina": {
     "tld": "sina",
     "dm": ".sina",
@@ -10408,26 +10398,6 @@
     "whois": "whois.nic.sina",
     "lastUpdate": "2023-08-08",
     "registration": "2016-02-29"
-  },
-  ".singles": {
-    "tld": "singles",
-    "dm": ".singles",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-07",
-    "registration": "2013-10-31"
-  },
-  ".site": {
-    "tld": "site",
-    "dm": ".site",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "https://radix.website/",
-    "whois": "whois.nic.site",
-    "lastUpdate": "2026-03-19",
-    "registration": "2015-03-06"
   },
   ".sj": {
     "tld": "sj",
@@ -11206,7 +11176,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.tech",
-    "lastUpdate": "2026-03-19",
+    "lastUpdate": "2026-04-14",
     "registration": "2015-03-12"
   },
   ".technology": {
@@ -11596,7 +11566,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.trabis.gov.tr",
     "whois": "whois.trabis.gov.tr",
-    "lastUpdate": "2025-05-05",
+    "lastUpdate": "2026-04-08",
     "registration": "1990-09-17"
   },
   ".trade": {
@@ -12356,7 +12326,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.website",
-    "lastUpdate": "2026-03-19",
+    "lastUpdate": "2026-04-14",
     "registration": "2014-05-22"
   },
   ".wed": {
@@ -13936,7 +13906,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.xn--ses554g/",
     "whois": "whois.nic.xn--ses554g",
-    "lastUpdate": "2024-11-12",
+    "lastUpdate": "2026-04-10",
     "registration": "2014-03-13"
   },
   ".닷넷": {

@@ -1,10 +1,11 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-04-15 04:53:19 UTC
+🕐 **Update Time**: 2026-04-22 04:51:14 UTC
 
-📈 **Total TLDs**: 1433
+📈 **Total TLDs**: 1437
 
-🗑️ **Removed TLDs**:
+🆕 **Added TLDs**:
+  - .merck
   - .silk
   - .singles
   - .site

@@ -2336,7 +2336,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.circle",
     "whois": "NULL",
-    "lastUpdate": "2025-02-14",
+    "lastUpdate": "2026-04-20",
     "registration": "2015-11-12"
   },
   ".cisco": {
@@ -5736,7 +5736,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-22",
+    "lastUpdate": "2026-04-15",
     "registration": "1989-05-08"
   },
   ".inc": {
@@ -6356,7 +6356,7 @@
     "tldType": "gTLD",
     "nic": "http://hello.kiwi",
     "whois": "whois.nic.kiwi",
-    "lastUpdate": "2025-02-28",
+    "lastUpdate": "2026-04-20",
     "registration": "2013-11-25"
   },
   ".km": {
@@ -7419,6 +7419,16 @@
     "lastUpdate": "2024-07-05",
     "registration": "2013-11-13"
   },
+  ".merck": {
+    "tld": "merck",
+    "dm": ".merck",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://nic.merck",
+    "whois": "whois.nic.merck",
+    "lastUpdate": "2026-04-18",
+    "registration": "NULL"
+  },
   ".merckmsd": {
     "tld": "merckmsd",
     "dm": ".merckmsd",
@@ -7906,7 +7916,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.mynic.my",
     "whois": "whois.mynic.my",
-    "lastUpdate": "2026-03-11",
+    "lastUpdate": "2026-04-18",
     "registration": "1987-06-08"
   },
   ".mz": {
@@ -8056,7 +8066,7 @@
     "tldType": "gTLD",
     "nic": "http://www.neustar.biz",
     "whois": "NULL",
-    "lastUpdate": "2026-04-09",
+    "lastUpdate": "2026-04-16",
     "registration": "2014-02-06"
   },
   ".new": {
@@ -10389,6 +10399,16 @@
     "lastUpdate": "2026-03-25",
     "registration": "1992-04-01"
   },
+  ".silk": {
+    "tld": "silk",
+    "dm": ".silk",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.nic.silk",
+    "whois": "NULL",
+    "lastUpdate": "2025-02-14",
+    "registration": "2016-05-19"
+  },
   ".sina": {
     "tld": "sina",
     "dm": ".sina",
@@ -10398,6 +10418,26 @@
     "whois": "whois.nic.sina",
     "lastUpdate": "2023-08-08",
     "registration": "2016-02-29"
+  },
+  ".singles": {
+    "tld": "singles",
+    "dm": ".singles",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2013-10-31"
+  },
+  ".site": {
+    "tld": "site",
+    "dm": ".site",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://radix.website/",
+    "whois": "whois.nic.site",
+    "lastUpdate": "2026-04-21",
+    "registration": "2015-03-06"
   },
   ".sj": {
     "tld": "sj",
@@ -10656,7 +10696,7 @@
     "tldType": "gTLD",
     "nic": "https://radix.website/",
     "whois": "whois.nic.space",
-    "lastUpdate": "2026-03-19",
+    "lastUpdate": "2026-04-21",
     "registration": "2014-05-22"
   },
   ".sport": {
@@ -10686,7 +10726,7 @@
     "tldType": "ccTLD",
     "nic": "https://isp.datasur.sr/",
     "whois": "whois.sr",
-    "lastUpdate": "2025-06-27",
+    "lastUpdate": "2026-04-17",
     "registration": "1991-09-03"
   },
   ".srl": {
@@ -11486,7 +11526,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.top",
     "whois": "whois.nic.top",
-    "lastUpdate": "2026-01-21",
+    "lastUpdate": "2026-04-15",
     "registration": "2014-07-24"
   },
   ".toray": {
@@ -12626,7 +12666,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2016-04-18"
   },
   ".慈善": {
@@ -12676,7 +12716,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2016-04-18"
   },
   ".点看": {
@@ -12706,7 +12746,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2016-04-18"
   },
   ".ভারত": {
@@ -12716,7 +12756,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2011-02-05"
   },
   ".八卦": {
@@ -13186,7 +13226,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2011-02-05"
   },
   ".ලංකා": {
@@ -13236,7 +13276,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2011-02-05"
   },
   ".通販": {
@@ -13256,7 +13296,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2016-08-15"
   },
   ".भारत": {
@@ -13266,7 +13306,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2011-02-05"
   },
   ".भारोत": {
@@ -13276,7 +13316,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-21",
+    "lastUpdate": "2026-04-16",
     "registration": "2016-08-15"
   },
   ".网店": {
@@ -13526,7 +13566,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2016-08-15"
   },
   ".بھارت": {
@@ -13536,7 +13576,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2011-02-05"
   },
   ".المغرب": {
@@ -13586,7 +13626,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-14",
+    "lastUpdate": "2026-04-16",
     "registration": "2016-08-15"
   },
   ".كاثوليك": {
@@ -13636,7 +13676,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.mynic.my",
     "whois": "whois.mynic.my",
-    "lastUpdate": "2026-03-11",
+    "lastUpdate": "2026-04-17",
     "registration": "2011-10-22"
   },
   ".澳門": {
@@ -13886,7 +13926,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2016-04-18"
   },
   ".ਭਾਰਤ": {
@@ -13896,7 +13936,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2011-02-05"
   },
   ".网址": {
@@ -14056,7 +14096,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-04-16",
     "registration": "2011-02-05"
   },
   ".հայ": {
