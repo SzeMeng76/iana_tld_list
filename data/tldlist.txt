@@ -703,7 +703,7 @@ lpl -- .lpl -- False -- gTLD -- NULL -- whois.nic.lpl -- 2023-10-05 -- 2016-06-3
 lplfinancial -- .lplfinancial -- False -- gTLD -- NULL -- whois.nic.lplfinancial -- 2023-10-05 -- 2016-06-30
 lr -- .lr -- False -- ccTLD -- http://psg.com/dns/lr -- NULL -- 2026-01-10 -- 1997-04-09
 ls -- .ls -- False -- ccTLD -- http://www.nic.ls -- whois.nic.ls -- 2024-06-17 -- 1993-01-13
-lt -- .lt -- False -- ccTLD -- http://www.domreg.lt -- whois.domreg.lt -- 2025-09-19 -- 1992-06-03
+lt -- .lt -- False -- ccTLD -- http://www.domreg.lt -- whois.domreg.lt -- 2026-04-28 -- 1992-06-03
 ltd -- .ltd -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2015-08-06
 ltda -- .ltda -- False -- gTLD -- http://www.internetx.info -- whois.nic.ltda -- 2023-08-03 -- 2014-07-03
 lu -- .lu -- False -- ccTLD -- http://www.dns.lu -- whois.dns.lu -- 2023-07-28 -- 1995-01-27
@@ -849,7 +849,7 @@ omega -- .omega -- False -- gTLD -- http://www.swatchgroup.com/ -- NULL -- 2026-
 one -- .one -- False -- gTLD -- http://www.one.com/ -- whois.nic.one -- 2023-12-05 -- 2014-12-18
 ong -- .ong -- False -- gTLD -- http://nic.ong -- whois.nic.ong -- 2025-08-14 -- 2014-07-10
 onl -- .onl -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2026-03-04 -- 2013-12-12
-online -- .online -- False -- gTLD -- https://radix.website/ -- whois.nic.online -- 2026-03-19 -- 2015-03-06
+online -- .online -- False -- gTLD -- https://radix.website/ -- whois.nic.online -- 2026-04-27 -- 2015-03-06
 ooo -- .ooo -- False -- gTLD -- http://www.infibeam.com -- whois.nic.ooo -- 2024-04-30 -- 2014-07-31
 open -- .open -- False -- gTLD -- https://www.americanexpress.com -- whois.nic.open -- 2024-05-11 -- 2016-07-21
 oracle -- .oracle -- False -- gTLD -- NULL -- whois.nic.oracle -- 2024-02-09 -- 2015-01-15
@@ -895,7 +895,7 @@ pink -- .pink -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-
 pioneer -- .pioneer -- False -- gTLD -- http://www.nic.pioneer/ -- NULL -- 2025-01-28 -- 2016-05-26
 pizza -- .pizza -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-08-22
 pk -- .pk -- False -- ccTLD -- http://www.pknic.net.pk/ -- whois.pknic.net.pk -- 2022-07-06 -- 1992-06-03
-pl -- .pl -- False -- ccTLD -- https://www.dns.pl/en/ -- whois.dns.pl -- 2026-03-06 -- 1990-07-30
+pl -- .pl -- False -- ccTLD -- https://www.dns.pl/en/ -- whois.dns.pl -- 2026-04-24 -- 1990-07-30
 place -- .place -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-06-05
 play -- .play -- False -- gTLD -- https://www.registry.google -- NULL -- 2025-04-11 -- 2015-06-04
 playstation -- .playstation -- False -- gTLD -- http://www.playstation.com -- whois.nic.playstation -- 2023-06-20 -- 2015-09-24
@@ -966,7 +966,7 @@ ricoh -- .ricoh -- False -- gTLD -- http://www.ricoh.com -- whois.nic.ricoh -- 2
 ril -- .ril -- False -- gTLD -- http://www.ril.com -- whois.nic.ril -- 2023-08-28 -- 2016-08-11
 rio -- .rio -- False -- gTLD -- https://nic.rio/ -- NULL -- 2025-08-14 -- 2014-05-15
 rip -- .rip -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-10-09
-ro -- .ro -- False -- ccTLD -- http://www.rotld.ro/ -- whois.rotld.ro -- 2025-05-09 -- 1993-02-26
+ro -- .ro -- False -- ccTLD -- http://www.rotld.ro/ -- whois.rotld.ro -- 2026-04-28 -- 1993-02-26
 rocks -- .rocks -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-01-16
 rodeo -- .rodeo -- False -- gTLD -- http://nic.rodeo/ -- whois.nic.rodeo -- 2024-04-17 -- 2014-02-28
 rogers -- .rogers -- False -- gTLD -- http://www.rogers.com/consumer/home -- whois.nic.rogers -- 2023-08-11 -- 2016-08-18
@@ -1083,12 +1083,12 @@ stc -- .stc -- False -- gTLD -- http://www.stc.com.sa -- whois.nic.stc -- 2024-0
 stcgroup -- .stcgroup -- False -- gTLD -- http://www.stc.com.sa -- whois.nic.stcgroup -- 2024-05-28 -- 2015-08-20
 stockholm -- .stockholm -- False -- gTLD -- http://www.stockholm.se/ -- whois.nic.stockholm -- 2025-08-27 -- 2015-09-17
 storage -- .storage -- False -- gTLD -- https://nic.storage/ -- whois.nic.storage -- 2025-08-12 -- 2015-12-10
-store -- .store -- False -- gTLD -- https://radix.website/ -- whois.nic.store -- 2026-03-19 -- 2016-02-11
+store -- .store -- False -- gTLD -- https://radix.website/ -- whois.nic.store -- 2026-04-27 -- 2016-02-11
 stream -- .stream -- False -- gTLD -- http://nic.stream -- whois.nic.stream -- 2024-05-11 -- 2016-02-26
 studio -- .studio -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2015-06-25
 study -- .study -- False -- gTLD -- http://nic.study -- whois.nic.study -- 2024-04-17 -- 2015-02-19
 style -- .style -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2015-01-29
-su -- .su -- False -- ccTLD -- NULL -- whois.tcinet.ru -- 2025-08-21 -- 1990-09-19
+su -- .su -- False -- ccTLD -- NULL -- whois.tcinet.ru -- 2026-04-22 -- 1990-09-19
 sucks -- .sucks -- False -- gTLD -- http://www.voxpopregistry.com -- whois.nic.sucks -- 2023-12-07 -- 2015-02-19
 supplies -- .supplies -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-02-13
 supply -- .supply -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-02-13
@@ -1158,7 +1158,7 @@ tours -- .tours -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 202
 town -- .town -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-04-03
 toyota -- .toyota -- False -- gTLD -- http://toyota.jp/ -- whois.nic.toyota -- 2023-06-20 -- 2015-07-16
 toys -- .toys -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-04-03
-tr -- .tr -- False -- ccTLD -- http://www.trabis.gov.tr -- whois.trabis.gov.tr -- 2026-04-08 -- 1990-09-17
+tr -- .tr -- False -- ccTLD -- http://www.trabis.gov.tr -- whois.trabis.gov.tr -- 2026-04-24 -- 1990-09-17
 trade -- .trade -- False -- gTLD -- http://nic.trade -- whois.nic.trade -- 2024-05-11 -- 2014-03-06
 trading -- .trading -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2015-03-06
 training -- .training -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2013-12-19
@@ -1174,7 +1174,7 @@ tunes -- .tunes -- False -- gTLD -- http://www.nic.tunes -- NULL -- 2025-02-14 -
 tushu -- .tushu -- False -- gTLD -- http://www.nic.tushu -- NULL -- 2025-02-14 -- 2015-11-12
 tv -- .tv -- False -- ccTLD -- https://turnon.tv/ -- whois.nic.tv -- 2025-09-04 -- 1996-03-18
 tvs -- .tvs -- False -- gTLD -- http://www.tvs.in -- whois.nic.tvs -- 2024-09-05 -- 2016-02-05
-tw -- .tw -- False -- ccTLD -- http://rs.twnic.net.tw -- whois.twnic.net.tw -- 2025-07-15 -- 1989-07-31
+tw -- .tw -- False -- ccTLD -- http://rs.twnic.net.tw -- whois.twnic.net.tw -- 2026-04-27 -- 1989-07-31
 tz -- .tz -- False -- ccTLD -- https://karibu.tz/ -- whois.tznic.or.tz -- 2023-07-27 -- 1995-07-14
 ua -- .ua -- False -- ccTLD -- https://www.hostmaster.ua/ -- whois.ua -- 2024-11-30 -- 1992-12-01
 ubank -- .ubank -- False -- gTLD -- http://www.ubank.com.au/ -- whois.nic.ubank -- 2025-12-01 -- 2016-08-04
@@ -1198,7 +1198,7 @@ ve -- .ve -- False -- ccTLD -- https://nic.ve/ -- whois.nic.ve -- 2025-07-07 -- 
 vegas -- .vegas -- False -- gTLD -- http://www.nic.vegas -- whois.nic.vegas -- 2023-08-03 -- 2014-03-20
 ventures -- .ventures -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2013-10-31
 verisign -- .verisign -- False -- gTLD -- http://www.verisign.com/ -- whois.nic.verisign -- 2026-03-30 -- 2015-11-06
-versicherung -- .versicherung -- False -- gTLD -- http://nic.versicherung -- whois.nic.versicherung -- 2025-05-12 -- 2014-05-15
+versicherung -- .versicherung -- False -- gTLD -- http://nic.versicherung -- whois.nic.versicherung -- 2026-04-28 -- 2014-05-15
 vet -- .vet -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-05-22
 vg -- .vg -- False -- ccTLD -- http://nic.vg -- whois.nic.vg -- 2021-12-03 -- 1997-02-20
 vi -- .vi -- False -- ccTLD -- https://secure.nic.vi -- virgil.nic.vi -- 2024-02-26 -- 1995-08-31
@@ -1307,7 +1307,7 @@ xn--clchc0ea0b2g2a9gcd -- .சிங்கப்பூர் -- True -- ccTLD --
 xn--czr694b -- .商标 -- True -- gTLD -- NULL -- NULL -- 2024-12-17 -- 2014-05-08
 xn--czrs0t -- .商店 -- True -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-11-20
 xn--czru2d -- .商城 -- True -- gTLD -- http://www.shangcheng.wang -- whois.zdns.cn -- 2026-04-02 -- 2014-02-27
-xn--d1acj3b -- .дети -- True -- gTLD -- http://www.dotdeti.ru -- whois.nic.xn--d1acj3b -- 2025-06-05 -- 2014-02-13
+xn--d1acj3b -- .дети -- True -- gTLD -- http://www.dotdeti.ru -- whois.nic.xn--d1acj3b -- 2026-04-22 -- 2014-02-13
 xn--d1alf -- .мкд -- True -- ccTLD -- http://marnet.mk/ -- whois.marnet.mk -- 2024-02-21 -- 2014-04-21
 xn--e1a4c -- .ею -- True -- ccTLD -- http://www.registry.eu -- whois.eu -- 2025-12-22 -- 2015-12-08
 xn--eckvdtc9d -- .ポイント -- True -- gTLD -- http://www.nic.xn--eckvdtc9d -- whois.nic.xn--eckvdtc9d -- 2025-06-17 -- 2015-11-25
@@ -1340,8 +1340,8 @@ xn--j6w193g -- .香港 -- True -- ccTLD -- http://www.hkirc.hk -- whois.hkirc.hk
 xn--jlq480n2rg -- .亚马逊 -- True -- gTLD -- http://www.nic.xn--jlq480n2rg -- NULL -- 2025-02-14 -- 2020-05-28
 xn--jvr189m -- .食品 -- True -- gTLD -- http://www.nic.xn--jvr189m -- whois.nic.xn--jvr189m -- 2025-06-17 -- 2016-01-29
 xn--kcrx77d1x4a -- .飞利浦 -- True -- gTLD -- http://nic.xn--kcrx77d1x4a -- whois.nic.xn--kcrx77d1x4a -- 2023-11-30 -- 2015-02-13
-xn--kprw13d -- .台湾 -- True -- ccTLD -- http://rs.twnic.net.tw -- whois.twnic.net.tw -- 2024-12-27 -- 2010-07-14
-xn--kpry57d -- .台灣 -- True -- ccTLD -- http://rs.twnic.net.tw -- whois.twnic.net.tw -- 2025-07-15 -- 2010-07-14
+xn--kprw13d -- .台湾 -- True -- ccTLD -- http://rs.twnic.net.tw -- whois.twnic.net.tw -- 2026-04-24 -- 2010-07-14
+xn--kpry57d -- .台灣 -- True -- ccTLD -- http://rs.twnic.net.tw -- whois.twnic.net.tw -- 2026-04-24 -- 2010-07-14
 xn--kput3i -- .手机 -- True -- gTLD -- http://www.rntd.cn -- whois.nic.xn--kput3i -- 2025-04-25 -- 2014-06-05
 xn--l1acc -- .мон -- True -- ccTLD -- https://www.datacom.mn/ -- whois.mn -- 2025-06-18 -- 2012-06-21
 xn--lgbbat1ad8j -- .الجزائر -- True -- ccTLD -- http://www.nic.dz -- whois.nic.dz -- 2025-10-01 -- 2011-02-05

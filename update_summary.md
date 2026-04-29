@@ -1,15 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-04-22 04:51:14 UTC
+🕐 **Update Time**: 2026-04-29 05:32:05 UTC
 
 📈 **Total TLDs**: 1437
 
-🆕 **Added TLDs**:
-  - .merck
-  - .silk
-  - .singles
-  - .site
-
+✅ **No TLD changes, data refreshed**
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
