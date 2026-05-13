@@ -1396,7 +1396,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.blog",
     "whois": "whois.nic.blog",
-    "lastUpdate": "2026-04-08",
+    "lastUpdate": "2026-05-05",
     "registration": "2016-05-12"
   },
   ".bloomberg": {
@@ -2196,7 +2196,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.dnsafrica.net",
     "whois": "NULL",
-    "lastUpdate": "2024-05-17",
+    "lastUpdate": "2026-05-01",
     "registration": "1997-01-14"
   },
   ".ch": {
@@ -3536,7 +3536,7 @@
     "tldType": "gTLD",
     "nic": "https://go.eco",
     "whois": "whois.nic.eco",
-    "lastUpdate": "2026-04-07",
+    "lastUpdate": "2026-04-29",
     "registration": "2016-08-18"
   },
   ".edeka": {
@@ -4576,7 +4576,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.gdn",
     "whois": "whois.nic.gdn",
-    "lastUpdate": "2025-05-06",
+    "lastUpdate": "2026-05-05",
     "registration": "2014-12-04"
   },
   ".ge": {
@@ -4916,7 +4916,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.got",
     "whois": "NULL",
-    "lastUpdate": "2025-02-14",
+    "lastUpdate": "2026-05-04",
     "registration": "2015-11-12"
   },
   ".gov": {
@@ -6146,7 +6146,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.jot",
     "whois": "NULL",
-    "lastUpdate": "2025-02-14",
+    "lastUpdate": "2026-05-04",
     "registration": "2015-11-12"
   },
   ".joy": {
@@ -6356,7 +6356,7 @@
     "tldType": "gTLD",
     "nic": "http://hello.kiwi",
     "whois": "whois.nic.kiwi",
-    "lastUpdate": "2026-04-20",
+    "lastUpdate": "2026-05-01",
     "registration": "2013-11-25"
   },
   ".km": {
@@ -7056,7 +7056,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.domreg.lt",
     "whois": "whois.domreg.lt",
-    "lastUpdate": "2026-04-28",
+    "lastUpdate": "2026-05-01",
     "registration": "1992-06-03"
   },
   ".ltd": {
@@ -9386,7 +9386,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.re",
     "whois": "whois.nic.re",
-    "lastUpdate": "2024-09-09",
+    "lastUpdate": "2026-05-05",
     "registration": "1997-04-07"
   },
   ".read": {
@@ -10986,7 +10986,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.svnet.sv",
     "whois": "NULL",
-    "lastUpdate": "2026-01-22",
+    "lastUpdate": "2026-04-29",
     "registration": "1994-11-04"
   },
   ".swatch": {
@@ -12006,7 +12006,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.versicherung",
     "whois": "whois.nic.versicherung",
-    "lastUpdate": "2026-04-28",
+    "lastUpdate": "2026-04-29",
     "registration": "2014-05-15"
   },
   ".vet": {
