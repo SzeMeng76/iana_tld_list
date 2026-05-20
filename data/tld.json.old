@@ -366,7 +366,7 @@
     "tldType": "gTLD",
     "nic": "http://www.alibabagroup.com",
     "whois": "whois.nic.alibaba",
-    "lastUpdate": "2023-08-11",
+    "lastUpdate": "2026-05-11",
     "registration": "2016-01-08"
   },
   ".alipay": {
@@ -1196,7 +1196,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.berlin/",
     "whois": "whois.nic.berlin",
-    "lastUpdate": "2025-05-13",
+    "lastUpdate": "2026-05-07",
     "registration": "2013-12-19"
   },
   ".best": {
@@ -1456,7 +1456,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.bnnic.bn",
     "whois": "whois.bnnic.bn",
-    "lastUpdate": "2026-04-09",
+    "lastUpdate": "2026-05-06",
     "registration": "1994-06-03"
   },
   ".bnpparibas": {
@@ -2596,7 +2596,7 @@
     "tldType": "gTLD",
     "nic": "http://www.commbank.com.au",
     "whois": "whois.nic.commbank",
-    "lastUpdate": "2023-12-05",
+    "lastUpdate": "2026-05-11",
     "registration": "2015-03-26"
   },
   ".community": {
@@ -5146,7 +5146,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.hamburg",
     "whois": "whois.nic.hamburg",
-    "lastUpdate": "2025-05-13",
+    "lastUpdate": "2026-05-07",
     "registration": "2014-05-22"
   },
   ".hangout": {
@@ -5666,7 +5666,7 @@
     "tldType": "gTLD",
     "nic": "http://www.ikano.lu",
     "whois": "whois.nic.ikano",
-    "lastUpdate": "2025-05-13",
+    "lastUpdate": "2026-05-06",
     "registration": "2016-06-03"
   },
   ".il": {
@@ -6356,7 +6356,7 @@
     "tldType": "gTLD",
     "nic": "http://hello.kiwi",
     "whois": "whois.nic.kiwi",
-    "lastUpdate": "2026-05-01",
+    "lastUpdate": "2026-05-07",
     "registration": "2013-11-25"
   },
   ".km": {
@@ -6536,7 +6536,7 @@
     "tldType": "gTLD",
     "nic": "http://www.lacaixa.com",
     "whois": "whois.nic.lacaixa",
-    "lastUpdate": "2024-03-22",
+    "lastUpdate": "2026-05-11",
     "registration": "2014-07-10"
   },
   ".lamborghini": {
@@ -7875,8 +7875,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "https://nic.music/",
-    "whois": "whois.nic.music",
-    "lastUpdate": "2025-12-12",
+    "whois": "whois.registryservices.music",
+    "lastUpdate": "2026-05-06",
     "registration": "2021-10-14"
   },
   ".mv": {
@@ -9386,7 +9386,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.re",
     "whois": "whois.nic.re",
-    "lastUpdate": "2026-05-05",
+    "lastUpdate": "2026-05-10",
     "registration": "1997-04-07"
   },
   ".read": {
@@ -10184,9 +10184,9 @@
     "dm": ".seek",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "https://www.seek.com.au/about/",
+    "nic": "https://au.seek.com/about",
     "whois": "whois.nic.seek",
-    "lastUpdate": "2025-09-18",
+    "lastUpdate": "2026-05-11",
     "registration": "2015-04-16"
   },
   ".select": {
@@ -12776,7 +12776,7 @@
     "tldType": "ccTLD",
     "nic": "http://en.isoc.org.il/il-cctld/accredited-registrars/domain-name-registrars",
     "whois": "whois.isoc.org.il",
-    "lastUpdate": "2025-05-19",
+    "lastUpdate": "2026-05-11",
     "registration": "2020-06-16"
   },
   ".موقع": {

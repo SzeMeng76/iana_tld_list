@@ -366,7 +366,7 @@
     "tldType": "gTLD",
     "nic": "http://www.alibabagroup.com",
     "whois": "whois.nic.alibaba",
-    "lastUpdate": "2026-05-11",
+    "lastUpdate": "2026-05-18",
     "registration": "2016-01-08"
   },
   ".alipay": {
@@ -2886,7 +2886,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.cu",
     "whois": "NULL",
-    "lastUpdate": "2025-08-22",
+    "lastUpdate": "2026-05-14",
     "registration": "1992-06-03"
   },
   ".cuisinella": {
@@ -5906,7 +5906,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.ir",
     "whois": "whois.nic.ir",
-    "lastUpdate": "2024-10-15",
+    "lastUpdate": "2026-05-14",
     "registration": "1994-04-06"
   },
   ".irish": {
@@ -6416,7 +6416,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.star.co.kp",
     "whois": "NULL",
-    "lastUpdate": "2024-10-14",
+    "lastUpdate": "2026-05-14",
     "registration": "2007-09-24"
   },
   ".kpmg": {
@@ -8484,9 +8484,9 @@
     "dm": ".one",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.one.com/",
+    "nic": "https://get.one/",
     "whois": "whois.nic.one",
-    "lastUpdate": "2023-12-05",
+    "lastUpdate": "2026-05-19",
     "registration": "2014-12-18"
   },
   ".ong": {
@@ -11026,7 +11026,7 @@
     "tldType": "ccTLD",
     "nic": "http://tld.sy",
     "whois": "whois.tld.sy",
-    "lastUpdate": "2025-12-22",
+    "lastUpdate": "2026-05-14",
     "registration": "1996-02-20"
   },
   ".sydney": {
@@ -11966,7 +11966,7 @@
     "tldType": "ccTLD",
     "nic": "https://nic.ve/",
     "whois": "whois.nic.ve",
-    "lastUpdate": "2025-07-07",
+    "lastUpdate": "2026-05-14",
     "registration": "1991-03-07"
   },
   ".vegas": {
@@ -13496,7 +13496,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.ir",
     "whois": "whois.nic.ir",
-    "lastUpdate": "2024-10-14",
+    "lastUpdate": "2026-05-14",
     "registration": "2011-02-05"
   },
   ".العليان": {
@@ -13796,7 +13796,7 @@
     "tldType": "ccTLD",
     "nic": "http://tld.sy",
     "whois": "whois.tld.sy",
-    "lastUpdate": "2025-12-11",
+    "lastUpdate": "2026-05-14",
     "registration": "2011-02-05"
   },
   ".招聘": {
