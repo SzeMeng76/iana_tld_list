@@ -1,10 +1,13 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-05-20 06:13:35 UTC
+🕐 **Update Time**: 2026-05-27 06:32:35 UTC
 
-📈 **Total TLDs**: 1437
+📈 **Total TLDs**: 1435
 
-✅ **No TLD changes, data refreshed**
+🗑️ **Removed TLDs**:
+  - .hdfcbank
+  - .rogers
+
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
