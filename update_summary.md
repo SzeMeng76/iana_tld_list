@@ -1,12 +1,22 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-05-27 06:32:35 UTC
+🕐 **Update Time**: 2026-06-03 07:00:50 UTC
 
-📈 **Total TLDs**: 1435
+📈 **Total TLDs**: 1429
 
-🗑️ **Removed TLDs**:
+🆕 **Added TLDs**:
   - .hdfcbank
   - .rogers
+
+🗑️ **Removed TLDs**:
+  - .vermögensberatung
+  - .yachts
+  - .yahoo
+  - .yamaxun
+  - .yandex
+  - .ye
+  - .企业
+  - .政务
 
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)

@@ -216,7 +216,7 @@
     "tldType": "gTLD",
     "nic": "http://www.information.aero",
     "whois": "whois.aero",
-    "lastUpdate": "2026-03-10",
+    "lastUpdate": "2026-05-21",
     "registration": "2001-12-21"
   },
   ".aetna": {
@@ -366,7 +366,7 @@
     "tldType": "gTLD",
     "nic": "http://www.alibabagroup.com",
     "whois": "whois.nic.alibaba",
-    "lastUpdate": "2026-05-18",
+    "lastUpdate": "2026-05-20",
     "registration": "2016-01-08"
   },
   ".alipay": {
@@ -566,7 +566,7 @@
     "tldType": "gTLD",
     "nic": "http://www.aol.com",
     "whois": "whois.nic.aol",
-    "lastUpdate": "2026-04-10",
+    "lastUpdate": "2026-05-25",
     "registration": "2016-10-27"
   },
   ".apartments": {
@@ -1086,7 +1086,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.whois.telecoms.gov.bb/",
     "whois": "NULL",
-    "lastUpdate": "2022-03-08",
+    "lastUpdate": "2026-05-22",
     "registration": "1991-09-03"
   },
   ".bbc": {
@@ -1766,7 +1766,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.norid.no/en/omnorid/toppdomenet-bv/",
     "whois": "NULL",
-    "lastUpdate": "2022-01-14",
+    "lastUpdate": "2026-05-22",
     "registration": "1997-08-21"
   },
   ".bw": {
@@ -5189,16 +5189,6 @@
     "lastUpdate": "2023-08-23",
     "registration": "2016-07-21"
   },
-  ".hdfcbank": {
-    "tld": "hdfcbank",
-    "dm": ".hdfcbank",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "NULL",
-    "whois": "whois.nic.hdfcbank",
-    "lastUpdate": "2023-08-23",
-    "registration": "2016-02-05"
-  },
   ".health": {
     "tld": "health",
     "dm": ".health",
@@ -6036,7 +6026,7 @@
     "tldType": "gTLD",
     "nic": "http://www.fcausllc.com/",
     "whois": "whois.nic.jeep",
-    "lastUpdate": "2023-08-11",
+    "lastUpdate": "2026-05-20",
     "registration": "2016-07-07"
   },
   ".jetzt": {
@@ -9709,16 +9699,6 @@
     "lastUpdate": "2024-04-17",
     "registration": "2014-02-28"
   },
-  ".rogers": {
-    "tld": "rogers",
-    "dm": ".rogers",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.rogers.com/consumer/home",
-    "whois": "whois.nic.rogers",
-    "lastUpdate": "2023-08-11",
-    "registration": "2016-08-18"
-  },
   ".room": {
     "tld": "room",
     "dm": ".room",
@@ -9906,7 +9886,7 @@
     "tldType": "gTLD",
     "nic": "http://samsungregistry.com",
     "whois": "whois.nic.samsung",
-    "lastUpdate": "2026-01-08",
+    "lastUpdate": "2026-05-26",
     "registration": "2014-10-30"
   },
   ".sandvik": {
@@ -12285,8 +12265,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "http://www.nic.wang",
-    "whois": "whois.zdns.cn",
-    "lastUpdate": "2026-04-02",
+    "whois": "whois.gtld.zdns.cn",
+    "lastUpdate": "2026-05-22",
     "registration": "2013-12-12"
   },
   ".wanggou": {
@@ -12675,8 +12655,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.cishan.wang",
-    "whois": "whois.zdns.cn",
-    "lastUpdate": "2026-04-02",
+    "whois": "whois.gtld.zdns.cn",
+    "lastUpdate": "2026-05-22",
     "registration": "2015-03-12"
   },
   ".集团": {
@@ -12685,8 +12665,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.jituan.wang",
-    "whois": "whois.zdns.cn",
-    "lastUpdate": "2026-04-02",
+    "whois": "whois.gtld.zdns.cn",
+    "lastUpdate": "2026-05-22",
     "registration": "2013-12-12"
   },
   ".在线": {
@@ -12765,8 +12745,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.bagua.wang",
-    "whois": "whois.zdns.cn",
-    "lastUpdate": "2026-04-02",
+    "whois": "whois.gtld.zdns.cn",
+    "lastUpdate": "2026-05-22",
     "registration": "2014-11-06"
   },
   ".ישראל": {
@@ -12855,8 +12835,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.520.wang",
-    "whois": "whois.zdns.cn",
-    "lastUpdate": "2026-04-02",
+    "whois": "whois.gtld.zdns.cn",
+    "lastUpdate": "2026-05-22",
     "registration": "2013-12-12"
   },
   ".москва": {
@@ -12965,8 +12945,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.shishang.wang",
-    "whois": "whois.zdns.cn",
-    "lastUpdate": "2026-04-02",
+    "whois": "whois.gtld.zdns.cn",
+    "lastUpdate": "2026-05-22",
     "registration": "2015-03-12"
   },
   ".微博": {
@@ -13085,8 +13065,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.shangcheng.wang",
-    "whois": "whois.zdns.cn",
-    "lastUpdate": "2026-04-02",
+    "whois": "whois.gtld.zdns.cn",
+    "lastUpdate": "2026-05-22",
     "registration": "2014-02-27"
   },
   ".дети": {
@@ -13135,8 +13115,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.gd.xinhua.org",
-    "whois": "whois.zdns.cn",
-    "lastUpdate": "2026-04-02",
+    "whois": "whois.gtld.zdns.cn",
+    "lastUpdate": "2026-05-22",
     "registration": "2015-08-06"
   },
   ".家電": {
@@ -13325,8 +13305,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.wangdian.wang",
-    "whois": "whois.zdns.cn",
-    "lastUpdate": "2026-04-02",
+    "whois": "whois.gtld.zdns.cn",
+    "lastUpdate": "2026-05-22",
     "registration": "2014-11-20"
   },
   ".संगठन": {
@@ -14176,7 +14156,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.yahoo",
     "whois": "whois.nic.yahoo",
-    "lastUpdate": "2024-07-25",
+    "lastUpdate": "2026-05-25",
     "registration": "2016-01-29"
   },
   ".yamaxun": {

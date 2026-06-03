@@ -1086,7 +1086,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.whois.telecoms.gov.bb/",
     "whois": "NULL",
-    "lastUpdate": "2026-05-22",
+    "lastUpdate": "2026-06-02",
     "registration": "1991-09-03"
   },
   ".bbc": {
@@ -5189,6 +5189,16 @@
     "lastUpdate": "2023-08-23",
     "registration": "2016-07-21"
   },
+  ".hdfcbank": {
+    "tld": "hdfcbank",
+    "dm": ".hdfcbank",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "NULL",
+    "whois": "whois.nic.hdfcbank",
+    "lastUpdate": "2023-08-23",
+    "registration": "2016-02-05"
+  },
   ".health": {
     "tld": "health",
     "dm": ".health",
@@ -8134,9 +8144,9 @@
     "dm": ".ng",
     "isIDN": "False",
     "tldType": "ccTLD",
-    "nic": "http://www.nira.org.ng/",
+    "nic": "https://www.nira.org.ng/",
     "whois": "whois.nic.net.ng",
-    "lastUpdate": "2026-02-14",
+    "lastUpdate": "2026-06-02",
     "registration": "1995-03-15"
   },
   ".ngo": {
@@ -9699,6 +9709,16 @@
     "lastUpdate": "2024-04-17",
     "registration": "2014-02-28"
   },
+  ".rogers": {
+    "tld": "rogers",
+    "dm": ".rogers",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.rogers.com/consumer/home",
+    "whois": "whois.nic.rogers",
+    "lastUpdate": "2023-08-11",
+    "registration": "2016-08-18"
+  },
   ".room": {
     "tld": "room",
     "dm": ".room",
@@ -9886,7 +9906,7 @@
     "tldType": "gTLD",
     "nic": "http://samsungregistry.com",
     "whois": "whois.nic.samsung",
-    "lastUpdate": "2026-05-26",
+    "lastUpdate": "2026-06-01",
     "registration": "2014-10-30"
   },
   ".sandvik": {
@@ -13979,26 +13999,6 @@
     "lastUpdate": "2023-10-16",
     "registration": "2014-09-18"
   },
-  ".vermögensberatung": {
-    "tld": "xn--vermgensberatung-pwb",
-    "dm": ".vermögensberatung",
-    "isIDN": "True",
-    "tldType": "gTLD",
-    "nic": "http://www.dvag-registry.de",
-    "whois": "whois.nic.xn--vermgensberatung-pwb",
-    "lastUpdate": "2023-10-16",
-    "registration": "2014-09-18"
-  },
-  ".企业": {
-    "tld": "xn--vhquv",
-    "dm": ".企业",
-    "isIDN": "True",
-    "tldType": "gTLD",
-    "nic": "https://www.identity.digital/",
-    "whois": "NULL",
-    "lastUpdate": "2025-10-07",
-    "registration": "2013-11-25"
-  },
   ".信息": {
     "tld": "xn--vuq861b",
     "dm": ".信息",
@@ -14109,16 +14109,6 @@
     "lastUpdate": "2024-02-05",
     "registration": "2010-08-20"
   },
-  ".政务": {
-    "tld": "xn--zfr164b",
-    "dm": ".政务",
-    "isIDN": "True",
-    "tldType": "gTLD",
-    "nic": "http://www.conac.cn",
-    "whois": "whois.conac.cn",
-    "lastUpdate": "2024-07-18",
-    "registration": "2013-12-12"
-  },
   ".xxx": {
     "tld": "xxx",
     "dm": ".xxx",
@@ -14138,56 +14128,6 @@
     "whois": "whois.nic.xyz",
     "lastUpdate": "2025-08-12",
     "registration": "2014-02-06"
-  },
-  ".yachts": {
-    "tld": "yachts",
-    "dm": ".yachts",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://nic.yachts",
-    "whois": "whois.nic.yachts",
-    "lastUpdate": "2025-08-12",
-    "registration": "2014-05-01"
-  },
-  ".yahoo": {
-    "tld": "yahoo",
-    "dm": ".yahoo",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://nic.yahoo",
-    "whois": "whois.nic.yahoo",
-    "lastUpdate": "2026-05-25",
-    "registration": "2016-01-29"
-  },
-  ".yamaxun": {
-    "tld": "yamaxun",
-    "dm": ".yamaxun",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.nic.yamaxun",
-    "whois": "NULL",
-    "lastUpdate": "2025-02-14",
-    "registration": "2015-09-10"
-  },
-  ".yandex": {
-    "tld": "yandex",
-    "dm": ".yandex",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.yandex.ru/",
-    "whois": "whois.nic.yandex",
-    "lastUpdate": "2025-12-12",
-    "registration": "2014-07-10"
-  },
-  ".ye": {
-    "tld": "ye",
-    "dm": ".ye",
-    "isIDN": "False",
-    "tldType": "ccTLD",
-    "nic": "NULL",
-    "whois": "whois.y.net.ye",
-    "lastUpdate": "2025-03-16",
-    "registration": "1996-08-19"
   },
   ".yodobashi": {
     "tld": "yodobashi",
