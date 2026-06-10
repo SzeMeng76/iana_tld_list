@@ -1,14 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-06-03 07:00:50 UTC
+🕐 **Update Time**: 2026-06-10 06:29:22 UTC
 
-📈 **Total TLDs**: 1429
+📈 **Total TLDs**: 1437
 
 🆕 **Added TLDs**:
-  - .hdfcbank
-  - .rogers
-
-🗑️ **Removed TLDs**:
   - .vermögensberatung
   - .yachts
   - .yahoo

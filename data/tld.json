@@ -116,7 +116,7 @@
     "tldType": "gTLD",
     "nic": "http://www.accenture.com",
     "whois": "whois.nic.accenture",
-    "lastUpdate": "2024-03-31",
+    "lastUpdate": "2026-06-03",
     "registration": "2015-04-30"
   },
   ".accountant": {
@@ -366,7 +366,7 @@
     "tldType": "gTLD",
     "nic": "http://www.alibabagroup.com",
     "whois": "whois.nic.alibaba",
-    "lastUpdate": "2026-05-20",
+    "lastUpdate": "2026-06-06",
     "registration": "2016-01-08"
   },
   ".alipay": {
@@ -706,7 +706,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.as",
     "whois": "whois.nic.as",
-    "lastUpdate": "2025-12-08",
+    "lastUpdate": "2026-06-06",
     "registration": "1997-06-12"
   },
   ".asda": {
@@ -4685,8 +4685,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "http://uniregistry.link",
-    "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-12",
+    "whois": "whois.registry.gift",
+    "lastUpdate": "2026-06-09",
     "registration": "2014-01-09"
   },
   ".gifts": {
@@ -10026,7 +10026,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.sc",
     "whois": "whois.nic.sc",
-    "lastUpdate": "2025-09-09",
+    "lastUpdate": "2026-06-08",
     "registration": "1997-05-09"
   },
   ".scb": {
@@ -11774,9 +11774,9 @@
     "dm": ".tz",
     "isIDN": "False",
     "tldType": "ccTLD",
-    "nic": "https://karibu.tz/",
+    "nic": "https://karibu.tz",
     "whois": "whois.tznic.or.tz",
-    "lastUpdate": "2023-07-27",
+    "lastUpdate": "2026-06-08",
     "registration": "1995-07-14"
   },
   ".ua": {
@@ -13046,7 +13046,7 @@
     "tldType": "gTLD",
     "nic": "http://samsungregistry.com",
     "whois": "whois.kr",
-    "lastUpdate": "2026-01-08",
+    "lastUpdate": "2026-06-08",
     "registration": "2013-12-12"
   },
   ".சிங்கப்பூர்": {
@@ -13999,6 +13999,26 @@
     "lastUpdate": "2023-10-16",
     "registration": "2014-09-18"
   },
+  ".vermögensberatung": {
+    "tld": "xn--vermgensberatung-pwb",
+    "dm": ".vermögensberatung",
+    "isIDN": "True",
+    "tldType": "gTLD",
+    "nic": "http://www.dvag-registry.de",
+    "whois": "whois.nic.xn--vermgensberatung-pwb",
+    "lastUpdate": "2023-10-16",
+    "registration": "2014-09-18"
+  },
+  ".企业": {
+    "tld": "xn--vhquv",
+    "dm": ".企业",
+    "isIDN": "True",
+    "tldType": "gTLD",
+    "nic": "https://www.identity.digital/",
+    "whois": "NULL",
+    "lastUpdate": "2025-10-07",
+    "registration": "2013-11-25"
+  },
   ".信息": {
     "tld": "xn--vuq861b",
     "dm": ".信息",
@@ -14109,6 +14129,16 @@
     "lastUpdate": "2024-02-05",
     "registration": "2010-08-20"
   },
+  ".政务": {
+    "tld": "xn--zfr164b",
+    "dm": ".政务",
+    "isIDN": "True",
+    "tldType": "gTLD",
+    "nic": "http://www.conac.cn",
+    "whois": "whois.conac.cn",
+    "lastUpdate": "2024-07-18",
+    "registration": "2013-12-12"
+  },
   ".xxx": {
     "tld": "xxx",
     "dm": ".xxx",
@@ -14128,6 +14158,56 @@
     "whois": "whois.nic.xyz",
     "lastUpdate": "2025-08-12",
     "registration": "2014-02-06"
+  },
+  ".yachts": {
+    "tld": "yachts",
+    "dm": ".yachts",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://nic.yachts",
+    "whois": "whois.nic.yachts",
+    "lastUpdate": "2025-08-12",
+    "registration": "2014-05-01"
+  },
+  ".yahoo": {
+    "tld": "yahoo",
+    "dm": ".yahoo",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://nic.yahoo",
+    "whois": "whois.nic.yahoo",
+    "lastUpdate": "2026-05-25",
+    "registration": "2016-01-29"
+  },
+  ".yamaxun": {
+    "tld": "yamaxun",
+    "dm": ".yamaxun",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.nic.yamaxun",
+    "whois": "NULL",
+    "lastUpdate": "2025-02-14",
+    "registration": "2015-09-10"
+  },
+  ".yandex": {
+    "tld": "yandex",
+    "dm": ".yandex",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.yandex.ru/",
+    "whois": "whois.nic.yandex",
+    "lastUpdate": "2025-12-12",
+    "registration": "2014-07-10"
+  },
+  ".ye": {
+    "tld": "ye",
+    "dm": ".ye",
+    "isIDN": "False",
+    "tldType": "ccTLD",
+    "nic": "NULL",
+    "whois": "whois.y.net.ye",
+    "lastUpdate": "2025-03-16",
+    "registration": "1996-08-19"
   },
   ".yodobashi": {
     "tld": "yodobashi",
