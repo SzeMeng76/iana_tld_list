@@ -1,10 +1,12 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-06-17 07:15:01 UTC
+🕐 **Update Time**: 2026-06-24 06:16:31 UTC
 
-📈 **Total TLDs**: 1437
+📈 **Total TLDs**: 1436
 
-✅ **No TLD changes, data refreshed**
+🗑️ **Removed TLDs**:
+  - .post
+
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
