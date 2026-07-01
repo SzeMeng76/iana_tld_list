@@ -356,7 +356,7 @@
     "tldType": "ccTLD",
     "nic": "https://akep.al/e-aplikime-domain/",
     "whois": "NULL",
-    "lastUpdate": "2023-10-12",
+    "lastUpdate": "2026-06-23",
     "registration": "1992-04-21"
   },
   ".alibaba": {
@@ -1256,7 +1256,7 @@
     "tldType": "ccTLD",
     "nic": "NULL",
     "whois": "whois.nic.bh",
-    "lastUpdate": "2024-07-01",
+    "lastUpdate": "2026-06-23",
     "registration": "1994-02-01"
   },
   ".bharti": {
@@ -3326,7 +3326,7 @@
     "tldType": "ccTLD",
     "nic": "https://punktum.dk/",
     "whois": "whois.punktum.dk",
-    "lastUpdate": "2025-10-30",
+    "lastUpdate": "2026-06-17",
     "registration": "1987-07-14"
   },
   ".dm": {
@@ -7086,7 +7086,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.dns.lu",
     "whois": "whois.dns.lu",
-    "lastUpdate": "2026-06-16",
+    "lastUpdate": "2026-06-18",
     "registration": "1995-01-27"
   },
   ".lundbeck": {
@@ -9099,16 +9099,6 @@
     "lastUpdate": "2024-04-17",
     "registration": "2014-11-26"
   },
-  ".post": {
-    "tld": "post",
-    "dm": ".post",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.upu.int",
-    "whois": "whois.nic.post",
-    "lastUpdate": "2025-05-15",
-    "registration": "2012-08-07"
-  },
   ".pr": {
     "tld": "pr",
     "dm": ".pr",
@@ -9516,7 +9506,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.ren/",
     "whois": "whois.nic.ren",
-    "lastUpdate": "2026-06-16",
+    "lastUpdate": "2026-06-23",
     "registration": "2014-02-28"
   },
   ".rent": {
@@ -10416,7 +10406,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.sina",
-    "lastUpdate": "2023-08-08",
+    "lastUpdate": "2026-06-22",
     "registration": "2016-02-29"
   },
   ".singles": {
@@ -12396,7 +12386,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.weibo",
-    "lastUpdate": "2023-08-08",
+    "lastUpdate": "2026-06-23",
     "registration": "2016-02-29"
   },
   ".weir": {
@@ -12976,7 +12966,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.xn--9krt00a",
-    "lastUpdate": "2023-08-08",
+    "lastUpdate": "2026-06-23",
     "registration": "2016-02-29"
   },
   ".淡马锡": {
@@ -13606,7 +13596,7 @@
     "tldType": "ccTLD",
     "nic": "NULL",
     "whois": "NULL",
-    "lastUpdate": "2024-07-01",
+    "lastUpdate": "2026-06-23",
     "registration": "2019-06-13"
   },
   ".السعودية": {

@@ -1,10 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-06-24 06:16:31 UTC
+🕐 **Update Time**: 2026-07-01 06:25:08 UTC
 
-📈 **Total TLDs**: 1436
+📈 **Total TLDs**: 1437
 
-🗑️ **Removed TLDs**:
+🆕 **Added TLDs**:
   - .post
 
 

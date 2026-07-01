@@ -356,7 +356,7 @@
     "tldType": "ccTLD",
     "nic": "https://akep.al/e-aplikime-domain/",
     "whois": "NULL",
-    "lastUpdate": "2026-06-23",
+    "lastUpdate": "2026-06-25",
     "registration": "1992-04-21"
   },
   ".alibaba": {
@@ -366,7 +366,7 @@
     "tldType": "gTLD",
     "nic": "http://www.alibabagroup.com",
     "whois": "whois.nic.alibaba",
-    "lastUpdate": "2026-06-06",
+    "lastUpdate": "2026-06-29",
     "registration": "2016-01-08"
   },
   ".alipay": {
@@ -2336,7 +2336,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.circle",
     "whois": "NULL",
-    "lastUpdate": "2026-04-20",
+    "lastUpdate": "2026-06-29",
     "registration": "2015-11-12"
   },
   ".cisco": {
@@ -4916,7 +4916,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.got",
     "whois": "NULL",
-    "lastUpdate": "2026-05-04",
+    "lastUpdate": "2026-06-29",
     "registration": "2015-11-12"
   },
   ".gov": {
@@ -5736,7 +5736,7 @@
     "tldType": "ccTLD",
     "nic": "https://registry.in",
     "whois": "whois.nixiregistry.in",
-    "lastUpdate": "2026-04-15",
+    "lastUpdate": "2026-06-29",
     "registration": "1989-05-08"
   },
   ".inc": {
@@ -6146,7 +6146,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.jot",
     "whois": "NULL",
-    "lastUpdate": "2026-05-04",
+    "lastUpdate": "2026-06-29",
     "registration": "2015-11-12"
   },
   ".joy": {
@@ -6865,8 +6865,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "http://uniregistry.link",
-    "whois": "whois.tucowsregistry.net",
-    "lastUpdate": "2025-12-15",
+    "whois": "whois.uniregistry.net",
+    "lastUpdate": "2026-06-26",
     "registration": "2014-01-09"
   },
   ".live": {
@@ -9099,6 +9099,16 @@
     "lastUpdate": "2024-04-17",
     "registration": "2014-11-26"
   },
+  ".post": {
+    "tld": "post",
+    "dm": ".post",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "http://www.upu.int",
+    "whois": "whois.nic.post",
+    "lastUpdate": "2025-05-15",
+    "registration": "2012-08-07"
+  },
   ".pr": {
     "tld": "pr",
     "dm": ".pr",
@@ -9846,7 +9856,7 @@
     "tldType": "gTLD",
     "nic": "https://nic.safety",
     "whois": "whois.nic.safety",
-    "lastUpdate": "2026-06-15",
+    "lastUpdate": "2026-06-26",
     "registration": "2015-04-23"
   },
   ".sakura": {
@@ -10406,7 +10416,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.sina",
-    "lastUpdate": "2026-06-22",
+    "lastUpdate": "2026-06-29",
     "registration": "2016-02-29"
   },
   ".singles": {
@@ -12386,7 +12396,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.weibo",
-    "lastUpdate": "2026-06-23",
+    "lastUpdate": "2026-06-29",
     "registration": "2016-02-29"
   },
   ".weir": {
@@ -12796,7 +12806,7 @@
     "tldType": "gTLD",
     "nic": "http://www.conac.cn",
     "whois": "whois.conac.cn",
-    "lastUpdate": "2024-07-18",
+    "lastUpdate": "2026-06-24",
     "registration": "2013-12-12"
   },
   ".公司": {
@@ -12966,7 +12976,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.xn--9krt00a",
-    "lastUpdate": "2026-06-23",
+    "lastUpdate": "2026-06-29",
     "registration": "2016-02-29"
   },
   ".淡马锡": {
@@ -13165,8 +13175,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "NULL",
-    "whois": "whois.gtld.knet.cn",
-    "lastUpdate": "2025-02-14",
+    "whois": "whois.gtld.zdns.cn",
+    "lastUpdate": "2026-06-25",
     "registration": "2014-01-09"
   },
   ".中国": {
@@ -14126,7 +14136,7 @@
     "tldType": "gTLD",
     "nic": "http://www.conac.cn",
     "whois": "whois.conac.cn",
-    "lastUpdate": "2024-07-18",
+    "lastUpdate": "2026-06-24",
     "registration": "2013-12-12"
   },
   ".xxx": {
