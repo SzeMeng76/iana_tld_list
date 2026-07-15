@@ -776,7 +776,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.auda.org.au/domains/au-domains/",
     "whois": "whois.auda.org.au",
-    "lastUpdate": "2026-02-09",
+    "lastUpdate": "2026-07-11",
     "registration": "1986-03-05"
   },
   ".auction": {
@@ -1256,7 +1256,7 @@
     "tldType": "ccTLD",
     "nic": "NULL",
     "whois": "whois.nic.bh",
-    "lastUpdate": "2026-06-23",
+    "lastUpdate": "2026-07-14",
     "registration": "1994-02-01"
   },
   ".bharti": {
@@ -2334,9 +2334,9 @@
     "dm": ".circle",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.nic.circle",
+    "nic": "https://www.identity.digital/",
     "whois": "NULL",
-    "lastUpdate": "2026-07-07",
+    "lastUpdate": "2026-07-14",
     "registration": "2015-11-12"
   },
   ".cisco": {
@@ -4914,9 +4914,9 @@
     "dm": ".got",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.nic.got",
+    "nic": "https://www.identity.digital/",
     "whois": "NULL",
-    "lastUpdate": "2026-07-07",
+    "lastUpdate": "2026-07-14",
     "registration": "2015-11-12"
   },
   ".gov": {
@@ -6144,9 +6144,9 @@
     "dm": ".jot",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "http://www.nic.jot",
+    "nic": "https://www.identity.digital/",
     "whois": "NULL",
-    "lastUpdate": "2026-07-07",
+    "lastUpdate": "2026-07-14",
     "registration": "2015-11-12"
   },
   ".joy": {
@@ -9376,7 +9376,7 @@
     "tldType": "gTLD",
     "nic": "https://www.nic.radio/",
     "whois": "whois.nic.radio",
-    "lastUpdate": "2026-02-26",
+    "lastUpdate": "2026-07-14",
     "registration": "2016-09-22"
   },
   ".re": {
@@ -9756,7 +9756,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.cctld.ru/en",
     "whois": "whois.tcinet.ru",
-    "lastUpdate": "2025-10-22",
+    "lastUpdate": "2026-07-14",
     "registration": "1994-04-07"
   },
   ".rugby": {
@@ -9854,9 +9854,9 @@
     "dm": ".safety",
     "isIDN": "False",
     "tldType": "gTLD",
-    "nic": "https://nic.safety",
-    "whois": "whois.nic.safety",
-    "lastUpdate": "2026-06-26",
+    "nic": "https://www.identity.digital",
+    "whois": "NULL",
+    "lastUpdate": "2026-07-08",
     "registration": "2015-04-23"
   },
   ".sakura": {
@@ -10986,7 +10986,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.svnet.sv",
     "whois": "NULL",
-    "lastUpdate": "2026-04-29",
+    "lastUpdate": "2026-07-14",
     "registration": "1994-11-04"
   },
   ".swatch": {
@@ -12816,7 +12816,7 @@
     "tldType": "gTLD",
     "nic": "http://www.cnnic.cn",
     "whois": "whois.ngtld.cn",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-07-08",
     "registration": "2014-01-09"
   },
   ".香格里拉": {
@@ -13356,7 +13356,7 @@
     "tldType": "gTLD",
     "nic": "http://www.cnnic.cn",
     "whois": "whois.ngtld.cn",
-    "lastUpdate": "2025-07-17",
+    "lastUpdate": "2026-07-08",
     "registration": "2014-01-09"
   },
   ".ком": {
@@ -13896,7 +13896,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.gr",
     "whois": "NULL",
-    "lastUpdate": "2026-07-07",
+    "lastUpdate": "2026-07-09",
     "registration": "2015-05-06"
   },
   ".世界": {

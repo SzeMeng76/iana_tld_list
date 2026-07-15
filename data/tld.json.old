@@ -356,7 +356,7 @@
     "tldType": "ccTLD",
     "nic": "https://akep.al/e-aplikime-domain/",
     "whois": "NULL",
-    "lastUpdate": "2026-06-25",
+    "lastUpdate": "2026-07-03",
     "registration": "1992-04-21"
   },
   ".alibaba": {
@@ -2206,7 +2206,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.nic.ch/",
     "whois": "whois.nic.ch",
-    "lastUpdate": "2025-11-20",
+    "lastUpdate": "2026-07-01",
     "registration": "1987-05-20"
   },
   ".chanel": {
@@ -2336,7 +2336,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.circle",
     "whois": "NULL",
-    "lastUpdate": "2026-06-29",
+    "lastUpdate": "2026-07-07",
     "registration": "2015-11-12"
   },
   ".cisco": {
@@ -4916,7 +4916,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.got",
     "whois": "NULL",
-    "lastUpdate": "2026-06-29",
+    "lastUpdate": "2026-07-07",
     "registration": "2015-11-12"
   },
   ".gov": {
@@ -4956,7 +4956,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.gr",
     "whois": "NULL",
-    "lastUpdate": "2022-06-16",
+    "lastUpdate": "2026-07-07",
     "registration": "1989-02-19"
   },
   ".grainger": {
@@ -5326,7 +5326,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.registry.hm",
     "whois": "whois.registry.hm",
-    "lastUpdate": "2023-12-14",
+    "lastUpdate": "2026-07-07",
     "registration": "1997-07-24"
   },
   ".hn": {
@@ -6146,7 +6146,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.jot",
     "whois": "NULL",
-    "lastUpdate": "2026-06-29",
+    "lastUpdate": "2026-07-07",
     "registration": "2015-11-12"
   },
   ".joy": {
@@ -6756,7 +6756,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.nic.li",
     "whois": "whois.nic.li",
-    "lastUpdate": "2025-11-20",
+    "lastUpdate": "2026-07-01",
     "registration": "1993-02-26"
   },
   ".lidl": {
@@ -8176,7 +8176,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.ni",
     "whois": "NULL",
-    "lastUpdate": "2026-03-23",
+    "lastUpdate": "2026-07-02",
     "registration": "1989-10-13"
   },
   ".nico": {
@@ -9776,7 +9776,7 @@
     "tldType": "gTLD",
     "nic": "http://dot.ruhr",
     "whois": "whois.nic.ruhr",
-    "lastUpdate": "2023-09-08",
+    "lastUpdate": "2026-07-07",
     "registration": "2013-11-25"
   },
   ".run": {
@@ -10416,7 +10416,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.sina",
-    "lastUpdate": "2026-06-29",
+    "lastUpdate": "2026-07-06",
     "registration": "2016-02-29"
   },
   ".singles": {
@@ -11026,7 +11026,7 @@
     "tldType": "ccTLD",
     "nic": "http://tld.sy",
     "whois": "whois.tld.sy",
-    "lastUpdate": "2026-05-14",
+    "lastUpdate": "2026-07-06",
     "registration": "1996-02-20"
   },
   ".sydney": {
@@ -11606,7 +11606,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.trabis.gov.tr",
     "whois": "whois.trabis.gov.tr",
-    "lastUpdate": "2026-04-24",
+    "lastUpdate": "2026-07-05",
     "registration": "1990-09-17"
   },
   ".trade": {
@@ -11716,7 +11716,7 @@
     "tldType": "gTLD",
     "nic": "http://www.tuiregistry.com",
     "whois": "whois.nic.tui",
-    "lastUpdate": "2024-05-28",
+    "lastUpdate": "2026-07-06",
     "registration": "2014-09-18"
   },
   ".tunes": {
@@ -12396,7 +12396,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.weibo",
-    "lastUpdate": "2026-06-29",
+    "lastUpdate": "2026-07-06",
     "registration": "2016-02-29"
   },
   ".weir": {
@@ -12805,8 +12805,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.conac.cn",
-    "whois": "whois.conac.cn",
-    "lastUpdate": "2026-06-24",
+    "whois": "whois.nic.xn--55qw42g",
+    "lastUpdate": "2026-07-06",
     "registration": "2013-12-12"
   },
   ".公司": {
@@ -12976,7 +12976,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.xn--9krt00a",
-    "lastUpdate": "2026-06-29",
+    "lastUpdate": "2026-07-06",
     "registration": "2016-02-29"
   },
   ".淡马锡": {
@@ -13896,7 +13896,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.gr",
     "whois": "NULL",
-    "lastUpdate": "2023-03-07",
+    "lastUpdate": "2026-07-07",
     "registration": "2015-05-06"
   },
   ".世界": {
@@ -14135,8 +14135,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "http://www.conac.cn",
-    "whois": "whois.conac.cn",
-    "lastUpdate": "2026-06-24",
+    "whois": "whois.nic.xn--zfr164b",
+    "lastUpdate": "2026-07-06",
     "registration": "2013-12-12"
   },
   ".xxx": {
