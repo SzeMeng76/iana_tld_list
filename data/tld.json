@@ -1256,7 +1256,7 @@
     "tldType": "ccTLD",
     "nic": "NULL",
     "whois": "whois.nic.bh",
-    "lastUpdate": "2026-07-14",
+    "lastUpdate": "2026-07-22",
     "registration": "1994-02-01"
   },
   ".bharti": {
@@ -5056,7 +5056,7 @@
     "tldType": "ccTLD",
     "nic": "https://give.uog.edu/shop/",
     "whois": "NULL",
-    "lastUpdate": "2025-09-08",
+    "lastUpdate": "2026-07-22",
     "registration": "1994-04-15"
   },
   ".gucci": {
@@ -5636,7 +5636,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.weare.ie",
     "whois": "whois.weare.ie",
-    "lastUpdate": "2025-08-22",
+    "lastUpdate": "2026-07-23",
     "registration": "1988-01-27"
   },
   ".ieee": {
@@ -8386,7 +8386,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.dnc.org.nz/",
     "whois": "whois.irs.net.nz",
-    "lastUpdate": "2025-12-15",
+    "lastUpdate": "2026-07-23",
     "registration": "1987-01-19"
   },
   ".obi": {
@@ -8636,7 +8636,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.pa/",
     "whois": "NULL",
-    "lastUpdate": "2024-11-25",
+    "lastUpdate": "2026-07-28",
     "registration": "1994-05-25"
   },
   ".page": {
@@ -9376,7 +9376,7 @@
     "tldType": "gTLD",
     "nic": "https://www.nic.radio/",
     "whois": "whois.nic.radio",
-    "lastUpdate": "2026-07-14",
+    "lastUpdate": "2026-07-27",
     "registration": "2016-09-22"
   },
   ".re": {
@@ -9776,7 +9776,7 @@
     "tldType": "gTLD",
     "nic": "http://dot.ruhr",
     "whois": "whois.nic.ruhr",
-    "lastUpdate": "2026-07-07",
+    "lastUpdate": "2026-07-22",
     "registration": "2013-11-25"
   },
   ".run": {
@@ -10906,7 +10906,7 @@
     "tldType": "ccTLD",
     "nic": "NULL",
     "whois": "whois.tcinet.ru",
-    "lastUpdate": "2026-07-16",
+    "lastUpdate": "2026-07-27",
     "registration": "1990-09-19"
   },
   ".sucks": {
@@ -11026,7 +11026,7 @@
     "tldType": "ccTLD",
     "nic": "http://tld.sy",
     "whois": "whois.tld.sy",
-    "lastUpdate": "2026-07-06",
+    "lastUpdate": "2026-07-23",
     "registration": "1996-02-20"
   },
   ".sydney": {
@@ -11126,7 +11126,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dottatar.ru",
     "whois": "whois.nic.tatar",
-    "lastUpdate": "2025-10-21",
+    "lastUpdate": "2026-07-27",
     "registration": "2014-07-03"
   },
   ".tattoo": {
@@ -12339,6 +12339,16 @@
     "lastUpdate": "2026-03-01",
     "registration": "2016-01-22"
   },
+  ".web": {
+    "tld": "web",
+    "dm": ".web",
+    "isIDN": "False",
+    "tldType": "gTLD",
+    "nic": "https://www.verisign.com/",
+    "whois": "NULL",
+    "lastUpdate": "2026-07-23",
+    "registration": "NULL"
+  },
   ".webcam": {
     "tld": "webcam",
     "dm": ".webcam",
@@ -13096,7 +13106,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dotdeti.ru",
     "whois": "whois.nic.xn--d1acj3b",
-    "lastUpdate": "2026-04-22",
+    "lastUpdate": "2026-07-27",
     "registration": "2014-02-13"
   },
   ".мкд": {
@@ -13606,7 +13616,7 @@
     "tldType": "ccTLD",
     "nic": "NULL",
     "whois": "NULL",
-    "lastUpdate": "2026-07-15",
+    "lastUpdate": "2026-07-22",
     "registration": "2019-06-13"
   },
   ".السعودية": {
@@ -13796,7 +13806,7 @@
     "tldType": "ccTLD",
     "nic": "http://tld.sy",
     "whois": "whois.tld.sy",
-    "lastUpdate": "2026-05-14",
+    "lastUpdate": "2026-07-23",
     "registration": "2011-02-05"
   },
   ".招聘": {
