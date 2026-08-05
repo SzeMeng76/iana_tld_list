@@ -1,12 +1,10 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-07-29 05:22:55 UTC
+🕐 **Update Time**: 2026-08-05 05:15:30 UTC
 
 📈 **Total TLDs**: 1438
 
-🆕 **Added TLDs**:
-  - .web
-
+✅ **No TLD changes, data refreshed**
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
