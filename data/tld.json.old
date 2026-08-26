@@ -1476,7 +1476,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.bo",
     "whois": "whois.nic.bo",
-    "lastUpdate": "2024-05-23",
+    "lastUpdate": "2026-08-17",
     "registration": "1991-02-26"
   },
   ".boats": {
@@ -4126,7 +4126,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.domains.fj/",
     "whois": "www.whois.fj",
-    "lastUpdate": "2025-08-25",
+    "lastUpdate": "2026-08-17",
     "registration": "1992-06-03"
   },
   ".fk": {
@@ -6115,8 +6115,8 @@
     "isIDN": "False",
     "tldType": "ccTLD",
     "nic": "https://www.dns.jo",
-    "whois": "NULL",
-    "lastUpdate": "2026-02-24",
+    "whois": "whois.nic.net.jo",
+    "lastUpdate": "2026-08-17",
     "registration": "1994-11-23"
   },
   ".jobs": {
@@ -8386,7 +8386,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.dnc.org.nz/",
     "whois": "whois.irs.net.nz",
-    "lastUpdate": "2026-08-05",
+    "lastUpdate": "2026-08-14",
     "registration": "1987-01-19"
   },
   ".obi": {
@@ -10416,7 +10416,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.sina",
-    "lastUpdate": "2026-07-06",
+    "lastUpdate": "2026-08-13",
     "registration": "2016-02-29"
   },
   ".singles": {
@@ -10556,7 +10556,7 @@
     "tldType": "ccTLD",
     "nic": "https://www.cctld.sn",
     "whois": "whois.nic.sn",
-    "lastUpdate": "2026-08-04",
+    "lastUpdate": "2026-08-14",
     "registration": "1993-03-19"
   },
   ".sncf": {
@@ -10566,7 +10566,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sncf.com",
     "whois": "whois.nic.sncf",
-    "lastUpdate": "2026-08-07",
+    "lastUpdate": "2026-08-18",
     "registration": "2015-05-08"
   },
   ".so": {
@@ -12406,7 +12406,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.weibo",
-    "lastUpdate": "2026-07-06",
+    "lastUpdate": "2026-08-13",
     "registration": "2016-02-29"
   },
   ".weir": {
@@ -12986,7 +12986,7 @@
     "tldType": "gTLD",
     "nic": "http://www.sina.com",
     "whois": "whois.nic.xn--9krt00a",
-    "lastUpdate": "2026-07-06",
+    "lastUpdate": "2026-08-13",
     "registration": "2016-02-29"
   },
   ".淡马锡": {
