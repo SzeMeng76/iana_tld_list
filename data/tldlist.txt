@@ -329,7 +329,7 @@ discount -- .discount -- False -- gTLD -- https://www.identity.digital/ -- NULL 
 discover -- .discover -- False -- gTLD -- https://www.discover.com/ -- whois.nic.discover -- 2025-05-29 -- 2016-07-14
 dish -- .dish -- False -- gTLD -- http://www.dish.com/ -- whois.nic.dish -- 2025-12-12 -- 2016-08-04
 diy -- .diy -- False -- gTLD -- https://internetnaming.co -- whois.registry.click -- 2026-06-16 -- 2016-07-21
-dj -- .dj -- False -- ccTLD -- http://www.nic.dj -- NULL -- 2024-12-25 -- 1996-05-22
+dj -- .dj -- False -- ccTLD -- http://www.nic.dj -- NULL -- 2026-09-10 -- 1996-05-22
 dk -- .dk -- False -- ccTLD -- https://punktum.dk/ -- whois.punktum.dk -- 2026-06-17 -- 1987-07-14
 dm -- .dm -- False -- ccTLD -- http://www.nic.dm -- whois.dmdomains.dm -- 2024-05-29 -- 1991-09-03
 dnp -- .dnp -- False -- gTLD -- http://www.gmoregistry.com/ -- whois.nic.dnp -- 2019-08-28 -- 2014-02-27
@@ -730,7 +730,7 @@ mattel -- .mattel -- False -- gTLD -- http://www.mattel.com -- NULL -- 2025-06-1
 mba -- .mba -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2015-05-14
 mc -- .mc -- False -- ccTLD -- https://www.nic.mc/ -- whois.nic.mc -- 2025-12-15 -- 1995-01-20
 mckinsey -- .mckinsey -- False -- gTLD -- http://www.mckinsey.com/ -- whois.nic.mckinsey -- 2023-08-11 -- 2016-07-21
-md -- .md -- False -- ccTLD -- http://www.nic.md -- whois.nic.md -- 2026-03-09 -- 1994-03-24
+md -- .md -- False -- ccTLD -- http://www.nic.md -- whois.nic.md -- 2026-09-10 -- 1994-03-24
 me -- .me -- False -- ccTLD -- http://www.domain.me -- whois.nic.me -- 2020-10-19 -- 2007-09-24
 med -- .med -- False -- gTLD -- NULL -- NULL -- 2025-01-28 -- 2015-11-12
 media -- .media -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2014-04-03
@@ -746,7 +746,7 @@ mg -- .mg -- False -- ccTLD -- http://www.nic.mg -- whois.nic.mg -- 2025-10-02 -
 mh -- .mh -- False -- ccTLD -- http://www.nic.net.mh/ -- NULL -- 2013-08-03 -- 1996-08-16
 miami -- .miami -- False -- gTLD -- http://nic.miami -- whois.nic.miami -- 2024-04-17 -- 2014-02-28
 microsoft -- .microsoft -- False -- gTLD -- http://www.microsoft.com -- NULL -- 2026-02-02 -- 2015-04-30
-mil -- .mil -- False -- gTLD -- NULL -- NULL -- 2026-08-05 -- 1985-01-01
+mil -- .mil -- False -- gTLD -- NULL -- NULL -- 2026-09-11 -- 1985-01-01
 mini -- .mini -- False -- gTLD -- http://nic.mini.com -- whois.nic.mini -- 2023-11-06 -- 2014-06-05
 mint -- .mint -- False -- gTLD -- https://www.intuit.com/ -- NULL -- 2024-05-11 -- 2016-06-09
 mit -- .mit -- False -- gTLD -- http://www.mit.edu -- whois.nic.mit -- 2023-08-04 -- 2016-06-24
@@ -935,7 +935,7 @@ qpon -- .qpon -- False -- gTLD -- http://www.nic.qpon -- whois.nic.qpon -- 2023-
 quebec -- .quebec -- False -- gTLD -- http://www.registre.quebec -- whois.nic.quebec -- 2025-09-19 -- 2014-03-13
 quest -- .quest -- False -- gTLD -- https://nic.quest/ -- whois.nic.quest -- 2025-08-12 -- 2015-08-06
 racing -- .racing -- False -- gTLD -- http://nic.racing -- whois.nic.racing -- 2024-05-11 -- 2015-03-26
-radio -- .radio -- False -- gTLD -- https://www.nic.radio/ -- whois.nic.radio -- 2026-07-27 -- 2016-09-22
+radio -- .radio -- False -- gTLD -- https://www.nic.radio/ -- whois.nic.radio -- 2026-09-09 -- 2016-09-22
 re -- .re -- False -- ccTLD -- http://www.nic.re -- whois.nic.re -- 2026-05-10 -- 1997-04-07
 read -- .read -- False -- gTLD -- http://www.nic.read -- NULL -- 2025-02-14 -- 2015-11-12
 realestate -- .realestate -- False -- gTLD -- https://www.get.realtor/ -- NULL -- 2025-01-30 -- 2016-04-28
@@ -980,7 +980,7 @@ run -- .run -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10
 rw -- .rw -- False -- ccTLD -- https://registry.ricta.org.rw -- whois.ricta.org.rw -- 2025-08-26 -- 1996-10-21
 rwe -- .rwe -- False -- gTLD -- NULL -- whois.nic.rwe -- 2024-07-25 -- 2015-10-01
 ryukyu -- .ryukyu -- False -- gTLD -- http://www.gmo-registry.com/en/ -- whois.nic.ryukyu -- 2019-08-20 -- 2014-03-13
-sa -- .sa -- False -- ccTLD -- http://www.nic.net.sa/ -- whois.nic.net.sa -- 2026-02-24 -- 1994-05-17
+sa -- .sa -- False -- ccTLD -- http://www.nic.net.sa/ -- whois.nic.net.sa -- 2026-09-10 -- 1994-05-17
 saarland -- .saarland -- False -- gTLD -- http://www.nic-saarland.de -- whois.nic.saarland -- 2023-09-08 -- 2014-03-20
 safe -- .safe -- False -- gTLD -- http://www.nic.safe -- NULL -- 2025-02-14 -- 2015-11-12
 safety -- .safety -- False -- gTLD -- https://www.identity.digital -- NULL -- 2026-07-08 -- 2015-04-23
@@ -1388,7 +1388,7 @@ xn--q7ce6a -- .ລາວ -- True -- ccTLD -- https://www.la -- whois.nic.la -- 2
 xn--q9jyb4c -- .みんな -- True -- gTLD -- https://www.registry.google -- NULL -- 2025-04-11 -- 2013-11-13
 xn--qcka1pmc -- .グーグル -- True -- gTLD -- https://www.registry.google -- NULL -- 2025-04-11 -- 2014-10-09
 xn--qxa6a -- .ευ -- True -- ccTLD -- https://www.registry.eu -- whois.eu -- 2025-12-22 -- 2019-07-18
-xn--qxam -- .ελ -- True -- ccTLD -- http://www.gr -- NULL -- 2026-08-31 -- 2015-05-06
+xn--qxam -- .ελ -- True -- ccTLD -- http://www.gr -- NULL -- 2026-09-10 -- 2015-05-06
 xn--rhqv96g -- .世界 -- True -- gTLD -- http://www.stabletone.com -- NULL -- 2025-04-30 -- 2014-03-06
 xn--rovu88b -- .書籍 -- True -- gTLD -- http://www.nic.xn--rovu88b -- whois.nic.xn--rovu88b -- 2025-06-17 -- 2016-01-29
 xn--rvc1e0am3e -- .ഭാരതം -- True -- ccTLD -- https://registry.in -- whois.nixiregistry.in -- 2026-09-01 -- 2016-04-18
