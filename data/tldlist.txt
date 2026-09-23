@@ -135,7 +135,7 @@ bio -- .bio -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-09
 biz -- .biz -- False -- ccTLD -- http://www.nic.biz -- whois.nic.biz -- 2026-03-10 -- 2001-06-26
 bj -- .bj -- False -- ccTLD -- http://www.nic.bj -- whois.nic.bj -- 2023-04-14 -- 1996-01-18
 black -- .black -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-09-04 -- 2014-03-20
-blackfriday -- .blackfriday -- False -- gTLD -- http://nic.blackfriday/ -- whois.nic.blackfriday -- 2024-04-16 -- 2014-04-17
+blackfriday -- .blackfriday -- False -- gTLD -- http://nic.blackfriday/ -- whois.nic.blackfriday -- 2026-09-21 -- 2014-04-17
 blockbuster -- .blockbuster -- False -- gTLD -- http://www.dish.com/ -- whois.nic.blockbuster -- 2025-12-12 -- 2016-06-30
 blog -- .blog -- False -- gTLD -- http://nic.blog -- whois.nic.blog -- 2026-05-05 -- 2016-05-12
 bloomberg -- .bloomberg -- False -- gTLD -- NULL -- whois.nic.bloomberg -- 2023-12-05 -- 2014-10-16
@@ -448,7 +448,7 @@ gallery -- .gallery -- False -- gTLD -- https://www.identity.digital/ -- NULL --
 gallo -- .gallo -- False -- gTLD -- http://www.gallo.com -- whois.nic.gallo -- 2023-08-11 -- 2015-10-24
 gallup -- .gallup -- False -- gTLD -- http://gallup.com -- whois.nic.gallup -- 2023-08-11 -- 2015-10-15
 game -- .game -- False -- gTLD -- https://nic.game -- whois.nic.game -- 2025-08-12 -- 2015-07-02
-games -- .games -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2016-05-24
+games -- .games -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2026-09-22 -- 2016-05-24
 gap -- .gap -- False -- gTLD -- http://www.gap.com -- NULL -- 2024-05-11 -- 2016-07-14
 garden -- .garden -- False -- gTLD -- http://nic.garden/ -- whois.nic.garden -- 2024-04-16 -- 2014-10-23
 gay -- .gay -- False -- gTLD -- http://nic.gay -- whois.nic.gay -- 2024-04-16 -- 2019-07-19
@@ -617,7 +617,7 @@ joy -- .joy -- False -- gTLD -- http://www.nic.joy -- NULL -- 2025-02-14 -- 2015
 jp -- .jp -- False -- ccTLD -- https://jprs.jp/ -- whois.jprs.jp -- 2025-11-06 -- 1986-08-05
 jpmorgan -- .jpmorgan -- False -- gTLD -- http://www.jpmorganchase.com -- NULL -- 2024-05-11 -- 2016-01-14
 jprs -- .jprs -- False -- gTLD -- https://nic.jprs/ -- whois.nic.jprs -- 2025-09-30 -- 2014-12-18
-juegos -- .juegos -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-09-25 -- 2014-05-08
+juegos -- .juegos -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2026-09-22 -- 2014-05-08
 juniper -- .juniper -- False -- gTLD -- http://juniper.net -- whois.nic.juniper -- 2023-08-11 -- 2016-06-30
 kaufen -- .kaufen -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2013-12-19
 kddi -- .kddi -- False -- gTLD -- http://nic.kddi -- whois.nic.kddi -- 2019-08-20 -- 2014-12-18
@@ -642,7 +642,7 @@ kosher -- .kosher -- False -- gTLD -- http://www.ok.org/ -- whois.nic.kosher -- 
 kp -- .kp -- False -- ccTLD -- http://www.star.co.kp -- NULL -- 2026-08-05 -- 2007-09-24
 kpmg -- .kpmg -- False -- gTLD -- https://home.kpmg.com -- NULL -- 2024-05-11 -- 2016-01-14
 kpn -- .kpn -- False -- gTLD -- NULL -- NULL -- 2024-06-04 -- 2015-12-04
-kr -- .kr -- False -- ccTLD -- http://www.nic.or.kr/ -- whois.kr -- 2026-09-08 -- 1986-09-29
+kr -- .kr -- False -- ccTLD -- http://www.nic.or.kr/ -- whois.kr -- 2026-09-16 -- 1986-09-29
 krd -- .krd -- False -- gTLD -- https://dot.krd -- whois.nic.krd -- 2023-12-11 -- 2014-07-10
 kred -- .kred -- False -- gTLD -- http://www.peoplebrowsr.com -- NULL -- 2023-11-17 -- 2014-02-20
 kuokgroup -- .kuokgroup -- False -- gTLD -- http://www.kerryprops.com -- whois.nic.kuokgroup -- 2023-08-11 -- 2015-12-17
@@ -834,7 +834,7 @@ nr -- .nr -- False -- ccTLD -- http://www.cenpac.net.nr -- NULL -- 2020-03-09 --
 nra -- .nra -- False -- gTLD -- http://contact.nra.org/contact-us.aspx -- whois.nic.nra -- 2025-12-23 -- 2014-07-10
 nrw -- .nrw -- False -- gTLD -- http://mindsandmachines.com -- whois.nic.nrw -- 2023-06-13 -- 2014-05-29
 ntt -- .ntt -- False -- gTLD -- https://group.ntt/en/dotntt/ -- whois.nic.ntt -- 2025-12-11 -- 2015-01-08
-nu -- .nu -- False -- ccTLD -- https://www.internetstiftelsen.se -- whois.iis.nu -- 2025-07-03 -- 1997-06-20
+nu -- .nu -- False -- ccTLD -- https://www.internetstiftelsen.se -- whois.iis.nu -- 2026-09-17 -- 1997-06-20
 nyc -- .nyc -- False -- gTLD -- http://www.mydotnyc.com -- whois.nic.nyc -- 2024-04-17 -- 2014-03-13
 nz -- .nz -- False -- ccTLD -- http://www.dnc.org.nz/ -- whois.irs.net.nz -- 2026-08-14 -- 1987-01-19
 obi -- .obi -- False -- gTLD -- NULL -- whois.nic.obi -- 2023-08-11 -- 2015-09-03
@@ -881,7 +881,7 @@ pharmacy -- .pharmacy -- False -- gTLD -- https://nabp.pharmacy/programs/accredi
 phd -- .phd -- False -- gTLD -- https://www.registry.google -- NULL -- 2025-04-11 -- 2017-06-15
 philips -- .philips -- False -- gTLD -- http://nic.philips -- whois.nic.philips -- 2023-11-30 -- 2015-02-05
 phone -- .phone -- False -- gTLD -- https://www.dish.com/ -- whois.nic.phone -- 2025-12-12 -- 2016-12-15
-photo -- .photo -- False -- gTLD -- http://nic.photo/ -- whois.nic.photo -- 2024-04-17 -- 2014-01-16
+photo -- .photo -- False -- gTLD -- http://nic.photo/ -- whois.nic.photo -- 2026-09-21 -- 2014-01-16
 photography -- .photography -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2013-11-13
 photos -- .photos -- False -- gTLD -- https://www.identity.digital/ -- NULL -- 2025-10-07 -- 2013-12-12
 physio -- .physio -- False -- gTLD -- http://www.registry.physio -- whois.nic.physio -- 2023-12-05 -- 2014-06-05
@@ -1269,7 +1269,7 @@ xn--2scrj9c -- .ಭಾರತ -- True -- ccTLD -- https://registry.in -- whois.ni
 xn--30rr7y -- .慈善 -- True -- gTLD -- http://www.cishan.wang -- whois.gtld.zdns.cn -- 2026-05-22 -- 2015-03-12
 xn--3bst00m -- .集团 -- True -- gTLD -- http://www.jituan.wang -- whois.gtld.zdns.cn -- 2026-05-22 -- 2013-12-12
 xn--3ds443g -- .在线 -- True -- gTLD -- https://tldland.cn/ -- whois.teleinfo.cn -- 2025-12-31 -- 2013-12-19
-xn--3e0b707e -- .한국 -- True -- ccTLD -- http://www.nic.or.kr -- whois.kr -- 2026-09-04 -- 2011-02-05
+xn--3e0b707e -- .한국 -- True -- ccTLD -- http://www.nic.or.kr -- whois.kr -- 2026-09-16 -- 2011-02-05
 xn--3hcrj9c -- .ଭାରତ -- True -- ccTLD -- https://registry.in -- whois.nixiregistry.in -- 2026-09-01 -- 2016-04-18
 xn--3pxu8k -- .点看 -- True -- gTLD -- http://www.verisigninc.com -- whois.nic.xn--3pxu8k -- 2026-03-30 -- 2015-07-02
 xn--42c2d9a -- .คอม -- True -- gTLD -- http://www.verisigninc.com -- whois.nic.xn--42c2d9a -- 2026-03-30 -- 2015-07-02

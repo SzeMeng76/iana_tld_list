@@ -3316,7 +3316,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.dj",
     "whois": "NULL",
-    "lastUpdate": "2024-12-25",
+    "lastUpdate": "2026-09-10",
     "registration": "1996-05-22"
   },
   ".dk": {
@@ -7326,7 +7326,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.md",
     "whois": "whois.nic.md",
-    "lastUpdate": "2026-03-09",
+    "lastUpdate": "2026-09-10",
     "registration": "1994-03-24"
   },
   ".me": {
@@ -7486,7 +7486,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "NULL",
-    "lastUpdate": "2026-08-05",
+    "lastUpdate": "2026-09-11",
     "registration": "1985-01-01"
   },
   ".mini": {
@@ -9376,7 +9376,7 @@
     "tldType": "gTLD",
     "nic": "https://www.nic.radio/",
     "whois": "whois.nic.radio",
-    "lastUpdate": "2026-07-27",
+    "lastUpdate": "2026-09-09",
     "registration": "2016-09-22"
   },
   ".re": {
@@ -9826,7 +9826,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.net.sa/",
     "whois": "whois.nic.net.sa",
-    "lastUpdate": "2026-02-24",
+    "lastUpdate": "2026-09-10",
     "registration": "1994-05-17"
   },
   ".saarland": {
@@ -13906,7 +13906,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.gr",
     "whois": "NULL",
-    "lastUpdate": "2026-08-31",
+    "lastUpdate": "2026-09-10",
     "registration": "2015-05-06"
   },
   ".世界": {
