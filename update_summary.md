@@ -1,10 +1,12 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-09-30 08:02:02 UTC
+🕐 **Update Time**: 2026-10-07 02:25:44 UTC
 
-📈 **Total TLDs**: 1438
+📈 **Total TLDs**: 1437
 
-✅ **No TLD changes, data refreshed**
+🗑️ **Removed TLDs**:
+  - .juniper
+
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
