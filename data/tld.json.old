@@ -3196,7 +3196,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.design/",
     "whois": "whois.nic.design",
-    "lastUpdate": "2024-04-16",
+    "lastUpdate": "2026-09-30",
     "registration": "2014-12-18"
   },
   ".dev": {
@@ -3526,7 +3526,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.ec",
     "whois": "whois.nic.ec",
-    "lastUpdate": "2024-04-10",
+    "lastUpdate": "2026-10-01",
     "registration": "1991-02-01"
   },
   ".eco": {
@@ -4096,7 +4096,7 @@
     "tldType": "gTLD",
     "nic": "http://nic.fishing/",
     "whois": "whois.nic.fishing",
-    "lastUpdate": "2024-04-16",
+    "lastUpdate": "2026-09-30",
     "registration": "2014-02-28"
   },
   ".fit": {
@@ -6186,7 +6186,7 @@
     "tldType": "gTLD",
     "nic": "https://nic.jprs/",
     "whois": "whois.nic.jprs",
-    "lastUpdate": "2025-09-30",
+    "lastUpdate": "2026-09-30",
     "registration": "2014-12-18"
   },
   ".juegos": {
@@ -6198,16 +6198,6 @@
     "whois": "NULL",
     "lastUpdate": "2026-09-22",
     "registration": "2014-05-08"
-  },
-  ".juniper": {
-    "tld": "juniper",
-    "dm": ".juniper",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://juniper.net",
-    "whois": "whois.nic.juniper",
-    "lastUpdate": "2023-08-11",
-    "registration": "2016-06-30"
   },
   ".kaufen": {
     "tld": "kaufen",
@@ -6436,7 +6426,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "NULL",
-    "lastUpdate": "2026-09-28",
+    "lastUpdate": "2026-10-05",
     "registration": "2015-12-04"
   },
   ".kr": {
@@ -11396,7 +11386,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.tj",
     "whois": "NULL",
-    "lastUpdate": "2020-03-09",
+    "lastUpdate": "2026-10-05",
     "registration": "1997-12-11"
   },
   ".tjmaxx": {
@@ -12005,8 +11995,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "http://nic.versicherung",
-    "whois": "whois.nic.versicherung",
-    "lastUpdate": "2026-04-29",
+    "whois": "NULL",
+    "lastUpdate": "2026-10-05",
     "registration": "2014-05-15"
   },
   ".vet": {
@@ -12845,8 +12835,8 @@
     "isIDN": "True",
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
-    "whois": "whois.nic.xn--5tzm5g",
-    "lastUpdate": "2025-01-20",
+    "whois": "NULL",
+    "lastUpdate": "2026-10-06",
     "registration": "2015-12-04"
   },
   ".移动": {
