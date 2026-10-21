@@ -1,10 +1,32 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-10-14 02:14:38 UTC
+🕐 **Update Time**: 2026-10-21 02:29:20 UTC
 
-📈 **Total TLDs**: 1437
+📈 **Total TLDs**: 0
 
-✅ **No TLD changes, data refreshed**
+🗑️ **Removed TLDs**:
+  - .aaa
+  - .aarp
+  - .abb
+  - .abbott
+  - .abbvie
+  - .abc
+  - .able
+  - .abogado
+  - .abudhabi
+  - .ac
+  - .academy
+  - .accenture
+  - .accountant
+  - .accountants
+  - .aco
+  - .actor
+  - .ad
+  - .ads
+  - .adult
+  - .ae
+  - ... and 1417 more
+
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
