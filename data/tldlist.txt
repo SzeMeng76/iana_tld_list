@@ -521,7 +521,6 @@ hdfcbank -- NULL -- False -- gTLD -- NULL -- NULL -- NULL -- NULL
 health -- NULL -- False -- gTLD -- NULL -- NULL -- NULL -- NULL
 healthcare -- NULL -- False -- gTLD -- NULL -- NULL -- NULL -- NULL
 help -- NULL -- False -- gTLD -- NULL -- NULL -- NULL -- NULL
-helsinki -- NULL -- False -- gTLD -- NULL -- NULL -- NULL -- NULL
 here -- NULL -- False -- gTLD -- NULL -- NULL -- NULL -- NULL
 hermes -- NULL -- False -- gTLD -- NULL -- NULL -- NULL -- NULL
 hiphop -- NULL -- False -- gTLD -- NULL -- NULL -- NULL -- NULL
