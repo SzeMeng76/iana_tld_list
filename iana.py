@@ -195,36 +195,60 @@ class IANA:
 
         # extract regex patterns with postprocessing
         zz = {
+            # Each field lists the current IANA page layout first and the
+            # legacy layout second, so a future redesign only needs a new regex.
             "dm": {
                 # NOTE THIS CAN BE UTF8
-                "reg": r"<title>(.*) Domain Delegation Data</title>",
-                "func": lambda x: x[0],
+                "reg": [
+                    r"<title>(.*) Top-Level Domain</title>",
+                    r"<title>(.*) Domain Delegation Data</title>",
+                ],
+                "func": lambda x: x[0].strip(),
             },
             "nic": {
-                "reg": r'<b>URL for registration services:</b> <a href="[^"]+">(.*)</a><br/>',
+                "reg": [
+                    r'Website</div>\s*<div class="col">\s*<a href="[^"]+">(.*?)</a>',
+                    r'<b>URL for registration services:</b> <a href="[^"]+">(.*)</a><br/>',
+                ],
                 "func": lambda x: x[0],
             },
             "whois": {
-                "reg": r"<b>WHOIS Server:</b>\s*([\w.-]+)\s*",
+                "reg": [
+                    r'WHOIS Server</div>\s*<div class="col-4">\s*([\w.-]+)\s*</div>',
+                    r"<b>WHOIS Server:</b>\s*([\w.-]+)\s*",
+                ],
                 "func": lambda x: x[0].rstrip().lower(),
             },
             "lastUpdate": {
-                "reg": r"Record last updated\s+(\d{4}-\d{2}-\d{2})",
+                "reg": [
+                    r'Last Updated</div>\s*<div class="col-8">\s*(\d{4}-\d{2}-\d{2})',
+                    r"Record last updated\s+(\d{4}-\d{2}-\d{2})",
+                ],
                 "func": lambda x: x[0].lower(),
             },
             "registration": {
-                "reg": r"Registration date\s+(\d{4}-\d{2}-\d{2})",
+                # no longer shown on the new IANA pages; stays NULL
+                "reg": [
+                    r"Registration date\s+(\d{4}-\d{2}-\d{2})",
+                ],
                 "func": lambda x: x[0].lower(),
             },
         }
 
         for k in zz:
-            s = zz[k]["reg"]
-            f = zz[k]["func"]
-            xx = re.compile(s).findall(content)
             output[k] = str("NULL")
-            if len(xx):
-                output[k] = f(xx)
+            for s in zz[k]["reg"]:
+                xx = re.compile(s).findall(content)
+                if len(xx):
+                    output[k] = zz[k]["func"](xx)
+                    break
+
+        # "dm" is the key of the JSON output. If it cannot be parsed the page
+        # layout has changed; fail loudly instead of writing an empty file.
+        if output["dm"] == "NULL":
+            raise RuntimeError(
+                f"could not parse domain name for tld '{tld}': IANA page layout changed?"
+            )
 
         # --------------------------------------
         k = "isIDN"
