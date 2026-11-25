@@ -266,7 +266,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.nic.ag",
     "whois": "whois.nic.ag",
-    "lastUpdate": "2026-10-16",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".agakhan": {
@@ -296,7 +296,7 @@
     "tldType": "ccTLD",
     "nic": "https://nic.ai",
     "whois": "whois.nic.ai",
-    "lastUpdate": "2026-10-30",
+    "lastUpdate": "2026-11-17",
     "registration": "NULL"
   },
   ".aig": {
@@ -1286,7 +1286,7 @@
     "tldType": "gTLD",
     "nic": "http://get.bible",
     "whois": "whois.nic.bible",
-    "lastUpdate": "2024-05-11",
+    "lastUpdate": "2026-11-19",
     "registration": "NULL"
   },
   ".bid": {
@@ -1916,7 +1916,7 @@
     "tldType": "gTLD",
     "nic": "http://registry.net.za",
     "whois": "whois.nic.capetown",
-    "lastUpdate": "2025-08-05",
+    "lastUpdate": "2026-11-23",
     "registration": "NULL"
   },
   ".capital": {
@@ -1936,7 +1936,7 @@
     "tldType": "gTLD",
     "nic": "http://www.capitalone.com",
     "whois": "whois.nic.capitalone",
-    "lastUpdate": "2026-11-16",
+    "lastUpdate": "2026-11-19",
     "registration": "NULL"
   },
   ".car": {
@@ -1956,7 +1956,7 @@
     "tldType": "gTLD",
     "nic": "http://www.caravan.com",
     "whois": "-",
-    "lastUpdate": "2024-05-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".cards": {
@@ -2086,7 +2086,7 @@
     "tldType": "gTLD",
     "nic": "http://www.commbank.com.au",
     "whois": "whois.nic.cba",
-    "lastUpdate": "2026-08-04",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".cbn": {
@@ -3466,7 +3466,7 @@
     "tldType": "gTLD",
     "nic": "http://www.registry.net.za",
     "whois": "whois.nic.durban",
-    "lastUpdate": "2025-08-05",
+    "lastUpdate": "2026-11-23",
     "registration": "NULL"
   },
   ".dvag": {
@@ -4655,8 +4655,8 @@
     "isIDN": "False",
     "tldType": "gTLD",
     "nic": "http://nic.ggee",
-    "whois": "whois.nic.ggee",
-    "lastUpdate": "2019-08-07",
+    "whois": "-",
+    "lastUpdate": "2026-11-24",
     "registration": "NULL"
   },
   ".gh": {
@@ -5226,7 +5226,7 @@
     "tldType": "gTLD",
     "nic": "https://nic.help",
     "whois": "whois.nic.help",
-    "lastUpdate": "2024-01-04",
+    "lastUpdate": "2026-11-18",
     "registration": "NULL"
   },
   ".here": {
@@ -6126,7 +6126,7 @@
     "tldType": "gTLD",
     "nic": "http://www.registry.net.za",
     "whois": "whois.nic.joburg",
-    "lastUpdate": "2025-08-05",
+    "lastUpdate": "2026-11-23",
     "registration": "NULL"
   },
   ".jot": {
@@ -7316,7 +7316,7 @@
     "tldType": "ccTLD",
     "nic": "http://www.domain.me",
     "whois": "whois.nic.me",
-    "lastUpdate": "2020-10-19",
+    "lastUpdate": "2026-11-23",
     "registration": "NULL"
   },
   ".med": {
@@ -8196,7 +8196,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".nissan": {
@@ -8486,7 +8486,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".online": {
@@ -8526,7 +8526,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "whois.nic.oracle",
-    "lastUpdate": "2026-11-09",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".orange": {
@@ -8556,7 +8556,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".origins": {
@@ -8666,7 +8666,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".parts": {
@@ -8676,7 +8676,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".party": {
@@ -8726,7 +8726,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".pf": {
@@ -8826,7 +8826,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".photos": {
@@ -8836,7 +8836,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".physio": {
@@ -8876,7 +8876,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".pid": {
@@ -8916,7 +8916,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".pioneer": {
@@ -8936,7 +8936,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".pk": {
@@ -8966,7 +8966,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".play": {
@@ -8996,7 +8996,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".plus": {
@@ -9006,7 +9006,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".pm": {
@@ -9056,7 +9056,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".politie": {
@@ -9095,8 +9095,8 @@
     "isIDN": "False",
     "tldType": "ccTLD",
     "nic": "http://www.nic.pr",
-    "whois": "whois.afilias-srs.net",
-    "lastUpdate": "2022-07-20",
+    "whois": "whois.identitydigital.services",
+    "lastUpdate": "2026-11-18",
     "registration": "NULL"
   },
   ".praxi": {
@@ -9156,7 +9156,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".prof": {
@@ -9186,7 +9186,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".properties": {
@@ -9196,7 +9196,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".property": {
@@ -9266,7 +9266,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".pw": {
@@ -9416,7 +9416,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".red": {
@@ -9426,7 +9426,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".redumbrella": {
@@ -9446,7 +9446,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".reise": {
@@ -9456,7 +9456,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".reisen": {
@@ -9466,7 +9466,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".reit": {
@@ -9516,7 +9516,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".repair": {
@@ -9526,7 +9526,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".report": {
@@ -9536,7 +9536,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".republican": {
@@ -9546,7 +9546,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".rest": {
@@ -9566,7 +9566,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".review": {
@@ -9586,7 +9586,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".rexroth": {
@@ -9606,7 +9606,7 @@
     "tldType": "gTLD",
     "nic": "http://www.i-registry.com",
     "whois": "whois.nic.rich",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".richardli": {
@@ -9656,7 +9656,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".ro": {
@@ -9676,7 +9676,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".rodeo": {
@@ -9766,7 +9766,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".rw": {
@@ -9836,7 +9836,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".sakura": {
@@ -9856,7 +9856,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".salon": {
@@ -9866,7 +9866,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".samsclub": {
@@ -9936,7 +9936,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".sas": {
@@ -9986,7 +9986,7 @@
     "tldType": "gTLD",
     "nic": "https://www.sbi.co.in",
     "whois": "whois.nic.sbi",
-    "lastUpdate": "2023-08-16",
+    "lastUpdate": "2026-11-19",
     "registration": "NULL"
   },
   ".sbs": {
@@ -10046,7 +10046,7 @@
     "tldType": "gTLD",
     "nic": "http://www.scholarships.com",
     "whois": "whois.nic.scholarships",
-    "lastUpdate": "2026-11-13",
+    "lastUpdate": "2026-11-23",
     "registration": "NULL"
   },
   ".school": {
@@ -10056,7 +10056,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".schule": {
@@ -10066,7 +10066,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".schwarz": {
@@ -10196,7 +10196,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".seven": {
@@ -10316,7 +10316,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".shoes": {
@@ -10326,7 +10326,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".shop": {
@@ -10346,7 +10346,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".shouji": {
@@ -10366,7 +10366,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".si": {
@@ -10406,7 +10406,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".site": {
@@ -10446,7 +10446,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".skin": {
@@ -10566,7 +10566,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".social": {
@@ -10576,7 +10576,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".softbank": {
@@ -10596,7 +10596,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".sohu": {
@@ -10616,7 +10616,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".solutions": {
@@ -10626,7 +10626,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".song": {
@@ -10636,7 +10636,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.song",
     "whois": "whois.nic.song",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".sony": {
@@ -10666,7 +10666,7 @@
     "tldType": "gTLD",
     "nic": "https://nic.spa",
     "whois": "whois.nic.spa",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".space": {
@@ -10746,7 +10746,7 @@
     "tldType": "gTLD",
     "nic": "http://www.stada.com",
     "whois": "whois.nic.stada",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".staples": {
@@ -10776,7 +10776,7 @@
     "tldType": "gTLD",
     "nic": "https://www.sbi.co.in",
     "whois": "whois.nic.statebank",
-    "lastUpdate": "2023-08-16",
+    "lastUpdate": "2026-11-19",
     "registration": "NULL"
   },
   ".statefarm": {
@@ -10856,7 +10856,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".study": {
@@ -10876,7 +10876,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-10",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".su": {
@@ -10906,7 +10906,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".supply": {
@@ -10916,7 +10916,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".support": {
@@ -10926,7 +10926,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".surf": {
@@ -10946,7 +10946,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".suzuki": {
@@ -11026,7 +11026,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".sz": {
@@ -11126,7 +11126,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".taxi": {
@@ -11136,7 +11136,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".tc": {
@@ -11186,7 +11186,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".tech": {
@@ -11206,7 +11206,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".tel": {
@@ -11236,7 +11236,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".teva": {
@@ -11296,7 +11296,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".theatre": {
@@ -11336,7 +11336,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".tips": {
@@ -11346,7 +11346,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".tires": {
@@ -11356,7 +11356,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-11",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".tirol": {
@@ -11476,7 +11476,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".tokyo": {
@@ -11496,7 +11496,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".top": {
@@ -11546,7 +11546,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".town": {
@@ -11556,7 +11556,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".toyota": {
@@ -11576,7 +11576,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".tr": {
@@ -11606,7 +11606,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".training": {
@@ -11616,7 +11616,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".travel": {
@@ -11626,7 +11626,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".travelers": {
@@ -11736,7 +11736,7 @@
     "tldType": "gTLD",
     "nic": "http://www.tvs.in",
     "whois": "whois.nic.tvs",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".tw": {
@@ -11826,7 +11826,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".uno": {
@@ -11906,7 +11906,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".vana": {
@@ -11956,7 +11956,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.vegas",
     "whois": "whois.nic.vegas",
-    "lastUpdate": "2026-11-13",
+    "lastUpdate": "2026-11-23",
     "registration": "NULL"
   },
   ".ventures": {
@@ -11966,7 +11966,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".verisign": {
@@ -11996,7 +11996,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".vg": {
@@ -12026,7 +12026,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".video": {
@@ -12036,7 +12036,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".vig": {
@@ -12066,7 +12066,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".vin": {
@@ -12076,7 +12076,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".vip": {
@@ -12116,7 +12116,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".viva": {
@@ -12186,7 +12186,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".voting": {
@@ -12206,7 +12206,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".voyage": {
@@ -12216,7 +12216,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".vu": {
@@ -12286,7 +12286,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".watches": {
@@ -12296,7 +12296,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".weather": {
@@ -12346,7 +12346,7 @@
     "tldType": "gTLD",
     "nic": "NULL",
     "whois": "whois.nic.weber",
-    "lastUpdate": "2025-12-17",
+    "lastUpdate": "2026-11-19",
     "registration": "NULL"
   },
   ".website": {
@@ -12476,7 +12476,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".winners": {
@@ -12526,7 +12526,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".world": {
@@ -12536,7 +12536,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".wow": {
@@ -12576,7 +12576,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".xbox": {
@@ -12599,16 +12599,6 @@
     "lastUpdate": "2024-05-11",
     "registration": "NULL"
   },
-  ".xihuan": {
-    "tld": "xihuan",
-    "dm": ".xihuan",
-    "isIDN": "False",
-    "tldType": "gTLD",
-    "nic": "http://www.teleinfo.cn",
-    "whois": "whois.teleinfo.cn",
-    "lastUpdate": "2026-08-11",
-    "registration": "NULL"
-  },
   ".xin": {
     "tld": "xin",
     "dm": ".xin",
@@ -12616,7 +12606,7 @@
     "tldType": "gTLD",
     "nic": "http://www.dotxin.org",
     "whois": "whois.nic.xin",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".कॉम": {
@@ -12636,7 +12626,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.xn--1ck2e1b",
     "whois": "whois.nic.xn--1ck2e1b",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".佛山": {
@@ -12826,7 +12816,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".移动": {
@@ -12836,7 +12826,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".我爱你": {
@@ -12986,7 +12976,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.xn--bck1b9a5dre4c",
     "whois": "whois.nic.xn--bck1b9a5dre4c",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".орг": {
@@ -13016,7 +13006,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.xn--cck2b3b",
     "whois": "whois.nic.xn--cck2b3b",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".アマゾン": {
@@ -13066,7 +13056,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".商城": {
@@ -13116,7 +13106,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.xn--eckvdtc9d",
     "whois": "whois.nic.xn--eckvdtc9d",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".新闻": {
@@ -13136,7 +13126,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.xn--fct429k",
     "whois": "whois.nic.xn--fct429k",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".كوم": {
@@ -13196,7 +13186,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".谷歌": {
@@ -13256,7 +13246,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.xn--gckr3f0f",
     "whois": "whois.nic.xn--gckr3f0f",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".ભારત": {
@@ -13276,7 +13266,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.xn--gk3at1e",
     "whois": "whois.nic.xn--gk3at1e",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".भारतम्": {
@@ -13396,7 +13386,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.xn--jvr189m",
     "whois": "whois.nic.xn--jvr189m",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".飞利浦": {
@@ -13906,7 +13896,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.xn--rovu88b",
     "whois": "whois.nic.xn--rovu88b",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".ഭാരതം": {
@@ -13976,7 +13966,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".vermögensberater": {
@@ -14006,7 +13996,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".信息": {
@@ -14296,7 +14286,7 @@
     "tldType": "gTLD",
     "nic": "http://www.zara.com",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".zero": {
@@ -14306,7 +14296,7 @@
     "tldType": "gTLD",
     "nic": "http://www.nic.zero",
     "whois": "whois.nic.zero",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".zip": {
@@ -14336,7 +14326,7 @@
     "tldType": "gTLD",
     "nic": "https://www.identity.digital/",
     "whois": "-",
-    "lastUpdate": "2026-11-12",
+    "lastUpdate": "2026-11-20",
     "registration": "NULL"
   },
   ".zuerich": {

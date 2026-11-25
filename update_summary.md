@@ -1,10 +1,12 @@
 📊 **TLD Data Update Report**
 
-🕐 **Update Time**: 2026-11-18 02:24:25 UTC
+🕐 **Update Time**: 2026-11-25 02:20:01 UTC
 
-📈 **Total TLDs**: 1436
+📈 **Total TLDs**: 1435
 
-✅ **No TLD changes, data refreshed**
+🗑️ **Removed TLDs**:
+  - .xihuan
+
 
 🔄 **Data Source**: [IANA Root Zone Database](https://www.iana.org/domains/root/db/)
 🤖 **Auto-updated**: GitHub Actions
